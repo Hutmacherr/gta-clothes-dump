@@ -796,14 +796,14 @@ ComponentID,DrawableID,TextureID,Name,TorsoComponentID,TorsoDrawableID,TorsoText
 11,153,10,"Flash-Seidenjacke",3,4,0
 11,153,11,"Grotti-Seidenjacke",3,4,0
 11,153,12,"Howitzer-Seidenjacke",3,4,0
-11,153,13,""Imponte Racing"-Seidenjacke",3,4,0
-11,153,14,""Love Fist"-Seidenjacke",3,4,0
-11,153,15,""Malibu Club"-Seidenjacke",3,4,0
+11,153,13,"""Imponte Racing""-Seidenjacke",3,4,0
+11,153,14,"""Love Fist""-Seidenjacke",3,4,0
+11,153,15,"""Malibu Club""-Seidenjacke",3,4,0
 11,153,16,"Nagasaki-Seidenjacke",3,4,0
-11,153,17,""Rebel Radio"-Seidenjacke",3,4,0
-11,153,18,""Steel Horse"-Seidenjacke",3,4,0
-11,153,19,""Me TV"-Seidenjacke",3,4,0
-11,153,20,""Vice Squad"-Seidenjacke",3,4,0
+11,153,17,"""Rebel Radio""-Seidenjacke",3,4,0
+11,153,18,"""Steel Horse""-Seidenjacke",3,4,0
+11,153,19,"""Me TV""-Seidenjacke",3,4,0
+11,153,20,"""Vice Squad""-Seidenjacke",3,4,0
 11,153,21,"V-Rock-Seidenjacke",3,4,0
 11,154,0,"Ruiner-Rennjacke",3,12,0
 11,154,1,"Banshee-Rennjacke",3,12,0
@@ -1701,7 +1701,7 @@ ComponentID,DrawableID,TextureID,Name,TorsoComponentID,TorsoDrawableID,TorsoText
 11,245,4,"Hässlicher T-Rex-Pullover",3,6,0
 11,245,5,"Hässlicher Humbug-Pullover",3,6,0
 11,245,6,"Hässl. Zuckerstangenpullover",3,6,0
-11,245,7,"Hässlicher "Believe"-Pullover",3,6,0
+11,245,7,"Hässlicher ""Believe""-Pullover",3,6,0
 11,245,8,"Hässlicher Rentier-Pullover",3,6,0
 11,245,9,"Hässlicher Elfen-Pullover",3,6,0
 11,247,0,"Schwarze taktische Weste",3,114,0
@@ -1967,12 +1967,12 @@ ComponentID,DrawableID,TextureID,Name,TorsoComponentID,TorsoDrawableID,TorsoText
 11,268,2,"Graue DS-Jacke (offen)",3,14,0
 11,268,3,"Rote DS-Jacke (offen)",3,14,0
 11,268,4,"Ockerfarbene DS-Jacke (offen)",3,14,0
-11,269,0,""Vibrant Gradient"-Wachsjacke",3,1,0
-11,269,1,""Vivid Gradient"-Wachsjacke",3,1,0
-11,269,2,""Urban Gradient"-Wachsjacke",3,1,0
-11,269,3,""Cool Gradient"-Wachsjacke",3,1,0
-11,269,4,"Grüne "Gradient"-Wachsjacke",3,1,0
-11,269,5,""Dusk Gradient"-Wachsjacke",3,1,0
+11,269,0,"""Vibrant Gradient""-Wachsjacke",3,1,0
+11,269,1,"""Vivid Gradient""-Wachsjacke",3,1,0
+11,269,2,"""Urban Gradient""-Wachsjacke",3,1,0
+11,269,3,"""Cool Gradient""-Wachsjacke",3,1,0
+11,269,4,"Grüne ""Gradient""-Wachsjacke",3,1,0
+11,269,5,"""Dusk Gradient""-Wachsjacke",3,1,0
 11,269,6,"Grüne Leoparden-Wachsjacke",3,1,0
 11,269,7,"Beige Leoparden-Wachsjacke",3,1,0
 11,269,8,"Zyanf. Leoparden-Wachsjacke",3,1,0
@@ -1984,20 +1984,20 @@ ComponentID,DrawableID,TextureID,Name,TorsoComponentID,TorsoDrawableID,TorsoText
 11,269,14,"Schwarze Marken-Wachsjacke",3,1,0
 11,269,15,"Weiße Marken-Wachsjacke",3,1,0
 11,271,0,"T-Shirt mit Rundausschnitt",3,0,0
-11,271,1,"Weißes Zickzack-"Manor"-T-Shirt",3,0,0
-11,271,2,"Weißes "Manor"-T-Shirt",3,0,0
-11,271,3,"Lila "Manor"-T-Shirt",3,0,0
-11,271,4,"Mintgrünes "Manor"-T-Shirt",3,0,0
-11,271,5,"Weiß gestr. "Manor"-T-Shirt",3,0,0
-11,271,6,"Schwarz gestr. "Manor"-T-Shirt",3,0,0
-11,271,7,"Grüne-Welt-"Blagueurs"-T-Shirt",3,0,0
-11,271,8,"Lila-Welt-"Blagueurs"-T-Shirt",3,0,0
-11,271,9,""Blagueurs"-Marken-T-Shirt",3,0,0
-11,271,10,""Blagueurs LS"-T-Shirt",3,0,0
-11,271,11,""Blagueurs"-Streifen-T-Shirt",3,0,0
-11,271,12,""Blagueurs"-Sport-T-Shirt",3,0,0
-11,271,13,"Türkises "Blagueurs LS"-T-Shirt",3,0,0
-11,271,14,"SW-"Blagueurs LS"-T-Shirt",3,0,0
+11,271,1,"Weißes Zickzack-""Manor""-T-Shirt",3,0,0
+11,271,2,"Weißes ""Manor""-T-Shirt",3,0,0
+11,271,3,"Lila ""Manor""-T-Shirt",3,0,0
+11,271,4,"Mintgrünes ""Manor""-T-Shirt",3,0,0
+11,271,5,"Weiß gestr. ""Manor""-T-Shirt",3,0,0
+11,271,6,"Schwarz gestr. ""Manor""-T-Shirt",3,0,0
+11,271,7,"Grüne-Welt-""Blagueurs""-T-Shirt",3,0,0
+11,271,8,"Lila-Welt-""Blagueurs""-T-Shirt",3,0,0
+11,271,9,"""Blagueurs""-Marken-T-Shirt",3,0,0
+11,271,10,"""Blagueurs LS""-T-Shirt",3,0,0
+11,271,11,"""Blagueurs""-Streifen-T-Shirt",3,0,0
+11,271,12,"""Blagueurs""-Sport-T-Shirt",3,0,0
+11,271,13,"Türkises ""Blagueurs LS""-T-Shirt",3,0,0
+11,271,14,"SW-""Blagueurs LS""-T-Shirt",3,0,0
 11,271,15,"Lachsfarbenes SC-T-Shirt",3,0,0
 11,271,16,"Blaues SC-T-Shirt",3,0,0
 11,271,17,"Gelbes SC-T-Shirt",3,0,0
