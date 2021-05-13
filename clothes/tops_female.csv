@@ -69,7 +69,7 @@ ComponentID,DrawableID,TextureID,Name,TorsoComponentID,TorsoDrawableID,TorsoText
 11,8,2,"Schwarze gekürzte Bikerweste",3,-1,-1
 11,8,12,"Weiße gekürzte Bikerweste",3,-1,-1
 11,9,0,"Anthrazitgraues Hemd",3,-1,-1
-11,9,1,"Weißes Hemd"",3,-1,-1
+11,9,1,"Weißes Hemd",3,-1,-1
 11,9,2,"Himmelblaues Hemd",3,-1,-1
 11,9,3,"Olivgrünes Hemd",3,-1,-1
 11,9,4,"Pfirsichfarbenes Hemd",3,-1,-1
@@ -800,14 +800,14 @@ ComponentID,DrawableID,TextureID,Name,TorsoComponentID,TorsoDrawableID,TorsoText
 11,150,10,"Flash-Seidenjacke",3,3,0
 11,150,11,"Grotti-Seidenjacke",3,3,0
 11,150,12,"Howitzer-Seidenjacke",3,3,0
-11,150,13,""Imponte Racing"-Seidenjacke",3,3,0
-11,150,14,""Love Fist"-Seidenjacke",3,3,0
-11,150,15,""Malibu Club"-Seidenjacke",3,3,0
+11,150,13,"""Imponte Racing""-Seidenjacke",3,3,0
+11,150,14,"""Love Fist""-Seidenjacke",3,3,0
+11,150,15,"""Malibu Club""-Seidenjacke",3,3,0
 11,150,16,"Nagasaki-Seidenjacke",3,3,0
-11,150,17,""Rebel Radio"-Seidenjacke",3,3,0
-11,150,18,""Steel Horse"-Seidenjacke",3,3,0
-11,150,19,""Me TV"-Seidenjacke",3,3,0
-11,150,20,""Vice Squad"-Seidenjacke",3,3,0
+11,150,17,"""Rebel Radio""-Seidenjacke",3,3,0
+11,150,18,"""Steel Horse""-Seidenjacke",3,3,0
+11,150,19,"""Me TV""-Seidenjacke",3,3,0
+11,150,20,"""Vice Squad""-Seidenjacke",3,3,0
 11,150,21,"V-Rock-Seidenjacke",3,3,0
 11,151,0,"Ruiner-Rennjacke",3,1,0
 11,151,1,"Banshee-Rennjacke",3,1,0
@@ -1865,7 +1865,7 @@ ComponentID,DrawableID,TextureID,Name,TorsoComponentID,TorsoDrawableID,TorsoText
 11,253,4,"Hässlicher T-Rex-Pullover",3,1,0
 11,253,5,"Hässlicher Humbug-Pullover",3,1,0
 11,253,6,"Hässl. Zuckerstangenpullover",3,1,0
-11,253,7,"Hässlicher "Believe"-Pullover",3,1,0
+11,253,7,"Hässlicher ""Believe""-Pullover",3,1,0
 11,253,8,"Hässlicher Rentier-Pullover",3,1,0
 11,253,9,"Hässlicher Elfen-Pullover",3,1,0
 11,255,0,"Schwarze taktische Weste",3,131,0
@@ -1920,28 +1920,28 @@ ComponentID,DrawableID,TextureID,Name,TorsoComponentID,TorsoDrawableID,TorsoText
 11,256,23,"Weiß-tarnfarb. takt. Halbmantel",3,9,0
 11,256,24,"Anthrazitgr. takt. Halbmantel",3,9,0
 11,256,25,"Braun-blauer takt. Halbmantel",3,9,0
-11,264,0,"Weiß-oranges "Bigness"-Trikot",3,3,0
-11,264,1,"Oranges "Bigness"-Trikot",3,3,0
-11,264,2,"Weiß-rotes "Bigness"-Trikot",3,3,0
-11,264,3,"Schwarz-zyanf. "Bigness"-Trikot",3,3,0
-11,264,4,"Rosa "Bigness"-Trikot",3,3,0
-11,264,5,"Weiß-violettes "Bigness"-Trikot",3,3,0
-11,264,6,"Blaues "Bigness"-Trikot",3,3,0
-11,264,7,"Violettes "Bigness"-Trikot",3,3,0
-11,264,8,"Blaues "Bigness"-Trikot",3,3,0
-11,264,9,"Weiß-goldenes "Bigness"-Trikot",3,3,0
-11,264,10,"Pink-schwarzes "Bigness"-Trikot",3,3,0
-11,264,11,"Schwarz-zyanf. "Bigness"-Trikot",3,3,0
-11,264,12,"Grün-schwarzes "Bigness"-Trikot",3,3,0
-11,264,13,"Rot-schwarzes "Bigness"-Trikot",3,3,0
-11,264,14,"Türkises "Bigness"-Trikot",3,3,0
-11,264,15,"Dunkles "Bigness"-Trikot",3,3,0
-11,264,16,"Blau-gelbes "Bigness"-Trikot",3,3,0
-11,264,17,"Schwarz-rotes "Bigness"-Trikot",3,3,0
-11,264,18,"Violettes "Bigness"-Trikot",3,3,0
-11,264,19,"Gelbes "Bigness"-Trikot",3,3,0
-11,264,20,"Orangerotes "Bigness"-Trikot",3,3,0
-11,264,21,"Weiß-grünes "Bigness"-Trikot",3,3,0
+11,264,0,"Weiß-oranges ""Bigness""-Trikot",3,3,0
+11,264,1,"Oranges ""Bigness""-Trikot",3,3,0
+11,264,2,"Weiß-rotes ""Bigness""-Trikot",3,3,0
+11,264,3,"Schwarz-zyanf. ""Bigness""-Trikot",3,3,0
+11,264,4,"Rosa ""Bigness""-Trikot",3,3,0
+11,264,5,"Weiß-violettes ""Bigness""-Trikot",3,3,0
+11,264,6,"Blaues ""Bigness""-Trikot",3,3,0
+11,264,7,"Violettes ""Bigness""-Trikot",3,3,0
+11,264,8,"Blaues ""Bigness""-Trikot",3,3,0
+11,264,9,"Weiß-goldenes ""Bigness""-Trikot",3,3,0
+11,264,10,"Pink-schwarzes ""Bigness""-Trikot",3,3,0
+11,264,11,"Schwarz-zyanf. ""Bigness""-Trikot",3,3,0
+11,264,12,"Grün-schwarzes ""Bigness""-Trikot",3,3,0
+11,264,13,"Rot-schwarzes ""Bigness""-Trikot",3,3,0
+11,264,14,"Türkises ""Bigness""-Trikot",3,3,0
+11,264,15,"Dunkles ""Bigness""-Trikot",3,3,0
+11,264,16,"Blau-gelbes ""Bigness""-Trikot",3,3,0
+11,264,17,"Schwarz-rotes ""Bigness""-Trikot",3,3,0
+11,264,18,"Violettes ""Bigness""-Trikot",3,3,0
+11,264,19,"Gelbes ""Bigness""-Trikot",3,3,0
+11,264,20,"Orangerotes ""Bigness""-Trikot",3,3,0
+11,264,21,"Weiß-grünes ""Bigness""-Trikot",3,3,0
 11,265,0,"Violetter Raubkatzenbomber",3,3,0
 11,265,1,"Oranger Raubkatzenbomber",3,3,0
 11,265,2,"Blauer Raubkatzenbomber",3,3,0
@@ -2135,12 +2135,12 @@ ComponentID,DrawableID,TextureID,Name,TorsoComponentID,TorsoDrawableID,TorsoText
 11,277,2,"Graue DS-Jacke (offen)",3,6,0
 11,277,3,"Rote DS-Jacke (offen)",3,6,0
 11,277,4,"Ockerfarbene DS-Jacke (offen)",3,6,0
-11,278,0,""Vibrant Gradient"-Wachsjacke",3,5,0
-11,278,1,""Vivid Gradient"-Wachsjacke",3,5,0
-11,278,2,""Urban Gradient"-Wachsjacke",3,5,0
-11,278,3,""Cool Gradient"-Wachsjacke",3,5,0
-11,278,4,"Grüne "Gradient"-Wachsjacke",3,5,0
-11,278,5,""Dusk Gradient"-Wachsjacke",3,5,0
+11,278,0,"""Vibrant Gradient""-Wachsjacke",3,5,0
+11,278,1,"""Vivid Gradient""-Wachsjacke",3,5,0
+11,278,2,"""Urban Gradient""-Wachsjacke",3,5,0
+11,278,3,"""Cool Gradient""-Wachsjacke",3,5,0
+11,278,4,"Grüne ""Gradient""-Wachsjacke",3,5,0
+11,278,5,"""Dusk Gradient""-Wachsjacke",3,5,0
 11,278,6,"Grüne Leoparden-Wachsjacke",3,5,0
 11,278,7,"Beige Leoparden-Wachsjacke",3,5,0
 11,278,8,"Zyanf. Leoparden-Wachsjacke",3,5,0
@@ -2160,20 +2160,20 @@ ComponentID,DrawableID,TextureID,Name,TorsoComponentID,TorsoDrawableID,TorsoText
 11,279,6,"Grüner Schlangenleder-Bikini",3,15,0
 11,279,7,"Schwarzer Blumenbikini",3,15,0
 11,280,0,"T-Shirt mit Rundausschnitt",3,14,0
-11,280,1,"Weißes Zickzack-"Manor"-T-Shirt",3,14,0
-11,280,2,"Weißes "Manor"-T-Shirt",3,14,0
-11,280,3,"Lila "Manor"-T-Shirt",3,14,0
-11,280,4,"Mintgrünes "Manor"-T-Shirt",3,14,0
-11,280,5,"Weiß gestr. "Manor"-T-Shirt",3,14,0
-11,280,6,"Schwarz gestr. "Manor"-T-Shirt",3,14,0
-11,280,7,"Grüne-Welt-"Blagueurs"-T-Shirt",3,14,0
-11,280,8,"Lila-Welt-"Blagueurs"-T-Shirt",3,14,0
-11,280,9,""Blagueurs"-Marken-T-Shirt",3,14,0
-11,280,10,""Blagueurs LS"-T-Shirt",3,14,0
-11,280,11,""Blagueurs"-Streifen-T-Shirt",3,14,0
-11,280,12,""Blagueurs"-Sport-T-Shirt",3,14,0
-11,280,13,"Türkises "Blagueurs LS"-T-Shirt",3,14,0
-11,280,14,"SW-"Blagueurs LS"-T-Shirt",3,14,0
+11,280,1,"Weißes Zickzack-""Manor""-T-Shirt",3,14,0
+11,280,2,"Weißes ""Manor""-T-Shirt",3,14,0
+11,280,3,"Lila ""Manor""-T-Shirt",3,14,0
+11,280,4,"Mintgrünes ""Manor""-T-Shirt",3,14,0
+11,280,5,"Weiß gestr. ""Manor""-T-Shirt",3,14,0
+11,280,6,"Schwarz gestr. ""Manor""-T-Shirt",3,14,0
+11,280,7,"Grüne-Welt-""Blagueurs""-T-Shirt",3,14,0
+11,280,8,"Lila-Welt-""Blagueurs""-T-Shirt",3,14,0
+11,280,9,"""Blagueurs""-Marken-T-Shirt",3,14,0
+11,280,10,"""Blagueurs LS""-T-Shirt",3,14,0
+11,280,11,"""Blagueurs""-Streifen-T-Shirt",3,14,0
+11,280,12,"""Blagueurs""-Sport-T-Shirt",3,14,0
+11,280,13,"Türkises ""Blagueurs LS""-T-Shirt",3,14,0
+11,280,14,"SW-""Blagueurs LS""-T-Shirt",3,14,0
 11,280,15,"Lachsfarbenes SC-T-Shirt",3,14,0
 11,280,16,"Blaues SC-T-Shirt",3,14,0
 11,280,17,"Gelbes SC-T-Shirt",3,14,0
@@ -2181,20 +2181,20 @@ ComponentID,DrawableID,TextureID,Name,TorsoComponentID,TorsoDrawableID,TorsoText
 11,280,19,"Rot-schwarzes SC-T-Shirt",3,14,0
 11,280,20,"Blau gestreiftes SC-T-Shirt",3,14,0
 11,281,0,"T-Shirt mit Rundausschnitt",3,14,0
-11,281,1,"Weißes Zickzack-"Manor"-T-Shirt",3,14,0
-11,281,2,"Weißes "Manor"-T-Shirt",3,14,0
-11,281,3,"Lila "Manor"-T-Shirt",3,14,0
-11,281,4,"Mintgrünes "Manor"-T-Shirt",3,14,0
-11,281,5,"Weiß gestr. "Manor"-T-Shirt",3,14,0
-11,281,6,"Schwarz gestr. "Manor"-T-Shirt",3,14,0
-11,281,7,"Grüne-Welt-"Blagueurs"-T-Shirt",3,14,0
-11,281,8,"Lila-Welt-"Blagueurs"-T-Shirt",3,14,0
-11,281,9,""Blagueurs"-Marken-T-Shirt",3,14,0
-11,281,10,""Blagueurs LS"-T-Shirt",3,14,0
-11,281,11,""Blagueurs"-Streifen-T-Shirt",3,14,0
-11,281,12,""Blagueurs"-Sport-T-Shirt",3,14,0
-11,281,13,"Türkises "Blagueurs LS"-T-Shirt",3,14,0
-11,281,14,"SW-"Blagueurs LS"-T-Shirt",3,14,0
+11,281,1,"Weißes Zickzack-""Manor""-T-Shirt",3,14,0
+11,281,2,"Weißes ""Manor""-T-Shirt",3,14,0
+11,281,3,"Lila ""Manor""-T-Shirt",3,14,0
+11,281,4,"Mintgrünes ""Manor""-T-Shirt",3,14,0
+11,281,5,"Weiß gestr. ""Manor""-T-Shirt",3,14,0
+11,281,6,"Schwarz gestr. ""Manor""-T-Shirt",3,14,0
+11,281,7,"Grüne-Welt-""Blagueurs""-T-Shirt",3,14,0
+11,281,8,"Lila-Welt-""Blagueurs""-T-Shirt",3,14,0
+11,281,9,"""Blagueurs""-Marken-T-Shirt",3,14,0
+11,281,10,"""Blagueurs LS""-T-Shirt",3,14,0
+11,281,11,"""Blagueurs""-Streifen-T-Shirt",3,14,0
+11,281,12,"""Blagueurs""-Sport-T-Shirt",3,14,0
+11,281,13,"Türkises ""Blagueurs LS""-T-Shirt",3,14,0
+11,281,14,"SW-""Blagueurs LS""-T-Shirt",3,14,0
 11,281,15,"Lachsfarbenes SC-T-Shirt",3,14,0
 11,281,16,"Blaues SC-T-Shirt",3,14,0
 11,281,17,"Gelbes SC-T-Shirt",3,14,0
