@@ -884,20 +884,20 @@ ComponentID,DrawableID,TextureID,Name,TorsoComponentID,TorsoDrawableID,TorsoText
 8,131,14,"Pfirsichf. Tarn-Schussweste",3,-1,-1
 8,131,15,"Rote Tarn-Schussweste",3,-1,-1
 8,132,0,"T-Shirt mit Rundausschnitt",3,-1,-1
-8,132,1,"Weißes Zickzack-"Manor"-T-Shirt",3,-1,-1
-8,132,2,"Weißes "Manor"-T-Shirt",3,-1,-1
-8,132,3,"Lila "Manor"-T-Shirt",3,-1,-1
-8,132,4,"Mintgrünes "Manor"-T-Shirt",3,-1,-1
-8,132,5,"Weiß gestr. "Manor"-T-Shirt",3,-1,-1
-8,132,6,"Schwarz gestr. "Manor"-T-Shirt",3,-1,-1
-8,132,7,"Grüne-Welt-"Blagueurs"-T-Shirt",3,-1,-1
-8,132,8,"Lila-Welt-"Blagueurs"-T-Shirt",3,-1,-1
-8,132,9,""Blagueurs"-Marken-T-Shirt",3,-1,-1
-8,132,10,""Blagueurs LS"-T-Shirt",3,-1,-1
-8,132,11,""Blagueurs"-Streifen-T-Shirt",3,-1,-1
-8,132,12,""Blagueurs"-Sport-T-Shirt",3,-1,-1
-8,132,13,"Türkises "Blagueurs LS"-T-Shirt",3,-1,-1
-8,132,14,"SW-"Blagueurs LS"-T-Shirt",3,-1,-1
+8,132,1,"Weißes Zickzack-""Manor""-T-Shirt",3,-1,-1
+8,132,2,"Weißes ""Manor""-T-Shirt",3,-1,-1
+8,132,3,"Lila ""Manor""-T-Shirt",3,-1,-1
+8,132,4,"Mintgrünes ""Manor""-T-Shirt",3,-1,-1
+8,132,5,"Weiß gestr. ""Manor""-T-Shirt",3,-1,-1
+8,132,6,"Schwarz gestr. ""Manor""-T-Shirt",3,-1,-1
+8,132,7,"Grüne-Welt-""Blagueurs""-T-Shirt",3,-1,-1
+8,132,8,"Lila-Welt-""Blagueurs""-T-Shirt",3,-1,-1
+8,132,9,"""Blagueurs""-Marken-T-Shirt",3,-1,-1
+8,132,10,"""Blagueurs LS""-T-Shirt",3,-1,-1
+8,132,11,"""Blagueurs""-Streifen-T-Shirt",3,-1,-1
+8,132,12,"""Blagueurs""-Sport-T-Shirt",3,-1,-1
+8,132,13,"Türkises ""Blagueurs LS""-T-Shirt",3,-1,-1
+8,132,14,"SW-""Blagueurs LS""-T-Shirt",3,-1,-1
 8,132,15,"Lachsfarbenes SC-T-Shirt",3,-1,-1
 8,132,16,"Blaues SC-T-Shirt",3,-1,-1
 8,132,17,"Gelbes SC-T-Shirt",3,-1,-1
@@ -905,20 +905,20 @@ ComponentID,DrawableID,TextureID,Name,TorsoComponentID,TorsoDrawableID,TorsoText
 8,132,19,"Rot-schwarzes SC-T-Shirt",3,-1,-1
 8,132,20,"Blau gestreiftes SC-T-Shirt",3,-1,-1
 8,133,0,"T-Shirt mit Rundausschnitt",3,-1,-1
-8,133,1,"Weißes Zickzack-"Manor"-T-Shirt",3,-1,-1
-8,133,2,"Weißes "Manor"-T-Shirt",3,-1,-1
-8,133,3,"Lila "Manor"-T-Shirt",3,-1,-1
-8,133,4,"Mintgrünes "Manor"-T-Shirt",3,-1,-1
-8,133,5,"Weiß gestr. "Manor"-T-Shirt",3,-1,-1
-8,133,6,"Schwarz gestr. "Manor"-T-Shirt",3,-1,-1
-8,133,7,"Grüne-Welt-"Blagueurs"-T-Shirt",3,-1,-1
-8,133,8,"Lila-Welt-"Blagueurs"-T-Shirt",3,-1,-1
-8,133,9,""Blagueurs"-Marken-T-Shirt",3,-1,-1
-8,133,10,""Blagueurs LS"-T-Shirt",3,-1,-1
-8,133,11,""Blagueurs"-Streifen-T-Shirt",3,-1,-1
-8,133,12,""Blagueurs"-Sport-T-Shirt",3,-1,-1
-8,133,13,"Türkises "Blagueurs LS"-T-Shirt",3,-1,-1
-8,133,14,"SW-"Blagueurs LS"-T-Shirt",3,-1,-1
+8,133,1,"Weißes Zickzack-""Manor""-T-Shirt",3,-1,-1
+8,133,2,"Weißes ""Manor""-T-Shirt",3,-1,-1
+8,133,3,"Lila ""Manor""-T-Shirt",3,-1,-1
+8,133,4,"Mintgrünes ""Manor""-T-Shirt",3,-1,-1
+8,133,5,"Weiß gestr. ""Manor""-T-Shirt",3,-1,-1
+8,133,6,"Schwarz gestr. ""Manor""-T-Shirt",3,-1,-1
+8,133,7,"Grüne-Welt-""Blagueurs""-T-Shirt",3,-1,-1
+8,133,8,"Lila-Welt-""Blagueurs""-T-Shirt",3,-1,-1
+8,133,9,"""Blagueurs""-Marken-T-Shirt",3,-1,-1
+8,133,10,"""Blagueurs LS""-T-Shirt",3,-1,-1
+8,133,11,"""Blagueurs""-Streifen-T-Shirt",3,-1,-1
+8,133,12,"""Blagueurs""-Sport-T-Shirt",3,-1,-1
+8,133,13,"Türkises ""Blagueurs LS""-T-Shirt",3,-1,-1
+8,133,14,"SW-""Blagueurs LS""-T-Shirt",3,-1,-1
 8,133,15,"Lachsfarbenes SC-T-Shirt",3,-1,-1
 8,133,16,"Blaues SC-T-Shirt",3,-1,-1
 8,133,17,"Gelbes SC-T-Shirt",3,-1,-1
@@ -926,20 +926,20 @@ ComponentID,DrawableID,TextureID,Name,TorsoComponentID,TorsoDrawableID,TorsoText
 8,133,19,"Rot-schwarzes SC-T-Shirt",3,-1,-1
 8,133,20,"Blau gestreiftes SC-T-Shirt",3,-1,-1
 8,134,0,"T-Shirt mit Rundausschnitt",3,-1,-1
-8,134,1,"Weißes Zickzack-"Manor"-T-Shirt",3,-1,-1
-8,134,2,"Weißes "Manor"-T-Shirt",3,-1,-1
-8,134,3,"Lila "Manor"-T-Shirt",3,-1,-1
-8,134,4,"Mintgrünes "Manor"-T-Shirt",3,-1,-1
-8,134,5,"Weiß gestr. "Manor"-T-Shirt",3,-1,-1
-8,134,6,"Schwarz gestr. "Manor"-T-Shirt",3,-1,-1
-8,134,7,"Grüne-Welt-"Blagueurs"-T-Shirt",3,-1,-1
-8,134,8,"Lila-Welt-"Blagueurs"-T-Shirt",3,-1,-1
-8,134,9,""Blagueurs"-Marken-T-Shirt",3,-1,-1
-8,134,10,""Blagueurs LS"-T-Shirt",3,-1,-1
-8,134,11,""Blagueurs"-Streifen-T-Shirt",3,-1,-1
-8,134,12,""Blagueurs"-Sport-T-Shirt",3,-1,-1
-8,134,13,"Türkises "Blagueurs LS"-T-Shirt",3,-1,-1
-8,134,14,"SW-"Blagueurs LS"-T-Shirt",3,-1,-1
+8,134,1,"Weißes Zickzack-""Manor""-T-Shirt",3,-1,-1
+8,134,2,"Weißes ""Manor""-T-Shirt",3,-1,-1
+8,134,3,"Lila ""Manor""-T-Shirt",3,-1,-1
+8,134,4,"Mintgrünes ""Manor""-T-Shirt",3,-1,-1
+8,134,5,"Weiß gestr. ""Manor""-T-Shirt",3,-1,-1
+8,134,6,"Schwarz gestr. ""Manor""-T-Shirt",3,-1,-1
+8,134,7,"Grüne-Welt-""Blagueurs""-T-Shirt",3,-1,-1
+8,134,8,"Lila-Welt-""Blagueurs""-T-Shirt",3,-1,-1
+8,134,9,"""Blagueurs""-Marken-T-Shirt",3,-1,-1
+8,134,10,"""Blagueurs LS""-T-Shirt",3,-1,-1
+8,134,11,"""Blagueurs""-Streifen-T-Shirt",3,-1,-1
+8,134,12,"""Blagueurs""-Sport-T-Shirt",3,-1,-1
+8,134,13,"Türkises ""Blagueurs LS""-T-Shirt",3,-1,-1
+8,134,14,"SW-""Blagueurs LS""-T-Shirt",3,-1,-1
 8,134,15,"Lachsfarbenes SC-T-Shirt",3,-1,-1
 8,134,16,"Blaues SC-T-Shirt",3,-1,-1
 8,134,17,"Gelbes SC-T-Shirt",3,-1,-1
@@ -947,20 +947,20 @@ ComponentID,DrawableID,TextureID,Name,TorsoComponentID,TorsoDrawableID,TorsoText
 8,134,19,"Rot-schwarzes SC-T-Shirt",3,-1,-1
 8,134,20,"Blau gestreiftes SC-T-Shirt",3,-1,-1
 8,135,0,"T-Shirt mit Rundausschnitt",3,-1,-1
-8,135,1,"Weißes Zickzack-"Manor"-T-Shirt",3,-1,-1
-8,135,2,"Weißes "Manor"-T-Shirt",3,-1,-1
-8,135,3,"Lila "Manor"-T-Shirt",3,-1,-1
-8,135,4,"Mintgrünes "Manor"-T-Shirt",3,-1,-1
-8,135,5,"Weiß gestr. "Manor"-T-Shirt",3,-1,-1
-8,135,6,"Schwarz gestr. "Manor"-T-Shirt",3,-1,-1
-8,135,7,"Grüne-Welt-"Blagueurs"-T-Shirt",3,-1,-1
-8,135,8,"Lila-Welt-"Blagueurs"-T-Shirt",3,-1,-1
-8,135,9,""Blagueurs"-Marken-T-Shirt",3,-1,-1
-8,135,10,""Blagueurs LS"-T-Shirt",3,-1,-1
-8,135,11,""Blagueurs"-Streifen-T-Shirt",3,-1,-1
-8,135,12,""Blagueurs"-Sport-T-Shirt",3,-1,-1
-8,135,13,"Türkises "Blagueurs LS"-T-Shirt",3,-1,-1
-8,135,14,"SW-"Blagueurs LS"-T-Shirt",3,-1,-1
+8,135,1,"Weißes Zickzack-""Manor""-T-Shirt",3,-1,-1
+8,135,2,"Weißes ""Manor""-T-Shirt",3,-1,-1
+8,135,3,"Lila ""Manor""-T-Shirt",3,-1,-1
+8,135,4,"Mintgrünes ""Manor""-T-Shirt",3,-1,-1
+8,135,5,"Weiß gestr. ""Manor""-T-Shirt",3,-1,-1
+8,135,6,"Schwarz gestr. ""Manor""-T-Shirt",3,-1,-1
+8,135,7,"Grüne-Welt-""Blagueurs""-T-Shirt",3,-1,-1
+8,135,8,"Lila-Welt-""Blagueurs""-T-Shirt",3,-1,-1
+8,135,9,"""Blagueurs""-Marken-T-Shirt",3,-1,-1
+8,135,10,"""Blagueurs LS""-T-Shirt",3,-1,-1
+8,135,11,"""Blagueurs""-Streifen-T-Shirt",3,-1,-1
+8,135,12,"""Blagueurs""-Sport-T-Shirt",3,-1,-1
+8,135,13,"Türkises ""Blagueurs LS""-T-Shirt",3,-1,-1
+8,135,14,"SW-""Blagueurs LS""-T-Shirt",3,-1,-1
 8,135,15,"Lachsfarbenes SC-T-Shirt",3,-1,-1
 8,135,16,"Blaues SC-T-Shirt",3,-1,-1
 8,135,17,"Gelbes SC-T-Shirt",3,-1,-1
@@ -968,20 +968,20 @@ ComponentID,DrawableID,TextureID,Name,TorsoComponentID,TorsoDrawableID,TorsoText
 8,135,19,"Rot-schwarzes SC-T-Shirt",3,-1,-1
 8,135,20,"Blau gestreiftes SC-T-Shirt",3,-1,-1
 8,136,0,"T-Shirt mit Rundausschnitt",3,-1,-1
-8,136,1,"Weißes Zickzack-"Manor"-T-Shirt",3,-1,-1
-8,136,2,"Weißes "Manor"-T-Shirt",3,-1,-1
-8,136,3,"Lila "Manor"-T-Shirt",3,-1,-1
-8,136,4,"Mintgrünes "Manor"-T-Shirt",3,-1,-1
-8,136,5,"Weiß gestr. "Manor"-T-Shirt",3,-1,-1
-8,136,6,"Schwarz gestr. "Manor"-T-Shirt",3,-1,-1
-8,136,7,"Grüne-Welt-"Blagueurs"-T-Shirt",3,-1,-1
-8,136,8,"Lila-Welt-"Blagueurs"-T-Shirt",3,-1,-1
-8,136,9,""Blagueurs"-Marken-T-Shirt",3,-1,-1
-8,136,10,""Blagueurs LS"-T-Shirt",3,-1,-1
-8,136,11,""Blagueurs"-Streifen-T-Shirt",3,-1,-1
-8,136,12,""Blagueurs"-Sport-T-Shirt",3,-1,-1
-8,136,13,"Türkises "Blagueurs LS"-T-Shirt",3,-1,-1
-8,136,14,"SW-"Blagueurs LS"-T-Shirt",3,-1,-1
+8,136,1,"Weißes Zickzack-""Manor""-T-Shirt",3,-1,-1
+8,136,2,"Weißes ""Manor""-T-Shirt",3,-1,-1
+8,136,3,"Lila ""Manor""-T-Shirt",3,-1,-1
+8,136,4,"Mintgrünes ""Manor""-T-Shirt",3,-1,-1
+8,136,5,"Weiß gestr. ""Manor""-T-Shirt",3,-1,-1
+8,136,6,"Schwarz gestr. ""Manor""-T-Shirt",3,-1,-1
+8,136,7,"Grüne-Welt-""Blagueurs""-T-Shirt",3,-1,-1
+8,136,8,"Lila-Welt-""Blagueurs""-T-Shirt",3,-1,-1
+8,136,9,"""Blagueurs""-Marken-T-Shirt",3,-1,-1
+8,136,10,"""Blagueurs LS""-T-Shirt",3,-1,-1
+8,136,11,"""Blagueurs""-Streifen-T-Shirt",3,-1,-1
+8,136,12,"""Blagueurs""-Sport-T-Shirt",3,-1,-1
+8,136,13,"Türkises ""Blagueurs LS""-T-Shirt",3,-1,-1
+8,136,14,"SW-""Blagueurs LS""-T-Shirt",3,-1,-1
 8,136,15,"Lachsfarbenes SC-T-Shirt",3,-1,-1
 8,136,16,"Blaues SC-T-Shirt",3,-1,-1
 8,136,17,"Gelbes SC-T-Shirt",3,-1,-1
