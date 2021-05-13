@@ -1,1693 +1,1693 @@
-ComponentID|DrawableID|TextureID|Name|TorsoComponentID|TorsoDrawableID|TorsoTextureID
-8|0|0|"Crew-T-Shirt"|3|-1|-1
-8|0|1|"Salamanders T-Shirt"|3|-1|-1
-8|0|2|"The Feud T-Shirt"|3|-1|-1
-8|0|3|"Gelbes T-Shirt"|3|-1|-1
-8|0|4|"Rotes T-Shirt"|3|-1|-1
-8|0|5|"Zyanfarbenes T-Shirt"|3|-1|-1
-8|0|6|"Blaues T-Shirt"|3|-1|-1
-8|0|7|"Hellbraunes T-Shirt"|3|-1|-1
-8|0|8|"Pinkes T-Shirt"|3|-1|-1
-8|0|9|"Mintgrünes T-Shirt"|3|-1|-1
-8|0|10|"Aschgraues T-Shirt"|3|-1|-1
-8|0|11|"Graues T-Shirt"|3|-1|-1
-8|0|12|"Leoparden-T-Shirt"|3|-1|-1
-8|0|13|"Zweifarbiges T-Shirt"|3|-1|-1
-8|0|14|"Babyblaues T-Shirt"|3|-1|-1
-8|0|15|"Zweifarbig gestreiftes T-Shirt"|3|-1|-1
-8|1|0|"Abgetragene Jeansjacke"|3|-1|-1
-8|1|1|"Rote Jeansjacke"|3|-1|-1
-8|1|2|"Zweifarbige Jeansjacke"|3|-1|-1
-8|1|4|"Adler-Jeansjacke"|3|-1|-1
-8|1|5|"Sternen-Jeansjacke"|3|-1|-1
-8|1|6|"Graffiti-Jeansjacke"|3|-1|-1
-8|1|9|"Blumen-Jeansjacke"|3|-1|-1
-8|1|11|"Vorgewaschene Jeansjacke"|3|-1|-1
-8|1|14|"Weiße Jeansjacke"|3|-1|-1
-8|2|0|"Eris-Oberteil"|3|-1|-1
-8|3|0|"Weißer Kapuzenpullover"|3|-1|-1
-8|4|13|"Rotes zweifarbiges Tanktop"|3|-1|-1
-8|4|14|"Zweifarbiges Tanktop"|3|-1|-1
-8|5|0|"Altweißes gekürztes Tanktop"|3|-1|-1
-8|5|1|"Aschgraues gekürztes Tanktop"|3|-1|-1
-8|5|7|"Gekürztes Schlangen-Tanktop"|3|-1|-1
-8|5|9|"Weißes gekürztes Tanktop"|3|-1|-1
-8|6|0|"Schwarzes Sakko"|3|-1|-1
-8|7|0|"Schiefergrauer Blazer"|3|-1|-1
-8|8|0|"Graue gekürzte Bikerweste"|3|-1|-1
-8|9|0|"Anthrazitgraues Hemd"|3|-1|-1
-8|10|0|"Gestreifte Trainingsjacke"|3|-1|-1
-8|11|0|"Himmelblaues Racerback"|3|-1|-1
-8|11|1|"Lila Racerback"|3|-1|-1
-8|11|2|"Graues Racerback"|3|-1|-1
-8|11|10|"Los Santos 01 Racerback"|3|-1|-1
-8|11|11|"LS Racerback"|3|-1|-1
-8|11|15|"LC Penetrators Racerback"|3|-1|-1
-8|12|7|"Neon-Camisole"|3|-1|-1
-8|12|8|"Rotes gepunktetes Camisole"|3|-1|-1
-8|12|9|"Dunkles gepunktetes Camisole"|3|-1|-1
-8|13|0|"Schwarzes Bustier"|3|-1|-1
-8|13|1|"Rosen-Bustier"|3|-1|-1
-8|13|2|"Olivgrünes Bustier"|3|-1|-1
-8|13|3|"Graues Bustier"|3|-1|-1
-8|13|4|"Blumen-Bustier"|3|-1|-1
-8|13|5|"Rotes kariertes Bustier"|3|-1|-1
-8|13|6|"Juwelen-Bustier"|3|-1|-1
-8|13|7|"Pinkes Bustier"|3|-1|-1
-8|13|8|"Weißes Bustier"|3|-1|-1
-8|13|9|"Blaues gemustertes Bustier"|3|-1|-1
-8|13|10|"Jeans-Bustier"|3|-1|-1
-8|13|11|"Pinkes gemustertes Bustier"|3|-1|-1
-8|13|12|"Tarn-Bustier"|3|-1|-1
-8|13|13|"Blaues Bustier"|3|-1|-1
-8|13|14|"Schwarz-weißes Bustier"|3|-1|-1
-8|13|15|"Leoparden-Bustier"|3|-1|-1
-8|14|0|"Graues Polohemd"|3|-1|-1
-8|15|0|"Schwarzer Bikini"|3|-1|-1
-8|15|3|"Grauer Bikini"|3|-1|-1
-8|15|10|"Aquagrüner Bikini"|3|-1|-1
-8|15|11|"Oranger Bikini"|3|-1|-1
-8|16|0|"Yeti Barfs Tanktop"|3|-1|-1
-8|16|1|"Pinkes Tanktop"|3|-1|-1
-8|16|2|"Babyblaues Tanktop"|3|-1|-1
-8|16|3|"Pinkes Trey Baker Tanktop"|3|-1|-1
-8|16|4|"Grünes Trey Baker Tanktop"|3|-1|-1
-8|16|5|"Rotes Tanktop"|3|-1|-1
-8|16|6|"Marineblaues Tanktop"|3|-1|-1
-8|17|0|"Weißer Bikini"|3|-1|-1
-8|17|1|"Kreuz-Bikini"|3|-1|-1
-8|17|2|"Blauer Bikini"|3|-1|-1
-8|17|3|"Santo Capra Kitty Bikini"|3|-1|-1
-8|17|4|"Roter Bikini"|3|-1|-1
-8|17|5|"Marineblauer Bikini"|3|-1|-1
-8|17|6|"Yeti Tarn-Bikini"|3|-1|-1
-8|17|7|"Harsh Souls Punk-Bikini"|3|-1|-1
-8|17|8|"Pink gemusterter Bikini"|3|-1|-1
-8|17|9|"Inseldruck-Bikini"|3|-1|-1
-8|17|10|"Blumen-Bikini"|3|-1|-1
-8|17|11|"Orange gestreifter Bikini"|3|-1|-1
-8|18|0|"Weihnachtsmann-T-Shirt"|3|-1|-1
-8|18|1|"Elfen-T-Shirt"|3|-1|-1
-8|18|2|"Schneemann-T-Shirt"|3|-1|-1
-8|18|3|"Rentier-T-Shirt"|3|-1|-1
-8|19|0|"Weihnachtsmann-T-Shirt"|3|-1|-1
-8|19|1|"Elfen-T-Shirt"|3|-1|-1
-8|19|2|"Schneemann-T-Shirt"|3|-1|-1
-8|19|3|"Rentier-T-Shirt"|3|-1|-1
-8|20|0|"Weißes Love-T-Shirt"|3|-1|-1
-8|20|1|"Schwarzes Love-T-Shirt"|3|-1|-1
-8|20|2|"Rotes Love-T-Shirt"|3|-1|-1
-8|21|0|"Weißes Love-T-Shirt"|3|-1|-1
-8|21|1|"Schwarzes Love-T-Shirt"|3|-1|-1
-8|21|2|"Rotes Love-T-Shirt"|3|-1|-1
-8|22|0|"Weißer Spitzenbustier"|3|-1|-1
-8|22|1|"Roter Spitzenbustier"|3|-1|-1
-8|22|2|"Schwarzer Spitzenbustier"|3|-1|-1
-8|22|3|"Grauer Spitzenbustier"|3|-1|-1
-8|22|4|"Türkiser Spitzenbustier"|3|-1|-1
-8|23|0|"Weißes Camisole"|3|-1|-1
-8|23|1|"Schwarzes Camisole"|3|-1|-1
-8|23|2|"Rotes Camisole"|3|-1|-1
-8|23|3|"Cremefarbenes Camisole"|3|-1|-1
-8|23|4|"Lila Camisole"|3|-1|-1
-8|23|5|"Blaues Camisole"|3|-1|-1
-8|23|6|"Himmelblaues Camisole"|3|-1|-1
-8|23|7|"Gelbes Camisole"|3|-1|-1
-8|23|8|"Hellblaues Camisole"|3|-1|-1
-8|23|9|"Graues Camisole"|3|-1|-1
-8|23|10|"Oranges Camisole"|3|-1|-1
-8|23|11|"Leoparden-Camisole"|3|-1|-1
-8|23|12|"Pinkes Camisole"|3|-1|-1
-8|24|0|"Weiße Bluse"|3|-1|-1
-8|24|1|"Schwarze Bluse"|3|-1|-1
-8|24|2|"Hellbraune Bluse"|3|-1|-1
-8|24|3|"Graue gestreifte Bluse"|3|-1|-1
-8|24|4|"Pinke gestreifte Bluse"|3|-1|-1
-8|24|5|"Graue Bluse"|3|-1|-1
-8|25|0|"Neon-Camisole"|3|-1|-1
-8|25|1|"Rotes gepunktetes Camisole"|3|-1|-1
-8|25|2|"Dunkles gepunktetes Camisole"|3|-1|-1
-8|25|3|"Weißes Camisole"|3|-1|-1
-8|25|4|"Schwarzes Camisole"|3|-1|-1
-8|25|5|"Rotes Camisole"|3|-1|-1
-8|25|6|"Cremefarbenes Camisole"|3|-1|-1
-8|25|7|"Lila Camisole"|3|-1|-1
-8|25|8|"Blaues Camisole"|3|-1|-1
-8|25|9|"Himmelblaues Camisole"|3|-1|-1
-8|25|10|"Gelbes Camisole"|3|-1|-1
-8|25|11|"Hellblaues Camisole"|3|-1|-1
-8|25|12|"Graues Camisole"|3|-1|-1
-8|25|13|"Oranges Camisole"|3|-1|-1
-8|25|14|"Leoparden-Camisole"|3|-1|-1
-8|25|15|"Pinkes Camisole"|3|-1|-1
-8|26|0|"Weißes Love-T-Shirt"|3|-1|-1
-8|26|1|"Schwarzes Love-T-Shirt"|3|-1|-1
-8|26|2|"Rotes Love-T-Shirt"|3|-1|-1
-8|27|0|"Leoparden-Tanktop"|3|-1|-1
-8|27|1|"Totenkopf-Tanktop"|3|-1|-1
-8|27|2|"Zweifarbiges Tanktop"|3|-1|-1
-8|28|0|"Weißes gekürztes Tanktop"|3|-1|-1
-8|28|1|"Gekürztes Zebra-Tanktop"|3|-1|-1
-8|28|2|"Blaues Zebra-Tanktop"|3|-1|-1
-8|28|3|"Gekürztes Leoparden-Tanktop"|3|-1|-1
-8|28|4|"Gekürztes Papagei-Tanktop"|3|-1|-1
-8|28|5|"Gekürztes Santos 13 Tanktop"|3|-1|-1
-8|28|6|"Gekürztes Princess RB Tanktop"|3|-1|-1
-8|28|7|"Gekürztes Softly Softly Tanktop"|3|-1|-1
-8|28|8|"Leoparden-Neon-Tanktop"|3|-1|-1
-8|29|0|"Love Fist Racerback"|3|-1|-1
-8|29|1|"247 Racerback"|3|-1|-1
-8|29|2|"The Barfs Racerback"|3|-1|-1
-8|29|3|"Princess RB Racerback"|3|-1|-1
-8|29|4|"Prison Bitches Racerback"|3|-1|-1
-8|30|0|"Grünes T-Shirt"|3|-1|-1
-8|30|1|"Gelbes T-Shirt"|3|-1|-1
-8|30|2|"Violettes T-Shirt"|3|-1|-1
-8|30|3|"Graues T-Shirt"|3|-1|-1
-8|31|0|"Amerikanische Flagge-Oberteil"|3|-1|-1
-8|32|0|"Tarn-Einsatzweste"|3|-1|-1
-8|33|0|"Graue schwere Einsatzweste"|3|-1|-1
-8|33|1|"Schwarze schwere Einsatzw."|3|-1|-1
-8|38|0|"Weißes Hemd"|3|-1|-1
-8|38|1|"Silbernes Hemd"|3|-1|-1
-8|38|2|"Anthrazitgraues Hemd"|3|-1|-1
-8|38|3|"Hellblaues Hemd"|3|-1|-1
-8|38|4|"Schwachblaues Hemd"|3|-1|-1
-8|38|5|"Pinkes Karohemd"|3|-1|-1
-8|38|6|"Blaues gewobenes Hemd"|3|-1|-1
-8|38|7|"Lachsrosa Hemd"|3|-1|-1
-8|38|8|"Hellolivgrünes Hemd"|3|-1|-1
-8|38|9|"Lila Hemd"|3|-1|-1
-8|38|10|"Altweißes Hemd"|3|-1|-1
-8|38|11|"Mintgrünes Hemd"|3|-1|-1
-8|38|12|"Blau gestreiftes Hemd"|3|-1|-1
-8|38|13|"Pink gestreiftes Hemd"|3|-1|-1
-8|38|14|"Hellbraunes Hemd"|3|-1|-1
-8|38|15|"Meerblau gestreiftes Hemd"|3|-1|-1
-8|39|0|"Weißes Hemd"|3|-1|-1
-8|39|1|"Silbernes Hemd"|3|-1|-1
-8|39|2|"Anthrazitgraues Hemd"|3|-1|-1
-8|39|3|"Hellblaues Hemd"|3|-1|-1
-8|39|4|"Schwachblaues Hemd"|3|-1|-1
-8|39|5|"Pinkes Karohemd"|3|-1|-1
-8|39|6|"Blaues gewobenes Hemd"|3|-1|-1
-8|39|7|"Lachsrosa Hemd"|3|-1|-1
-8|39|8|"Hellolivgrünes Hemd"|3|-1|-1
-8|39|9|"Lila Hemd"|3|-1|-1
-8|39|10|"Altweißes Hemd"|3|-1|-1
-8|39|11|"Mintgrünes Hemd"|3|-1|-1
-8|39|12|"Blau gestreiftes Hemd"|3|-1|-1
-8|39|13|"Pink gestreiftes Hemd"|3|-1|-1
-8|39|14|"Hellbraunes Hemd"|3|-1|-1
-8|39|15|"Meerblau gestreiftes Hemd"|3|-1|-1
-8|40|0|"Silberne Maßanzugweste"|3|-1|-1
-8|40|1|"Beige Maßanzugweste"|3|-1|-1
-8|40|2|"Schwarze Maßanzugweste"|3|-1|-1
-8|40|3|"Blaue Maßanzugweste"|3|-1|-1
-8|40|4|"Graue Maßanzugweste"|3|-1|-1
-8|40|5|"Marineblaue Maßanzugweste"|3|-1|-1
-8|40|6|"Türkise Maßanzugweste"|3|-1|-1
-8|40|7|"Rote Maßanzugweste"|3|-1|-1
-8|40|8|"Weiße Maßanzugweste"|3|-1|-1
-8|40|9|"Braune Maßanzugweste"|3|-1|-1
-8|41|0|"Silberne Maßanzugweste"|3|-1|-1
-8|41|1|"Beige Maßanzugweste"|3|-1|-1
-8|41|2|"Schwarze Maßanzugweste"|3|-1|-1
-8|41|3|"Blaue Maßanzugweste"|3|-1|-1
-8|41|4|"Graue Maßanzugweste"|3|-1|-1
-8|41|5|"Marineblaue Maßanzugweste"|3|-1|-1
-8|41|6|"Türkise Maßanzugweste"|3|-1|-1
-8|41|7|"Rote Maßanzugweste"|3|-1|-1
-8|41|8|"Weiße Maßanzugweste"|3|-1|-1
-8|41|9|"Braune Maßanzugweste"|3|-1|-1
-8|44|0|"Schwarzes SN-T-Shirt"|3|-1|-1
-8|45|0|"Pegasus-T-Shirt"|3|-1|-1
-8|45|1|"Andromeda-T-Shirt"|3|-1|-1
-8|45|2|"Medusa-Kunst-T-Shirt"|3|-1|-1
-8|45|3|"Angelica-T-Shirt"|3|-1|-1
-8|45|4|"Klassisches Perseus-T-Shirt"|3|-1|-1
-8|45|5|"Schild & Schwert-T-Shirt"|3|-1|-1
-8|45|6|"Schild-T-Shirt"|3|-1|-1
-8|45|7|"Braunes Fullprint-T-Shirt"|3|-1|-1
-8|45|8|"Braunes Print-T-Shirt"|3|-1|-1
-8|45|9|"Pinkfarbenes Fullprint-T-Shirt"|3|-1|-1
-8|45|10|"Schwarzes Print-T-Shirt"|3|-1|-1
-8|45|11|"Goldenes SN-Print-T-Shirt"|3|-1|-1
-8|45|12|"Braunes SN-Print-T-Shirt"|3|-1|-1
-8|45|13|"Pinkfarbenes SN-PRB-T-Shirt"|3|-1|-1
-8|45|14|"Braunes Geo-PRB-T-Shirt"|3|-1|-1
-8|45|16|"Weißes SN-Streifen-T-Shirt"|3|-1|-1
-8|45|17|"Buntes Geo-PRB-T-Shirt"|3|-1|-1
-8|45|18|"Buntes Geo-T-Shirt"|3|-1|-1
-8|45|19|"Braunes Geo-T-Shirt"|3|-1|-1
-8|46|0|"Pegasus-T-Shirt"|3|-1|-1
-8|46|1|"Andromeda-T-Shirt"|3|-1|-1
-8|46|2|"Medusa-Kunst-T-Shirt"|3|-1|-1
-8|46|3|"Angelica-T-Shirt"|3|-1|-1
-8|46|4|"Klassisches Perseus-T-Shirt"|3|-1|-1
-8|46|5|"Schild & Schwert-T-Shirt"|3|-1|-1
-8|46|6|"Schild-T-Shirt"|3|-1|-1
-8|46|7|"Braunes Fullprint-T-Shirt"|3|-1|-1
-8|46|8|"Braunes Print-T-Shirt"|3|-1|-1
-8|46|9|"Pinkfarbenes Fullprint-T-Shirt"|3|-1|-1
-8|46|10|"Schwarzes Print-T-Shirt"|3|-1|-1
-8|46|11|"Goldenes SN-Print-T-Shirt"|3|-1|-1
-8|46|12|"Braunes SN-Print-T-Shirt"|3|-1|-1
-8|46|13|"Pinkfarbenes SN-PRB-T-Shirt"|3|-1|-1
-8|46|14|"Braunes Geo-PRB-T-Shirt"|3|-1|-1
-8|46|16|"Weißes SN-Streifen-T-Shirt"|3|-1|-1
-8|46|17|"Buntes Geo-PRB-T-Shirt"|3|-1|-1
-8|46|18|"Buntes Geo-T-Shirt"|3|-1|-1
-8|46|19|"Braunes Geo-T-Shirt"|3|-1|-1
-8|49|0|"Goldenes glänzendes Oberteil"|3|-1|-1
-8|50|0|"Pegasus-T-Shirt"|3|-1|-1
-8|50|1|"Andromeda-T-Shirt"|3|-1|-1
-8|50|2|"Medusa-Kunst-T-Shirt"|3|-1|-1
-8|50|3|"Angelica-T-Shirt"|3|-1|-1
-8|50|4|"Klassisches Perseus-T-Shirt"|3|-1|-1
-8|50|5|"Schild & Schwert-T-Shirt"|3|-1|-1
-8|50|6|"Schild-T-Shirt"|3|-1|-1
-8|50|7|"Braunes Fullprint-T-Shirt"|3|-1|-1
-8|50|8|"Braunes Print-T-Shirt"|3|-1|-1
-8|50|9|"Pinkfarbenes Fullprint-T-Shirt"|3|-1|-1
-8|50|10|"Schwarzes Print-T-Shirt"|3|-1|-1
-8|50|11|"Goldenes SN-Print-T-Shirt"|3|-1|-1
-8|50|12|"Braunes SN-Print-T-Shirt"|3|-1|-1
-8|50|13|"Pinkfarbenes SN-PRB-T-Shirt"|3|-1|-1
-8|50|14|"Braunes Geo-PRB-T-Shirt"|3|-1|-1
-8|50|16|"Weißes SN-Streifen-T-Shirt"|3|-1|-1
-8|50|17|"Buntes Geo-PRB-T-Shirt"|3|-1|-1
-8|50|18|"Buntes Geo-T-Shirt"|3|-1|-1
-8|50|19|"Braunes Geo-T-Shirt"|3|-1|-1
-8|51|0|"Schwarzes SN-T-Shirt"|3|-1|-1
-8|52|0|"Schwarzes SN-T-Shirt"|3|-1|-1
-8|54|0|"Goldenes glänzendes Oberteil"|3|-1|-1
-8|56|0|"Goldenes glänzendes Oberteil"|3|-1|-1
-8|57|0|"Weißer Klassiker"|3|-1|-1
-8|57|1|"Schwarzer Klassiker"|3|-1|-1
-8|57|2|"Grauer Klassiker"|3|-1|-1
-8|58|0|"Weißer Klassiker"|3|-1|-1
-8|58|1|"Schwarzer Klassiker"|3|-1|-1
-8|58|2|"Grauer Klassiker"|3|-1|-1
-8|59|0|"Weißer Klassiker"|3|-1|-1
-8|59|1|"Schwarzer Klassiker"|3|-1|-1
-8|59|2|"Grauer Klassiker"|3|-1|-1
-8|60|0|"Weißes lockeres Tanktop"|3|-1|-1
-8|60|1|"Schwarzes lockeres Tanktop"|3|-1|-1
-8|60|2|"Graues lockeres Tanktop"|3|-1|-1
-8|61|0|"Schwarz-gelbes Baseball-T-Shirt"|3|-1|-1
-8|61|1|"Gelb-weißes Baseball-T-Shirt"|3|-1|-1
-8|61|2|"Gelbes Baseball-T-Shirt"|3|-1|-1
-8|61|3|"Schwarzes Baseball-T-Shirt"|3|-1|-1
-8|62|0|"Schwarz-gelbes Baseball-T-Shirt"|3|-1|-1
-8|62|1|"Gelb-weißes Baseball-T-Shirt"|3|-1|-1
-8|62|2|"Gelbes Baseball-T-Shirt"|3|-1|-1
-8|62|3|"Schwarzes Baseball-T-Shirt"|3|-1|-1
-8|63|0|"Schwarz-gelbes Baseball-T-Shirt"|3|-1|-1
-8|63|1|"Gelb-weißes Baseball-T-Shirt"|3|-1|-1
-8|63|2|"Gelbes Baseball-T-Shirt"|3|-1|-1
-8|63|3|"Schwarzes Baseball-T-Shirt"|3|-1|-1
-8|65|0|"Weißes Pullunderhemd"|3|-1|-1
-8|68|0|"Hautfarbenes Spitzenbustier"|3|-1|-1
-8|68|1|"Blasslila Karo-Spitzenbustier"|3|-1|-1
-8|68|2|"Schwarzes Karo-Spitzenbustier"|3|-1|-1
-8|68|3|"Blaues Punkte-Spitzenbustier"|3|-1|-1
-8|68|4|"Rotes Leoparden-Spitzenbustier"|3|-1|-1
-8|68|5|"Weißes Herzen-Spitzenbustier"|3|-1|-1
-8|68|6|"Schw. Herzen-Spitzenbustier"|3|-1|-1
-8|68|7|"Rotes Herzen-Spitzenbustier"|3|-1|-1
-8|68|8|"Pinkes Streifen-Spitzenbustier"|3|-1|-1
-8|68|9|"Hellbr. Streifen-Spitzenbustier"|3|-1|-1
-8|68|10|"Schw. Leoparden-Spitzenbustier"|3|-1|-1
-8|68|11|"Rotes Streifen-Spitzenbustier"|3|-1|-1
-8|69|0|"Weißes gekrempeltes T-Shirt"|3|-1|-1
-8|69|1|"Schwarzes gekrempeltes T-Shirt"|3|-1|-1
-8|69|2|"Graues gekrempeltes T-Shirt"|3|-1|-1
-8|70|0|"Weißes gekrempeltes T-Shirt"|3|-1|-1
-8|70|1|"Schwarzes gekrempeltes T-Shirt"|3|-1|-1
-8|70|2|"Graues gekrempeltes T-Shirt"|3|-1|-1
-8|71|0|"Weißes gekrempeltes T-Shirt"|3|-1|-1
-8|71|1|"Schwarzes gekrempeltes T-Shirt"|3|-1|-1
-8|71|2|"Graues gekrempeltes T-Shirt"|3|-1|-1
-8|72|0|"Weißes gekrempeltes T-Shirt"|3|-1|-1
-8|72|1|"Schwarzes gekrempeltes T-Shirt"|3|-1|-1
-8|72|2|"Graues gekrempeltes T-Shirt"|3|-1|-1
-8|73|0|"Weißes gekrempeltes T-Shirt"|3|-1|-1
-8|73|1|"Schwarzes gekrempeltes T-Shirt"|3|-1|-1
-8|73|2|"Graues gekrempeltes T-Shirt"|3|-1|-1
-8|74|0|"Weißes gekrempeltes T-Shirt"|3|-1|-1
-8|74|1|"Schwarzes gekrempeltes T-Shirt"|3|-1|-1
-8|74|2|"Graues gekrempeltes T-Shirt"|3|-1|-1
-8|75|0|"Blaues Pullunderhemd"|3|-1|-1
-8|75|1|"Schwarzes Pullunderhemd"|3|-1|-1
-8|75|2|"Karo-Pullunderhemd"|3|-1|-1
-8|76|0|"Grauer Rollkragenpullover"|3|3|0
-8|76|1|"Roter Rollkragenpullover"|3|3|0
-8|76|2|"Brauner Rollkragenpullover"|3|3|0
-8|76|3|"Schwarzer Rollkragenpullover"|3|3|0
-8|76|4|"Marineblauer Rollkragenpullover"|3|3|0
-8|76|5|"Beiger Rollkragenpullover"|3|3|0
-8|76|6|"Lila Rollkragenpullover"|3|3|0
-8|76|7|"Grüner Rollkragenpullover"|3|3|0
-8|77|0|"Grauer Rollkragenpullover"|3|3|0
-8|77|1|"Roter Rollkragenpullover"|3|3|0
-8|77|2|"Brauner Rollkragenpullover"|3|3|0
-8|77|3|"Schwarzer Rollkragenpullover"|3|3|0
-8|77|4|"Marineblauer Rollkragenpullover"|3|3|0
-8|77|5|"Beiger Rollkragenpullover"|3|3|0
-8|77|6|"Lila Rollkragenpullover"|3|3|0
-8|77|7|"Grüner Rollkragenpullover"|3|3|0
-8|86|0|"Schwarzes SN-T-Shirt"|3|-1|-1
-8|86|2|"Pegasus-T-Shirt"|3|-1|-1
-8|86|3|"Andromeda-T-Shirt"|3|-1|-1
-8|86|4|"Medusa-Kunst-T-Shirt"|3|-1|-1
-8|86|5|"Angelica-T-Shirt"|3|-1|-1
-8|86|6|"Klassisches Perseus-T-Shirt"|3|-1|-1
-8|86|7|"Schild & Schwert-T-Shirt"|3|-1|-1
-8|86|8|"Schild-T-Shirt"|3|-1|-1
-8|86|9|"Braunes Fullprint-T-Shirt"|3|-1|-1
-8|86|10|"Braunes Print-T-Shirt"|3|-1|-1
-8|86|11|"Pinkfarbenes Fullprint-T-Shirt"|3|-1|-1
-8|86|12|"Schwarzes Print-T-Shirt"|3|-1|-1
-8|86|13|"Goldenes SN-Print-T-Shirt"|3|-1|-1
-8|86|14|"Braunes SN-Print-T-Shirt"|3|-1|-1
-8|86|15|"Pinkfarbenes SN-PRB-T-Shirt"|3|-1|-1
-8|86|16|"Braunes Geo-PRB-T-Shirt"|3|-1|-1
-8|86|18|"Weißes SN-Streifen-T-Shirt"|3|-1|-1
-8|86|19|"Buntes Geo-PRB-T-Shirt"|3|-1|-1
-8|86|20|"Buntes Geo-T-Shirt"|3|-1|-1
-8|86|21|"Braunes Geo-T-Shirt"|3|-1|-1
-8|86|25|"Beiges T-Shirt"|3|-1|-1
-8|87|0|"Khakifarbenes T-Shirt"|3|-1|-1
-8|88|0|"Schwarzes SN-T-Shirt"|3|-1|-1
-8|88|2|"Pegasus-T-Shirt"|3|-1|-1
-8|88|3|"Andromeda-T-Shirt"|3|-1|-1
-8|88|4|"Medusa-Kunst-T-Shirt"|3|-1|-1
-8|88|5|"Angelica-T-Shirt"|3|-1|-1
-8|88|6|"Klassisches Perseus-T-Shirt"|3|-1|-1
-8|88|7|"Schild & Schwert-T-Shirt"|3|-1|-1
-8|88|8|"Schild-T-Shirt"|3|-1|-1
-8|88|9|"Braunes Fullprint-T-Shirt"|3|-1|-1
-8|88|10|"Braunes Print-T-Shirt"|3|-1|-1
-8|88|11|"Pinkfarbenes Fullprint-T-Shirt"|3|-1|-1
-8|88|12|"Schwarzes Print-T-Shirt"|3|-1|-1
-8|88|13|"Goldenes SN-Print-T-Shirt"|3|-1|-1
-8|88|14|"Braunes SN-Print-T-Shirt"|3|-1|-1
-8|88|15|"Pinkfarbenes SN-PRB-T-Shirt"|3|-1|-1
-8|88|16|"Braunes Geo-PRB-T-Shirt"|3|-1|-1
-8|88|18|"Weißes SN-Streifen-T-Shirt"|3|-1|-1
-8|88|19|"Buntes Geo-PRB-T-Shirt"|3|-1|-1
-8|88|20|"Buntes Geo-T-Shirt"|3|-1|-1
-8|88|21|"Braunes Geo-T-Shirt"|3|-1|-1
-8|88|25|"Beiges T-Shirt"|3|-1|-1
-8|89|0|"Khakifarbenes T-Shirt"|3|-1|-1
-8|90|0|"Schwarzes SN-T-Shirt"|3|-1|-1
-8|90|2|"Pegasus-T-Shirt"|3|-1|-1
-8|90|3|"Andromeda-T-Shirt"|3|-1|-1
-8|90|4|"Medusa-Kunst-T-Shirt"|3|-1|-1
-8|90|5|"Angelica-T-Shirt"|3|-1|-1
-8|90|6|"Klassisches Perseus-T-Shirt"|3|-1|-1
-8|90|7|"Schild & Schwert-T-Shirt"|3|-1|-1
-8|90|8|"Schild-T-Shirt"|3|-1|-1
-8|90|9|"Braunes Fullprint-T-Shirt"|3|-1|-1
-8|90|10|"Braunes Print-T-Shirt"|3|-1|-1
-8|90|11|"Pinkfarbenes Fullprint-T-Shirt"|3|-1|-1
-8|90|12|"Schwarzes Print-T-Shirt"|3|-1|-1
-8|90|13|"Goldenes SN-Print-T-Shirt"|3|-1|-1
-8|90|14|"Braunes SN-Print-T-Shirt"|3|-1|-1
-8|90|15|"Pinkfarbenes SN-PRB-T-Shirt"|3|-1|-1
-8|90|16|"Braunes Geo-PRB-T-Shirt"|3|-1|-1
-8|90|18|"Weißes SN-Streifen-T-Shirt"|3|-1|-1
-8|90|19|"Buntes Geo-PRB-T-Shirt"|3|-1|-1
-8|90|20|"Buntes Geo-T-Shirt"|3|-1|-1
-8|90|21|"Braunes Geo-T-Shirt"|3|-1|-1
-8|90|25|"Beiges T-Shirt"|3|-1|-1
-8|91|0|"Khakifarbenes T-Shirt"|3|-1|-1
-8|92|0|"Weißer Klassiker"|3|-1|-1
-8|92|1|"Schwarzer Klassiker"|3|-1|-1
-8|92|2|"Grauer Klassiker"|3|-1|-1
-8|93|0|"Weißer Klassiker"|3|-1|-1
-8|93|1|"Schwarzer Klassiker"|3|-1|-1
-8|93|2|"Grauer Klassiker"|3|-1|-1
-8|94|0|"Weißer Klassiker"|3|-1|-1
-8|94|1|"Schwarzer Klassiker"|3|-1|-1
-8|94|2|"Grauer Klassiker"|3|-1|-1
-8|95|0|"Weißes gekrempeltes T-Shirt"|3|-1|-1
-8|95|1|"Schwarzes gekrempeltes T-Shirt"|3|-1|-1
-8|95|2|"Graues gekrempeltes T-Shirt"|3|-1|-1
-8|96|0|"Weißes gekrempeltes T-Shirt"|3|-1|-1
-8|96|1|"Schwarzes gekrempeltes T-Shirt"|3|-1|-1
-8|96|2|"Graues gekrempeltes T-Shirt"|3|-1|-1
-8|97|0|"Weißes gekrempeltes T-Shirt"|3|-1|-1
-8|97|1|"Schwarzes gekrempeltes T-Shirt"|3|-1|-1
-8|97|2|"Graues gekrempeltes T-Shirt"|3|-1|-1
-8|98|0|"Weißes gekrempeltes T-Shirt"|3|-1|-1
-8|98|1|"Schwarzes gekrempeltes T-Shirt"|3|-1|-1
-8|98|2|"Graues gekrempeltes T-Shirt"|3|-1|-1
-8|99|0|"Weißes gekrempeltes T-Shirt"|3|-1|-1
-8|99|1|"Schwarzes gekrempeltes T-Shirt"|3|-1|-1
-8|99|2|"Graues gekrempeltes T-Shirt"|3|-1|-1
-8|100|0|"Weißes gekrempeltes T-Shirt"|3|-1|-1
-8|100|1|"Schwarzes gekrempeltes T-Shirt"|3|-1|-1
-8|100|2|"Graues gekrempeltes T-Shirt"|3|-1|-1
-8|101|0|"Marineblaues Blazerhemd"|3|-1|-1
-8|101|1|"Rotes Blazerhemd"|3|-1|-1
-8|102|0|"Creme mit weißem Hemd"|3|-1|-1
-8|102|1|"Creme mit schwarzem Hemd"|3|-1|-1
-8|102|2|"Creme mit marineblauem Hemd"|3|-1|-1
-8|102|3|"Creme mit rotem Hemd"|3|-1|-1
-8|102|4|"Rot mit weißem Hemd"|3|-1|-1
-8|102|5|"Rot mit schwarzem Hemd"|3|-1|-1
-8|102|6|"Rot mit marineblauem Hemd"|3|-1|-1
-8|102|7|"Rot mit rotem Hemd"|3|-1|-1
-8|102|8|"Marineblau mit weißem Hemd"|3|-1|-1
-8|102|9|"Marineblau mit schwarzem Hemd"|3|-1|-1
-8|102|10|"Marineblau mit marinebl. Hemd"|3|-1|-1
-8|102|11|"Marineblau mit rotem Hemd"|3|-1|-1
-8|102|12|"Zyan mit weißem Hemd"|3|-1|-1
-8|102|13|"Zyan mit schwarzem Hemd"|3|-1|-1
-8|102|14|"Zyan mit marineblauem Hemd"|3|-1|-1
-8|102|15|"Zyan mit rotem Hemd"|3|-1|-1
-8|102|16|"Schwarz mit weißem Hemd"|3|-1|-1
-8|102|17|"Schwarz mit schwarzem Hemd"|3|-1|-1
-8|102|18|"Schwarz mit marinebl. Hemd"|3|-1|-1
-8|102|19|"Schwarz mit rotem Hemd"|3|-1|-1
-8|102|20|"Weiß mit weißem Hemd"|3|-1|-1
-8|102|21|"Weiß mit schwarzem Hemd"|3|-1|-1
-8|102|22|"Weiß mit marineblauem Hemd"|3|-1|-1
-8|102|23|"Weiß mit rotem Hemd"|3|-1|-1
-8|103|0|"Creme mit weißem Rolli"|3|-1|-1
-8|103|1|"Creme mit schwarzem Rolli"|3|-1|-1
-8|103|2|"Creme mit marineblauem Rolli"|3|-1|-1
-8|103|3|"Creme mit rotem Rolli"|3|-1|-1
-8|103|4|"Rot mit weißem Rolli"|3|-1|-1
-8|103|5|"Rot mit schwarzem Rolli"|3|-1|-1
-8|103|6|"Rot mit marineblauem Rolli"|3|-1|-1
-8|103|7|"Rot mit rotem Rolli"|3|-1|-1
-8|103|8|"Marineblau mit weißem Rolli"|3|-1|-1
-8|103|9|"Marineblau mit schwarzem Rolli"|3|-1|-1
-8|103|10|"Marineblau mit marinebl. Rolli"|3|-1|-1
-8|103|11|"Marineblau mit rotem Rolli"|3|-1|-1
-8|103|12|"Zyan mit weißem Rolli"|3|-1|-1
-8|103|13|"Zyan mit schwarzem Rolli"|3|-1|-1
-8|103|14|"Zyan mit marineblauem Rolli"|3|-1|-1
-8|103|15|"Zyan mit rotem Rolli"|3|-1|-1
-8|103|16|"Schwarz mit weißem Rolli"|3|-1|-1
-8|103|17|"Schwarz mit schwarzem Rolli"|3|-1|-1
-8|103|18|"Schwarz mit marineblauem Rolli"|3|-1|-1
-8|103|19|"Schwarz mit rotem Rolli"|3|-1|-1
-8|103|20|"Weiß mit weißem Rolli"|3|-1|-1
-8|103|21|"Weiß mit schwarzem Rolli"|3|-1|-1
-8|103|22|"Weiß mit marineblauem Rolli"|3|-1|-1
-8|103|23|"Weiß mit rotem Rolli"|3|-1|-1
-8|106|0|"Tarn-Bigness-Krempel-T-Shirt"|3|-1|-1
-8|106|1|"Gekrempeltes Zebra-T-Shirt"|3|-1|-1
-8|106|2|"Grünes Squash-Krempel-T-Shirt"|3|-1|-1
-8|106|3|"Gekrempeltes Leoparden-T-Shirt"|3|-1|-1
-8|106|4|"Gekrempeltes GoPostal-T-Shirt"|3|-1|-1
-8|106|5|"Gekrempeltes Manor-T-Shirt"|3|-1|-1
-8|106|6|"Gestreiftes gekrempeltes T-Shirt"|3|-1|-1
-8|106|7|"Gestr. Squash-Krempel-T-Shirt"|3|-1|-1
-8|106|8|"Helles Squash-Krempel-T-Shirt"|3|-1|-1
-8|106|9|"Rotes gekrempeltes Güffy-T-Shirt"|3|-1|-1
-8|106|10|"Gelbes Güffy-Krempel-T-Shirt"|3|-1|-1
-8|106|11|"Orangensaft-Krempel-T-Shirt"|3|-1|-1
-8|106|12|"Gekrempeltes Himmels-T-Shirt"|3|-1|-1
-8|106|13|"Helles Güffy-Krempel-T-Shirt"|3|-1|-1
-8|106|14|"Gekrempeltes Spritzer-T-Shirt"|3|-1|-1
-8|106|15|"Bigness-Geo-Krempel-T-Shirt"|3|-1|-1
-8|106|16|"Sand-Castle-Krempel-T-Shirt"|3|-1|-1
-8|107|0|"Tarn-Bigness-Krempel-T-Shirt"|3|-1|-1
-8|107|1|"Gekrempeltes Zebra-T-Shirt"|3|-1|-1
-8|107|2|"Grünes Squash-Krempel-T-Shirt"|3|-1|-1
-8|107|3|"Gekrempeltes Leoparden-T-Shirt"|3|-1|-1
-8|107|4|"Gekrempeltes GoPostal-T-Shirt"|3|-1|-1
-8|107|5|"Gekrempeltes Manor-T-Shirt"|3|-1|-1
-8|107|6|"Gestreiftes gekrempeltes T-Shirt"|3|-1|-1
-8|107|7|"Gestr. Squash-Krempel-T-Shirt"|3|-1|-1
-8|107|8|"Helles Squash-Krempel-T-Shirt"|3|-1|-1
-8|107|9|"Rotes gekrempeltes Güffy-T-Shirt"|3|-1|-1
-8|107|10|"Gelbes Güffy-Krempel-T-Shirt"|3|-1|-1
-8|107|11|"Orangensaft-Krempel-T-Shirt"|3|-1|-1
-8|107|12|"Gekrempeltes Himmels-T-Shirt"|3|-1|-1
-8|107|13|"Helles Güffy-Krempel-T-Shirt"|3|-1|-1
-8|107|14|"Gekrempeltes Spritzer-T-Shirt"|3|-1|-1
-8|107|15|"Bigness-Geo-Krempel-T-Shirt"|3|-1|-1
-8|107|16|"Sand-Castle-Krempel-T-Shirt"|3|-1|-1
-8|108|0|"Tarn-Bigness-Krempel-T-Shirt"|3|-1|-1
-8|108|1|"Gekrempeltes Zebra-T-Shirt"|3|-1|-1
-8|108|2|"Grünes Squash-Krempel-T-Shirt"|3|-1|-1
-8|108|3|"Gekrempeltes Leoparden-T-Shirt"|3|-1|-1
-8|108|4|"Gekrempeltes GoPostal-T-Shirt"|3|-1|-1
-8|108|5|"Gekrempeltes Manor-T-Shirt"|3|-1|-1
-8|108|6|"Gestreiftes gekrempeltes T-Shirt"|3|-1|-1
-8|108|7|"Gestr. Squash-Krempel-T-Shirt"|3|-1|-1
-8|108|8|"Helles Squash-Krempel-T-Shirt"|3|-1|-1
-8|108|9|"Rotes gekrempeltes Güffy-T-Shirt"|3|-1|-1
-8|108|10|"Gelbes Güffy-Krempel-T-Shirt"|3|-1|-1
-8|108|11|"Orangensaft-Krempel-T-Shirt"|3|-1|-1
-8|108|12|"Gekrempeltes Himmels-T-Shirt"|3|-1|-1
-8|108|13|"Helles Güffy-Krempel-T-Shirt"|3|-1|-1
-8|108|14|"Gekrempeltes Spritzer-T-Shirt"|3|-1|-1
-8|108|15|"Bigness-Geo-Krempel-T-Shirt"|3|-1|-1
-8|108|16|"Sand-Castle-Krempel-T-Shirt"|3|-1|-1
-8|109|0|"Tarn-Bigness-Krempel-T-Shirt"|3|-1|-1
-8|109|1|"Gekrempeltes Zebra-T-Shirt"|3|-1|-1
-8|109|2|"Grünes Squash-Krempel-T-Shirt"|3|-1|-1
-8|109|3|"Gekrempeltes Leoparden-T-Shirt"|3|-1|-1
-8|109|4|"Gekrempeltes GoPostal-T-Shirt"|3|-1|-1
-8|109|5|"Gekrempeltes Manor-T-Shirt"|3|-1|-1
-8|109|6|"Gestreiftes gekrempeltes T-Shirt"|3|-1|-1
-8|109|7|"Gestr. Squash-Krempel-T-Shirt"|3|-1|-1
-8|109|8|"Helles Squash-Krempel-T-Shirt"|3|-1|-1
-8|109|9|"Rotes gekrempeltes Güffy-T-Shirt"|3|-1|-1
-8|109|10|"Gelbes Güffy-Krempel-T-Shirt"|3|-1|-1
-8|109|11|"Orangensaft-Krempel-T-Shirt"|3|-1|-1
-8|109|12|"Gekrempeltes Himmels-T-Shirt"|3|-1|-1
-8|109|13|"Helles Güffy-Krempel-T-Shirt"|3|-1|-1
-8|109|14|"Gekrempeltes Spritzer-T-Shirt"|3|-1|-1
-8|109|15|"Bigness-Geo-Krempel-T-Shirt"|3|-1|-1
-8|109|16|"Sand-Castle-Krempel-T-Shirt"|3|-1|-1
-8|110|0|"Tarn-Bigness-Krempel-T-Shirt"|3|-1|-1
-8|110|1|"Gekrempeltes Zebra-T-Shirt"|3|-1|-1
-8|110|2|"Grünes Squash-Krempel-T-Shirt"|3|-1|-1
-8|110|3|"Gekrempeltes Leoparden-T-Shirt"|3|-1|-1
-8|110|4|"Gekrempeltes GoPostal-T-Shirt"|3|-1|-1
-8|110|5|"Gekrempeltes Manor-T-Shirt"|3|-1|-1
-8|110|6|"Gestreiftes gekrempeltes T-Shirt"|3|-1|-1
-8|110|7|"Gestr. Squash-Krempel-T-Shirt"|3|-1|-1
-8|110|8|"Helles Squash-Krempel-T-Shirt"|3|-1|-1
-8|110|9|"Rotes gekrempeltes Güffy-T-Shirt"|3|-1|-1
-8|110|10|"Gelbes Güffy-Krempel-T-Shirt"|3|-1|-1
-8|110|11|"Orangensaft-Krempel-T-Shirt"|3|-1|-1
-8|110|12|"Gekrempeltes Himmels-T-Shirt"|3|-1|-1
-8|110|13|"Helles Güffy-Krempel-T-Shirt"|3|-1|-1
-8|110|14|"Gekrempeltes Spritzer-T-Shirt"|3|-1|-1
-8|110|15|"Bigness-Geo-Krempel-T-Shirt"|3|-1|-1
-8|110|16|"Sand-Castle-Krempel-T-Shirt"|3|-1|-1
-8|111|0|"Tarn-Bigness-Krempel-T-Shirt"|3|-1|-1
-8|111|1|"Gekrempeltes Zebra-T-Shirt"|3|-1|-1
-8|111|2|"Grünes Squash-Krempel-T-Shirt"|3|-1|-1
-8|111|3|"Gekrempeltes Leoparden-T-Shirt"|3|-1|-1
-8|111|4|"Gekrempeltes GoPostal-T-Shirt"|3|-1|-1
-8|111|5|"Gekrempeltes Manor-T-Shirt"|3|-1|-1
-8|111|6|"Gestreiftes gekrempeltes T-Shirt"|3|-1|-1
-8|111|7|"Gestr. Squash-Krempel-T-Shirt"|3|-1|-1
-8|111|8|"Helles Squash-Krempel-T-Shirt"|3|-1|-1
-8|111|9|"Rotes gekrempeltes Güffy-T-Shirt"|3|-1|-1
-8|111|10|"Gelbes Güffy-Krempel-T-Shirt"|3|-1|-1
-8|111|11|"Orangensaft-Krempel-T-Shirt"|3|-1|-1
-8|111|12|"Gekrempeltes Himmels-T-Shirt"|3|-1|-1
-8|111|13|"Helles Güffy-Krempel-T-Shirt"|3|-1|-1
-8|111|14|"Gekrempeltes Spritzer-T-Shirt"|3|-1|-1
-8|111|15|"Bigness-Geo-Krempel-T-Shirt"|3|-1|-1
-8|111|16|"Sand-Castle-Krempel-T-Shirt"|3|-1|-1
-8|112|0|"Tarn-Bigness-Krempel-T-Shirt"|3|-1|-1
-8|112|1|"Gekrempeltes Zebra-T-Shirt"|3|-1|-1
-8|112|2|"Grünes Squash-Krempel-T-Shirt"|3|-1|-1
-8|112|3|"Gekrempeltes Leoparden-T-Shirt"|3|-1|-1
-8|112|4|"Gekrempeltes GoPostal-T-Shirt"|3|-1|-1
-8|112|5|"Gekrempeltes Manor-T-Shirt"|3|-1|-1
-8|112|6|"Gestreiftes gekrempeltes T-Shirt"|3|-1|-1
-8|112|7|"Gestr. Squash-Krempel-T-Shirt"|3|-1|-1
-8|112|8|"Helles Squash-Krempel-T-Shirt"|3|-1|-1
-8|112|9|"Rotes gekrempeltes Güffy-T-Shirt"|3|-1|-1
-8|112|10|"Gelbes Güffy-Krempel-T-Shirt"|3|-1|-1
-8|112|11|"Orangensaft-Krempel-T-Shirt"|3|-1|-1
-8|112|12|"Gekrempeltes Himmels-T-Shirt"|3|-1|-1
-8|112|13|"Helles Güffy-Krempel-T-Shirt"|3|-1|-1
-8|112|14|"Gekrempeltes Spritzer-T-Shirt"|3|-1|-1
-8|112|15|"Bigness-Geo-Krempel-T-Shirt"|3|-1|-1
-8|112|16|"Sand-Castle-Krempel-T-Shirt"|3|-1|-1
-8|113|0|"Tarn-Bigness-Krempel-T-Shirt"|3|-1|-1
-8|113|1|"Gekrempeltes Zebra-T-Shirt"|3|-1|-1
-8|113|2|"Grünes Squash-Krempel-T-Shirt"|3|-1|-1
-8|113|3|"Gekrempeltes Leoparden-T-Shirt"|3|-1|-1
-8|113|4|"Gekrempeltes GoPostal-T-Shirt"|3|-1|-1
-8|113|5|"Gekrempeltes Manor-T-Shirt"|3|-1|-1
-8|113|6|"Gestreiftes gekrempeltes T-Shirt"|3|-1|-1
-8|113|7|"Gestr. Squash-Krempel-T-Shirt"|3|-1|-1
-8|113|8|"Helles Squash-Krempel-T-Shirt"|3|-1|-1
-8|113|9|"Rotes gekrempeltes Güffy-T-Shirt"|3|-1|-1
-8|113|10|"Gelbes Güffy-Krempel-T-Shirt"|3|-1|-1
-8|113|11|"Orangensaft-Krempel-T-Shirt"|3|-1|-1
-8|113|12|"Gekrempeltes Himmels-T-Shirt"|3|-1|-1
-8|113|13|"Helles Güffy-Krempel-T-Shirt"|3|-1|-1
-8|113|14|"Gekrempeltes Spritzer-T-Shirt"|3|-1|-1
-8|113|15|"Bigness-Geo-Krempel-T-Shirt"|3|-1|-1
-8|113|16|"Sand-Castle-Krempel-T-Shirt"|3|-1|-1
-8|114|0|"Tarn-Bigness-Krempel-T-Shirt"|3|-1|-1
-8|114|1|"Gekrempeltes Zebra-T-Shirt"|3|-1|-1
-8|114|2|"Grünes Squash-Krempel-T-Shirt"|3|-1|-1
-8|114|3|"Gekrempeltes Leoparden-T-Shirt"|3|-1|-1
-8|114|4|"Gekrempeltes GoPostal-T-Shirt"|3|-1|-1
-8|114|5|"Gekrempeltes Manor-T-Shirt"|3|-1|-1
-8|114|6|"Gestreiftes gekrempeltes T-Shirt"|3|-1|-1
-8|114|7|"Gestr. Squash-Krempel-T-Shirt"|3|-1|-1
-8|114|8|"Helles Squash-Krempel-T-Shirt"|3|-1|-1
-8|114|9|"Rotes gekrempeltes Güffy-T-Shirt"|3|-1|-1
-8|114|10|"Gelbes Güffy-Krempel-T-Shirt"|3|-1|-1
-8|114|11|"Orangensaft-Krempel-T-Shirt"|3|-1|-1
-8|114|12|"Gekrempeltes Himmels-T-Shirt"|3|-1|-1
-8|114|13|"Helles Güffy-Krempel-T-Shirt"|3|-1|-1
-8|114|14|"Gekrempeltes Spritzer-T-Shirt"|3|-1|-1
-8|114|15|"Bigness-Geo-Krempel-T-Shirt"|3|-1|-1
-8|114|16|"Sand-Castle-Krempel-T-Shirt"|3|-1|-1
-8|115|0|"Tarn-Bigness-Krempel-T-Shirt"|3|-1|-1
-8|115|1|"Gekrempeltes Zebra-T-Shirt"|3|-1|-1
-8|115|2|"Grünes Squash-Krempel-T-Shirt"|3|-1|-1
-8|115|3|"Gekrempeltes Leoparden-T-Shirt"|3|-1|-1
-8|115|4|"Gekrempeltes GoPostal-T-Shirt"|3|-1|-1
-8|115|5|"Gekrempeltes Manor-T-Shirt"|3|-1|-1
-8|115|6|"Gestreiftes gekrempeltes T-Shirt"|3|-1|-1
-8|115|7|"Gestr. Squash-Krempel-T-Shirt"|3|-1|-1
-8|115|8|"Helles Squash-Krempel-T-Shirt"|3|-1|-1
-8|115|9|"Rotes gekrempeltes Güffy-T-Shirt"|3|-1|-1
-8|115|10|"Gelbes Güffy-Krempel-T-Shirt"|3|-1|-1
-8|115|11|"Orangensaft-Krempel-T-Shirt"|3|-1|-1
-8|115|12|"Gekrempeltes Himmels-T-Shirt"|3|-1|-1
-8|115|13|"Helles Güffy-Krempel-T-Shirt"|3|-1|-1
-8|115|14|"Gekrempeltes Spritzer-T-Shirt"|3|-1|-1
-8|115|15|"Bigness-Geo-Krempel-T-Shirt"|3|-1|-1
-8|115|16|"Sand-Castle-Krempel-T-Shirt"|3|-1|-1
-8|116|0|"Tarn-Bigness-Krempel-T-Shirt"|3|-1|-1
-8|116|1|"Gekrempeltes Zebra-T-Shirt"|3|-1|-1
-8|116|2|"Grünes Squash-Krempel-T-Shirt"|3|-1|-1
-8|116|3|"Gekrempeltes Leoparden-T-Shirt"|3|-1|-1
-8|116|4|"Gekrempeltes GoPostal-T-Shirt"|3|-1|-1
-8|116|5|"Gekrempeltes Manor-T-Shirt"|3|-1|-1
-8|116|6|"Gestreiftes gekrempeltes T-Shirt"|3|-1|-1
-8|116|7|"Gestr. Squash-Krempel-T-Shirt"|3|-1|-1
-8|116|8|"Helles Squash-Krempel-T-Shirt"|3|-1|-1
-8|116|9|"Rotes gekrempeltes Güffy-T-Shirt"|3|-1|-1
-8|116|10|"Gelbes Güffy-Krempel-T-Shirt"|3|-1|-1
-8|116|11|"Orangensaft-Krempel-T-Shirt"|3|-1|-1
-8|116|12|"Gekrempeltes Himmels-T-Shirt"|3|-1|-1
-8|116|13|"Helles Güffy-Krempel-T-Shirt"|3|-1|-1
-8|116|14|"Gekrempeltes Spritzer-T-Shirt"|3|-1|-1
-8|116|15|"Bigness-Geo-Krempel-T-Shirt"|3|-1|-1
-8|116|16|"Sand-Castle-Krempel-T-Shirt"|3|-1|-1
-8|117|0|"Tarn-Bigness-Krempel-T-Shirt"|3|-1|-1
-8|117|1|"Gekrempeltes Zebra-T-Shirt"|3|-1|-1
-8|117|2|"Grünes Squash-Krempel-T-Shirt"|3|-1|-1
-8|117|3|"Gekrempeltes Leoparden-T-Shirt"|3|-1|-1
-8|117|4|"Gekrempeltes GoPostal-T-Shirt"|3|-1|-1
-8|117|5|"Gekrempeltes Manor-T-Shirt"|3|-1|-1
-8|117|6|"Gestreiftes gekrempeltes T-Shirt"|3|-1|-1
-8|117|7|"Gestr. Squash-Krempel-T-Shirt"|3|-1|-1
-8|117|8|"Helles Squash-Krempel-T-Shirt"|3|-1|-1
-8|117|9|"Rotes gekrempeltes Güffy-T-Shirt"|3|-1|-1
-8|117|10|"Gelbes Güffy-Krempel-T-Shirt"|3|-1|-1
-8|117|11|"Orangensaft-Krempel-T-Shirt"|3|-1|-1
-8|117|12|"Gekrempeltes Himmels-T-Shirt"|3|-1|-1
-8|117|13|"Helles Güffy-Krempel-T-Shirt"|3|-1|-1
-8|117|14|"Gekrempeltes Spritzer-T-Shirt"|3|-1|-1
-8|117|15|"Bigness-Geo-Krempel-T-Shirt"|3|-1|-1
-8|117|16|"Sand-Castle-Krempel-T-Shirt"|3|-1|-1
-8|118|0|"Blaues Digitaltarn-T-Shirt"|3|-1|-1
-8|118|1|"Braunes Digitaltarn-T-Shirt"|3|-1|-1
-8|118|2|"Grünes Digitaltarn-T-Shirt"|3|-1|-1
-8|118|3|"Graues Digitaltarn-T-Shirt"|3|-1|-1
-8|118|4|"Pfirsichf. Digitaltarn-T-Shirt"|3|-1|-1
-8|118|5|"Herbsttarn-T-Shirt"|3|-1|-1
-8|118|6|"Dunkles Waldtarn-T-Shirt"|3|-1|-1
-8|118|7|"Crosshatch-T-Shirt"|3|-1|-1
-8|118|8|"Moosgrünes Digitaltarn-T-Shirt"|3|-1|-1
-8|118|9|"Graues Waldtarn-T-Shirt"|3|-1|-1
-8|118|10|"Aquablaues Tarn-T-Shirt"|3|-1|-1
-8|118|11|"Splitter-T-Shirt"|3|-1|-1
-8|118|12|"Kontrasttarn-T-Shirt"|3|-1|-1
-8|118|13|"Pflasterstein-T-Shirt"|3|-1|-1
-8|118|14|"Pfirsichfarbenes Tarn-T-Shirt"|3|-1|-1
-8|118|15|"Pinselstrich-T-Shirt"|3|-1|-1
-8|118|16|"Flecktarn-T-Shirt"|3|-1|-1
-8|118|17|"Helles Waldtarn-T-Shirt"|3|-1|-1
-8|118|18|"Moosgrünes T-Shirt"|3|-1|-1
-8|118|19|"Sandbraunes T-Shirt"|3|-1|-1
-8|119|0|"Blaues Digitaltarn-T-Shirt"|3|-1|-1
-8|119|1|"Braunes Digitaltarn-T-Shirt"|3|-1|-1
-8|119|2|"Grünes Digitaltarn-T-Shirt"|3|-1|-1
-8|119|3|"Graues Digitaltarn-T-Shirt"|3|-1|-1
-8|119|4|"Pfirsichf. Digitaltarn-T-Shirt"|3|-1|-1
-8|119|5|"Herbsttarn-T-Shirt"|3|-1|-1
-8|119|6|"Dunkles Waldtarn-T-Shirt"|3|-1|-1
-8|119|7|"Crosshatch-T-Shirt"|3|-1|-1
-8|119|8|"Moosgrünes Digitaltarn-T-Shirt"|3|-1|-1
-8|119|9|"Graues Waldtarn-T-Shirt"|3|-1|-1
-8|119|10|"Aquablaues Tarn-T-Shirt"|3|-1|-1
-8|119|11|"Splitter-T-Shirt"|3|-1|-1
-8|119|12|"Kontrasttarn-T-Shirt"|3|-1|-1
-8|119|13|"Pflasterstein-T-Shirt"|3|-1|-1
-8|119|14|"Pfirsichfarbenes Tarn-T-Shirt"|3|-1|-1
-8|119|15|"Pinselstrich-T-Shirt"|3|-1|-1
-8|119|16|"Flecktarn-T-Shirt"|3|-1|-1
-8|119|17|"Helles Waldtarn-T-Shirt"|3|-1|-1
-8|119|18|"Moosgrünes T-Shirt"|3|-1|-1
-8|119|19|"Sandbraunes T-Shirt"|3|-1|-1
-8|120|0|"Blaues Digitaltarn-T-Shirt"|3|-1|-1
-8|120|1|"Braunes Digitaltarn-T-Shirt"|3|-1|-1
-8|120|2|"Grünes Digitaltarn-T-Shirt"|3|-1|-1
-8|120|3|"Graues Digitaltarn-T-Shirt"|3|-1|-1
-8|120|4|"Pfirsichf. Digitaltarn-T-Shirt"|3|-1|-1
-8|120|5|"Herbsttarn-T-Shirt"|3|-1|-1
-8|120|6|"Dunkles Waldtarn-T-Shirt"|3|-1|-1
-8|120|7|"Crosshatch-T-Shirt"|3|-1|-1
-8|120|8|"Moosgrünes Digitaltarn-T-Shirt"|3|-1|-1
-8|120|9|"Graues Waldtarn-T-Shirt"|3|-1|-1
-8|120|10|"Aquablaues Tarn-T-Shirt"|3|-1|-1
-8|120|11|"Splitter-T-Shirt"|3|-1|-1
-8|120|12|"Kontrasttarn-T-Shirt"|3|-1|-1
-8|120|13|"Pflasterstein-T-Shirt"|3|-1|-1
-8|120|14|"Pfirsichfarbenes Tarn-T-Shirt"|3|-1|-1
-8|120|15|"Pinselstrich-T-Shirt"|3|-1|-1
-8|120|16|"Flecktarn-T-Shirt"|3|-1|-1
-8|120|17|"Helles Waldtarn-T-Shirt"|3|-1|-1
-8|120|18|"Moosgrünes T-Shirt"|3|-1|-1
-8|120|19|"Sandbraunes T-Shirt"|3|-1|-1
-8|121|0|"Blaues Digitaltarn-T-Shirt"|3|-1|-1
-8|121|1|"Braunes Digitaltarn-T-Shirt"|3|-1|-1
-8|121|2|"Grünes Digitaltarn-T-Shirt"|3|-1|-1
-8|121|3|"Graues Digitaltarn-T-Shirt"|3|-1|-1
-8|121|4|"Pfirsichf. Digitaltarn-T-Shirt"|3|-1|-1
-8|121|5|"Herbsttarn-T-Shirt"|3|-1|-1
-8|121|6|"Dunkles Waldtarn-T-Shirt"|3|-1|-1
-8|121|7|"Crosshatch-T-Shirt"|3|-1|-1
-8|121|8|"Moosgrünes Digitaltarn-T-Shirt"|3|-1|-1
-8|121|9|"Graues Waldtarn-T-Shirt"|3|-1|-1
-8|121|10|"Aquablaues Tarn-T-Shirt"|3|-1|-1
-8|121|11|"Splitter-T-Shirt"|3|-1|-1
-8|121|12|"Kontrasttarn-T-Shirt"|3|-1|-1
-8|121|13|"Pflasterstein-T-Shirt"|3|-1|-1
-8|121|14|"Pfirsichfarbenes Tarn-T-Shirt"|3|-1|-1
-8|121|15|"Pinselstrich-T-Shirt"|3|-1|-1
-8|121|16|"Flecktarn-T-Shirt"|3|-1|-1
-8|121|17|"Helles Waldtarn-T-Shirt"|3|-1|-1
-8|121|18|"Moosgrünes T-Shirt"|3|-1|-1
-8|121|19|"Sandbraunes T-Shirt"|3|-1|-1
-8|122|0|"Blaues Digitaltarn-T-Shirt"|3|-1|-1
-8|122|1|"Braunes Digitaltarn-T-Shirt"|3|-1|-1
-8|122|2|"Grünes Digitaltarn-T-Shirt"|3|-1|-1
-8|122|3|"Graues Digitaltarn-T-Shirt"|3|-1|-1
-8|122|4|"Pfirsichf. Digitaltarn-T-Shirt"|3|-1|-1
-8|122|5|"Herbsttarn-T-Shirt"|3|-1|-1
-8|122|6|"Dunkles Waldtarn-T-Shirt"|3|-1|-1
-8|122|7|"Crosshatch-T-Shirt"|3|-1|-1
-8|122|8|"Moosgrünes Digitaltarn-T-Shirt"|3|-1|-1
-8|122|9|"Graues Waldtarn-T-Shirt"|3|-1|-1
-8|122|10|"Aquablaues Tarn-T-Shirt"|3|-1|-1
-8|122|11|"Splitter-T-Shirt"|3|-1|-1
-8|122|12|"Kontrasttarn-T-Shirt"|3|-1|-1
-8|122|13|"Pflasterstein-T-Shirt"|3|-1|-1
-8|122|14|"Pfirsichfarbenes Tarn-T-Shirt"|3|-1|-1
-8|122|15|"Pinselstrich-T-Shirt"|3|-1|-1
-8|122|16|"Flecktarn-T-Shirt"|3|-1|-1
-8|122|17|"Helles Waldtarn-T-Shirt"|3|-1|-1
-8|122|18|"Moosgrünes T-Shirt"|3|-1|-1
-8|122|19|"Sandbraunes T-Shirt"|3|-1|-1
-8|123|0|"Blaues Digitaltarn-T-Shirt"|3|-1|-1
-8|123|1|"Braunes Digitaltarn-T-Shirt"|3|-1|-1
-8|123|2|"Grünes Digitaltarn-T-Shirt"|3|-1|-1
-8|123|3|"Graues Digitaltarn-T-Shirt"|3|-1|-1
-8|123|4|"Pfirsichf. Digitaltarn-T-Shirt"|3|-1|-1
-8|123|5|"Herbsttarn-T-Shirt"|3|-1|-1
-8|123|6|"Dunkles Waldtarn-T-Shirt"|3|-1|-1
-8|123|7|"Crosshatch-T-Shirt"|3|-1|-1
-8|123|8|"Moosgrünes Digitaltarn-T-Shirt"|3|-1|-1
-8|123|9|"Graues Waldtarn-T-Shirt"|3|-1|-1
-8|123|10|"Aquablaues Tarn-T-Shirt"|3|-1|-1
-8|123|11|"Splitter-T-Shirt"|3|-1|-1
-8|123|12|"Kontrasttarn-T-Shirt"|3|-1|-1
-8|123|13|"Pflasterstein-T-Shirt"|3|-1|-1
-8|123|14|"Pfirsichfarbenes Tarn-T-Shirt"|3|-1|-1
-8|123|15|"Pinselstrich-T-Shirt"|3|-1|-1
-8|123|16|"Flecktarn-T-Shirt"|3|-1|-1
-8|123|17|"Helles Waldtarn-T-Shirt"|3|-1|-1
-8|123|18|"Moosgrünes T-Shirt"|3|-1|-1
-8|123|19|"Sandbraunes T-Shirt"|3|-1|-1
-8|124|0|"Blaues Digitaltarn-T-Shirt"|3|-1|-1
-8|124|1|"Braunes Digitaltarn-T-Shirt"|3|-1|-1
-8|124|2|"Grünes Digitaltarn-T-Shirt"|3|-1|-1
-8|124|3|"Graues Digitaltarn-T-Shirt"|3|-1|-1
-8|124|4|"Pfirsichf. Digitaltarn-T-Shirt"|3|-1|-1
-8|124|5|"Herbsttarn-T-Shirt"|3|-1|-1
-8|124|6|"Dunkles Waldtarn-T-Shirt"|3|-1|-1
-8|124|7|"Crosshatch-T-Shirt"|3|-1|-1
-8|124|8|"Moosgrünes Digitaltarn-T-Shirt"|3|-1|-1
-8|124|9|"Graues Waldtarn-T-Shirt"|3|-1|-1
-8|124|10|"Aquablaues Tarn-T-Shirt"|3|-1|-1
-8|124|11|"Splitter-T-Shirt"|3|-1|-1
-8|124|12|"Kontrasttarn-T-Shirt"|3|-1|-1
-8|124|13|"Pflasterstein-T-Shirt"|3|-1|-1
-8|124|14|"Pfirsichfarbenes Tarn-T-Shirt"|3|-1|-1
-8|124|15|"Pinselstrich-T-Shirt"|3|-1|-1
-8|124|16|"Flecktarn-T-Shirt"|3|-1|-1
-8|124|17|"Helles Waldtarn-T-Shirt"|3|-1|-1
-8|124|18|"Moosgrünes T-Shirt"|3|-1|-1
-8|124|19|"Sandbraunes T-Shirt"|3|-1|-1
-8|125|0|"Blaues Digitaltarn-T-Shirt"|3|-1|-1
-8|125|1|"Braunes Digitaltarn-T-Shirt"|3|-1|-1
-8|125|2|"Grünes Digitaltarn-T-Shirt"|3|-1|-1
-8|125|3|"Graues Digitaltarn-T-Shirt"|3|-1|-1
-8|125|4|"Pfirsichf. Digitaltarn-T-Shirt"|3|-1|-1
-8|125|5|"Herbsttarn-T-Shirt"|3|-1|-1
-8|125|6|"Dunkles Waldtarn-T-Shirt"|3|-1|-1
-8|125|7|"Crosshatch-T-Shirt"|3|-1|-1
-8|125|8|"Moosgrünes Digitaltarn-T-Shirt"|3|-1|-1
-8|125|9|"Graues Waldtarn-T-Shirt"|3|-1|-1
-8|125|10|"Aquablaues Tarn-T-Shirt"|3|-1|-1
-8|125|11|"Splitter-T-Shirt"|3|-1|-1
-8|125|12|"Kontrasttarn-T-Shirt"|3|-1|-1
-8|125|13|"Pflasterstein-T-Shirt"|3|-1|-1
-8|125|14|"Pfirsichfarbenes Tarn-T-Shirt"|3|-1|-1
-8|125|15|"Pinselstrich-T-Shirt"|3|-1|-1
-8|125|16|"Flecktarn-T-Shirt"|3|-1|-1
-8|125|17|"Helles Waldtarn-T-Shirt"|3|-1|-1
-8|125|18|"Moosgrünes T-Shirt"|3|-1|-1
-8|125|19|"Sandbraunes T-Shirt"|3|-1|-1
-8|126|0|"Blaues Digitaltarn-T-Shirt"|3|-1|-1
-8|126|1|"Braunes Digitaltarn-T-Shirt"|3|-1|-1
-8|126|2|"Grünes Digitaltarn-T-Shirt"|3|-1|-1
-8|126|3|"Graues Digitaltarn-T-Shirt"|3|-1|-1
-8|126|4|"Pfirsichf. Digitaltarn-T-Shirt"|3|-1|-1
-8|126|5|"Herbsttarn-T-Shirt"|3|-1|-1
-8|126|6|"Dunkles Waldtarn-T-Shirt"|3|-1|-1
-8|126|7|"Crosshatch-T-Shirt"|3|-1|-1
-8|126|8|"Moosgrünes Digitaltarn-T-Shirt"|3|-1|-1
-8|126|9|"Graues Waldtarn-T-Shirt"|3|-1|-1
-8|126|10|"Aquablaues Tarn-T-Shirt"|3|-1|-1
-8|126|11|"Splitter-T-Shirt"|3|-1|-1
-8|126|12|"Kontrasttarn-T-Shirt"|3|-1|-1
-8|126|13|"Pflasterstein-T-Shirt"|3|-1|-1
-8|126|14|"Pfirsichfarbenes Tarn-T-Shirt"|3|-1|-1
-8|126|15|"Pinselstrich-T-Shirt"|3|-1|-1
-8|126|16|"Flecktarn-T-Shirt"|3|-1|-1
-8|126|17|"Helles Waldtarn-T-Shirt"|3|-1|-1
-8|126|18|"Moosgrünes T-Shirt"|3|-1|-1
-8|126|19|"Sandbraunes T-Shirt"|3|-1|-1
-8|127|0|"Blaues Digitaltarn-T-Shirt"|3|-1|-1
-8|127|1|"Braunes Digitaltarn-T-Shirt"|3|-1|-1
-8|127|2|"Grünes Digitaltarn-T-Shirt"|3|-1|-1
-8|127|3|"Graues Digitaltarn-T-Shirt"|3|-1|-1
-8|127|4|"Pfirsichf. Digitaltarn-T-Shirt"|3|-1|-1
-8|127|5|"Herbsttarn-T-Shirt"|3|-1|-1
-8|127|6|"Dunkles Waldtarn-T-Shirt"|3|-1|-1
-8|127|7|"Crosshatch-T-Shirt"|3|-1|-1
-8|127|8|"Moosgrünes Digitaltarn-T-Shirt"|3|-1|-1
-8|127|9|"Graues Waldtarn-T-Shirt"|3|-1|-1
-8|127|10|"Aquablaues Tarn-T-Shirt"|3|-1|-1
-8|127|11|"Splitter-T-Shirt"|3|-1|-1
-8|127|12|"Kontrasttarn-T-Shirt"|3|-1|-1
-8|127|13|"Pflasterstein-T-Shirt"|3|-1|-1
-8|127|14|"Pfirsichfarbenes Tarn-T-Shirt"|3|-1|-1
-8|127|15|"Pinselstrich-T-Shirt"|3|-1|-1
-8|127|16|"Flecktarn-T-Shirt"|3|-1|-1
-8|127|17|"Helles Waldtarn-T-Shirt"|3|-1|-1
-8|127|18|"Moosgrünes T-Shirt"|3|-1|-1
-8|127|19|"Sandbraunes T-Shirt"|3|-1|-1
-8|128|0|"Blaues Digitaltarn-T-Shirt"|3|-1|-1
-8|128|1|"Braunes Digitaltarn-T-Shirt"|3|-1|-1
-8|128|2|"Grünes Digitaltarn-T-Shirt"|3|-1|-1
-8|128|3|"Graues Digitaltarn-T-Shirt"|3|-1|-1
-8|128|4|"Pfirsichf. Digitaltarn-T-Shirt"|3|-1|-1
-8|128|5|"Herbsttarn-T-Shirt"|3|-1|-1
-8|128|6|"Dunkles Waldtarn-T-Shirt"|3|-1|-1
-8|128|7|"Crosshatch-T-Shirt"|3|-1|-1
-8|128|8|"Moosgrünes Digitaltarn-T-Shirt"|3|-1|-1
-8|128|9|"Graues Waldtarn-T-Shirt"|3|-1|-1
-8|128|10|"Aquablaues Tarn-T-Shirt"|3|-1|-1
-8|128|11|"Splitter-T-Shirt"|3|-1|-1
-8|128|12|"Kontrasttarn-T-Shirt"|3|-1|-1
-8|128|13|"Pflasterstein-T-Shirt"|3|-1|-1
-8|128|14|"Pfirsichfarbenes Tarn-T-Shirt"|3|-1|-1
-8|128|15|"Pinselstrich-T-Shirt"|3|-1|-1
-8|128|16|"Flecktarn-T-Shirt"|3|-1|-1
-8|128|17|"Helles Waldtarn-T-Shirt"|3|-1|-1
-8|128|18|"Moosgrünes T-Shirt"|3|-1|-1
-8|128|19|"Sandbraunes T-Shirt"|3|-1|-1
-8|129|0|"Blaues Digitaltarn-T-Shirt"|3|-1|-1
-8|129|1|"Braunes Digitaltarn-T-Shirt"|3|-1|-1
-8|129|2|"Grünes Digitaltarn-T-Shirt"|3|-1|-1
-8|129|3|"Graues Digitaltarn-T-Shirt"|3|-1|-1
-8|129|4|"Pfirsichf. Digitaltarn-T-Shirt"|3|-1|-1
-8|129|5|"Herbsttarn-T-Shirt"|3|-1|-1
-8|129|6|"Dunkles Waldtarn-T-Shirt"|3|-1|-1
-8|129|7|"Crosshatch-T-Shirt"|3|-1|-1
-8|129|8|"Moosgrünes Digitaltarn-T-Shirt"|3|-1|-1
-8|129|9|"Graues Waldtarn-T-Shirt"|3|-1|-1
-8|129|10|"Aquablaues Tarn-T-Shirt"|3|-1|-1
-8|129|11|"Splitter-T-Shirt"|3|-1|-1
-8|129|12|"Kontrasttarn-T-Shirt"|3|-1|-1
-8|129|13|"Pflasterstein-T-Shirt"|3|-1|-1
-8|129|14|"Pfirsichfarbenes Tarn-T-Shirt"|3|-1|-1
-8|129|15|"Pinselstrich-T-Shirt"|3|-1|-1
-8|129|16|"Flecktarn-T-Shirt"|3|-1|-1
-8|129|17|"Helles Waldtarn-T-Shirt"|3|-1|-1
-8|129|18|"Moosgrünes T-Shirt"|3|-1|-1
-8|129|19|"Sandbraunes T-Shirt"|3|-1|-1
-8|130|0|"Blaues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|130|1|"Braunes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|130|2|"Grünes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|130|3|"Graues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|130|4|"Pfirsichf. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|130|5|"Gekrempelt. Herbsttarn-T-Shirt"|3|-1|-1
-8|130|6|"Dunkles gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|130|7|"Gekremp. Crosshatch-T-Shirt"|3|-1|-1
-8|130|8|"Moosgr. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|130|9|"Graues gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|130|10|"Aquablaues gekremp. Tarn-T-Sh."|3|-1|-1
-8|130|11|"Gekrempeltes Splitter-T-Shirt"|3|-1|-1
-8|130|12|"Gekremp. Kontrasttarn-T-Shirt"|3|-1|-1
-8|130|13|"Gekremp. Pflasterstein-T-Shirt"|3|-1|-1
-8|130|14|"Pfirsichf. gekremp. Tarn-T-Shirt"|3|-1|-1
-8|130|15|"Gekremp. Pinselstrich-T-Shirt"|3|-1|-1
-8|130|16|"Gekrempeltes Flecktarn-T-Shirt"|3|-1|-1
-8|130|17|"Helles gekremp. Waldtarn-T-Shirt"|3|-1|-1
-8|130|18|"Moosgr. gekrempeltes T-Shirt"|3|-1|-1
-8|130|19|"Sandbraunes gekremp. T-Shirt"|3|-1|-1
-8|131|0|"Blaues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|131|1|"Braunes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|131|2|"Grünes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|131|3|"Graues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|131|4|"Pfirsichf. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|131|5|"Gekrempelt. Herbsttarn-T-Shirt"|3|-1|-1
-8|131|6|"Dunkles gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|131|7|"Gekremp. Crosshatch-T-Shirt"|3|-1|-1
-8|131|8|"Moosgr. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|131|9|"Graues gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|131|10|"Aquablaues gekremp. Tarn-T-Sh."|3|-1|-1
-8|131|11|"Gekrempeltes Splitter-T-Shirt"|3|-1|-1
-8|131|12|"Gekremp. Kontrasttarn-T-Shirt"|3|-1|-1
-8|131|13|"Gekremp. Pflasterstein-T-Shirt"|3|-1|-1
-8|131|14|"Pfirsichf. gekremp. Tarn-T-Shirt"|3|-1|-1
-8|131|15|"Gekremp. Pinselstrich-T-Shirt"|3|-1|-1
-8|131|16|"Gekrempeltes Flecktarn-T-Shirt"|3|-1|-1
-8|131|17|"Helles gekremp. Waldtarn-T-Shirt"|3|-1|-1
-8|131|18|"Moosgr. gekrempeltes T-Shirt"|3|-1|-1
-8|131|19|"Sandbraunes gekremp. T-Shirt"|3|-1|-1
-8|132|0|"Blaues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|132|1|"Braunes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|132|2|"Grünes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|132|3|"Graues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|132|4|"Pfirsichf. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|132|5|"Gekrempelt. Herbsttarn-T-Shirt"|3|-1|-1
-8|132|6|"Dunkles gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|132|7|"Gekremp. Crosshatch-T-Shirt"|3|-1|-1
-8|132|8|"Moosgr. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|132|9|"Graues gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|132|10|"Aquablaues gekremp. Tarn-T-Sh."|3|-1|-1
-8|132|11|"Gekrempeltes Splitter-T-Shirt"|3|-1|-1
-8|132|12|"Gekremp. Kontrasttarn-T-Shirt"|3|-1|-1
-8|132|13|"Gekremp. Pflasterstein-T-Shirt"|3|-1|-1
-8|132|14|"Pfirsichf. gekremp. Tarn-T-Shirt"|3|-1|-1
-8|132|15|"Gekremp. Pinselstrich-T-Shirt"|3|-1|-1
-8|132|16|"Gekrempeltes Flecktarn-T-Shirt"|3|-1|-1
-8|132|17|"Helles gekremp. Waldtarn-T-Shirt"|3|-1|-1
-8|132|18|"Moosgr. gekrempeltes T-Shirt"|3|-1|-1
-8|132|19|"Sandbraunes gekremp. T-Shirt"|3|-1|-1
-8|133|0|"Blaues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|133|1|"Braunes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|133|2|"Grünes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|133|3|"Graues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|133|4|"Pfirsichf. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|133|5|"Gekrempelt. Herbsttarn-T-Shirt"|3|-1|-1
-8|133|6|"Dunkles gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|133|7|"Gekremp. Crosshatch-T-Shirt"|3|-1|-1
-8|133|8|"Moosgr. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|133|9|"Graues gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|133|10|"Aquablaues gekremp. Tarn-T-Sh."|3|-1|-1
-8|133|11|"Gekrempeltes Splitter-T-Shirt"|3|-1|-1
-8|133|12|"Gekremp. Kontrasttarn-T-Shirt"|3|-1|-1
-8|133|13|"Gekremp. Pflasterstein-T-Shirt"|3|-1|-1
-8|133|14|"Pfirsichf. gekremp. Tarn-T-Shirt"|3|-1|-1
-8|133|15|"Gekremp. Pinselstrich-T-Shirt"|3|-1|-1
-8|133|16|"Gekrempeltes Flecktarn-T-Shirt"|3|-1|-1
-8|133|17|"Helles gekremp. Waldtarn-T-Shirt"|3|-1|-1
-8|133|18|"Moosgr. gekrempeltes T-Shirt"|3|-1|-1
-8|133|19|"Sandbraunes gekremp. T-Shirt"|3|-1|-1
-8|134|0|"Blaues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|134|1|"Braunes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|134|2|"Grünes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|134|3|"Graues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|134|4|"Pfirsichf. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|134|5|"Gekrempelt. Herbsttarn-T-Shirt"|3|-1|-1
-8|134|6|"Dunkles gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|134|7|"Gekremp. Crosshatch-T-Shirt"|3|-1|-1
-8|134|8|"Moosgr. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|134|9|"Graues gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|134|10|"Aquablaues gekremp. Tarn-T-Sh."|3|-1|-1
-8|134|11|"Gekrempeltes Splitter-T-Shirt"|3|-1|-1
-8|134|12|"Gekremp. Kontrasttarn-T-Shirt"|3|-1|-1
-8|134|13|"Gekremp. Pflasterstein-T-Shirt"|3|-1|-1
-8|134|14|"Pfirsichf. gekremp. Tarn-T-Shirt"|3|-1|-1
-8|134|15|"Gekremp. Pinselstrich-T-Shirt"|3|-1|-1
-8|134|16|"Gekrempeltes Flecktarn-T-Shirt"|3|-1|-1
-8|134|17|"Helles gekremp. Waldtarn-T-Shirt"|3|-1|-1
-8|134|18|"Moosgr. gekrempeltes T-Shirt"|3|-1|-1
-8|134|19|"Sandbraunes gekremp. T-Shirt"|3|-1|-1
-8|135|0|"Blaues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|135|1|"Braunes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|135|2|"Grünes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|135|3|"Graues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|135|4|"Pfirsichf. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|135|5|"Gekrempelt. Herbsttarn-T-Shirt"|3|-1|-1
-8|135|6|"Dunkles gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|135|7|"Gekremp. Crosshatch-T-Shirt"|3|-1|-1
-8|135|8|"Moosgr. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|135|9|"Graues gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|135|10|"Aquablaues gekremp. Tarn-T-Sh."|3|-1|-1
-8|135|11|"Gekrempeltes Splitter-T-Shirt"|3|-1|-1
-8|135|12|"Gekremp. Kontrasttarn-T-Shirt"|3|-1|-1
-8|135|13|"Gekremp. Pflasterstein-T-Shirt"|3|-1|-1
-8|135|14|"Pfirsichf. gekremp. Tarn-T-Shirt"|3|-1|-1
-8|135|15|"Gekremp. Pinselstrich-T-Shirt"|3|-1|-1
-8|135|16|"Gekrempeltes Flecktarn-T-Shirt"|3|-1|-1
-8|135|17|"Helles gekremp. Waldtarn-T-Shirt"|3|-1|-1
-8|135|18|"Moosgr. gekrempeltes T-Shirt"|3|-1|-1
-8|135|19|"Sandbraunes gekremp. T-Shirt"|3|-1|-1
-8|136|0|"Blaues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|136|1|"Braunes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|136|2|"Grünes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|136|3|"Graues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|136|4|"Pfirsichf. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|136|5|"Gekrempelt. Herbsttarn-T-Shirt"|3|-1|-1
-8|136|6|"Dunkles gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|136|7|"Gekremp. Crosshatch-T-Shirt"|3|-1|-1
-8|136|8|"Moosgr. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|136|9|"Graues gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|136|10|"Aquablaues gekremp. Tarn-T-Sh."|3|-1|-1
-8|136|11|"Gekrempeltes Splitter-T-Shirt"|3|-1|-1
-8|136|12|"Gekremp. Kontrasttarn-T-Shirt"|3|-1|-1
-8|136|13|"Gekremp. Pflasterstein-T-Shirt"|3|-1|-1
-8|136|14|"Pfirsichf. gekremp. Tarn-T-Shirt"|3|-1|-1
-8|136|15|"Gekremp. Pinselstrich-T-Shirt"|3|-1|-1
-8|136|16|"Gekrempeltes Flecktarn-T-Shirt"|3|-1|-1
-8|136|17|"Helles gekremp. Waldtarn-T-Shirt"|3|-1|-1
-8|136|18|"Moosgr. gekrempeltes T-Shirt"|3|-1|-1
-8|136|19|"Sandbraunes gekremp. T-Shirt"|3|-1|-1
-8|137|0|"Blaues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|137|1|"Braunes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|137|2|"Grünes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|137|3|"Graues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|137|4|"Pfirsichf. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|137|5|"Gekrempelt. Herbsttarn-T-Shirt"|3|-1|-1
-8|137|6|"Dunkles gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|137|7|"Gekremp. Crosshatch-T-Shirt"|3|-1|-1
-8|137|8|"Moosgr. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|137|9|"Graues gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|137|10|"Aquablaues gekremp. Tarn-T-Sh."|3|-1|-1
-8|137|11|"Gekrempeltes Splitter-T-Shirt"|3|-1|-1
-8|137|12|"Gekremp. Kontrasttarn-T-Shirt"|3|-1|-1
-8|137|13|"Gekremp. Pflasterstein-T-Shirt"|3|-1|-1
-8|137|14|"Pfirsichf. gekremp. Tarn-T-Shirt"|3|-1|-1
-8|137|15|"Gekremp. Pinselstrich-T-Shirt"|3|-1|-1
-8|137|16|"Gekrempeltes Flecktarn-T-Shirt"|3|-1|-1
-8|137|17|"Helles gekremp. Waldtarn-T-Shirt"|3|-1|-1
-8|137|18|"Moosgr. gekrempeltes T-Shirt"|3|-1|-1
-8|137|19|"Sandbraunes gekremp. T-Shirt"|3|-1|-1
-8|138|0|"Blaues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|138|1|"Braunes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|138|2|"Grünes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|138|3|"Graues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|138|4|"Pfirsichf. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|138|5|"Gekrempelt. Herbsttarn-T-Shirt"|3|-1|-1
-8|138|6|"Dunkles gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|138|7|"Gekremp. Crosshatch-T-Shirt"|3|-1|-1
-8|138|8|"Moosgr. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|138|9|"Graues gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|138|10|"Aquablaues gekremp. Tarn-T-Sh."|3|-1|-1
-8|138|11|"Gekrempeltes Splitter-T-Shirt"|3|-1|-1
-8|138|12|"Gekremp. Kontrasttarn-T-Shirt"|3|-1|-1
-8|138|13|"Gekremp. Pflasterstein-T-Shirt"|3|-1|-1
-8|138|14|"Pfirsichf. gekremp. Tarn-T-Shirt"|3|-1|-1
-8|138|15|"Gekremp. Pinselstrich-T-Shirt"|3|-1|-1
-8|138|16|"Gekrempeltes Flecktarn-T-Shirt"|3|-1|-1
-8|138|17|"Helles gekremp. Waldtarn-T-Shirt"|3|-1|-1
-8|138|18|"Moosgr. gekrempeltes T-Shirt"|3|-1|-1
-8|138|19|"Sandbraunes gekremp. T-Shirt"|3|-1|-1
-8|139|0|"Blaues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|139|1|"Braunes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|139|2|"Grünes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|139|3|"Graues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|139|4|"Pfirsichf. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|139|5|"Gekrempelt. Herbsttarn-T-Shirt"|3|-1|-1
-8|139|6|"Dunkles gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|139|7|"Gekremp. Crosshatch-T-Shirt"|3|-1|-1
-8|139|8|"Moosgr. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|139|9|"Graues gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|139|10|"Aquablaues gekremp. Tarn-T-Sh."|3|-1|-1
-8|139|11|"Gekrempeltes Splitter-T-Shirt"|3|-1|-1
-8|139|12|"Gekremp. Kontrasttarn-T-Shirt"|3|-1|-1
-8|139|13|"Gekremp. Pflasterstein-T-Shirt"|3|-1|-1
-8|139|14|"Pfirsichf. gekremp. Tarn-T-Shirt"|3|-1|-1
-8|139|15|"Gekremp. Pinselstrich-T-Shirt"|3|-1|-1
-8|139|16|"Gekrempeltes Flecktarn-T-Shirt"|3|-1|-1
-8|139|17|"Helles gekremp. Waldtarn-T-Shirt"|3|-1|-1
-8|139|18|"Moosgr. gekrempeltes T-Shirt"|3|-1|-1
-8|139|19|"Sandbraunes gekremp. T-Shirt"|3|-1|-1
-8|140|0|"Blaues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|140|1|"Braunes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|140|2|"Grünes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|140|3|"Graues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|140|4|"Pfirsichf. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|140|5|"Gekrempelt. Herbsttarn-T-Shirt"|3|-1|-1
-8|140|6|"Dunkles gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|140|7|"Gekremp. Crosshatch-T-Shirt"|3|-1|-1
-8|140|8|"Moosgr. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|140|9|"Graues gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|140|10|"Aquablaues gekremp. Tarn-T-Sh."|3|-1|-1
-8|140|11|"Gekrempeltes Splitter-T-Shirt"|3|-1|-1
-8|140|12|"Gekremp. Kontrasttarn-T-Shirt"|3|-1|-1
-8|140|13|"Gekremp. Pflasterstein-T-Shirt"|3|-1|-1
-8|140|14|"Pfirsichf. gekremp. Tarn-T-Shirt"|3|-1|-1
-8|140|15|"Gekremp. Pinselstrich-T-Shirt"|3|-1|-1
-8|140|16|"Gekrempeltes Flecktarn-T-Shirt"|3|-1|-1
-8|140|17|"Helles gekremp. Waldtarn-T-Shirt"|3|-1|-1
-8|140|18|"Moosgr. gekrempeltes T-Shirt"|3|-1|-1
-8|140|19|"Sandbraunes gekremp. T-Shirt"|3|-1|-1
-8|141|0|"Blaues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|141|1|"Braunes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|141|2|"Grünes gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|141|3|"Graues gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|141|4|"Pfirsichf. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|141|5|"Gekrempelt. Herbsttarn-T-Shirt"|3|-1|-1
-8|141|6|"Dunkles gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|141|7|"Gekremp. Crosshatch-T-Shirt"|3|-1|-1
-8|141|8|"Moosgr. gekr. Digitaltarn-T-Shirt"|3|-1|-1
-8|141|9|"Graues gekremp. Waldtarn-T-Sh."|3|-1|-1
-8|141|10|"Aquablaues gekremp. Tarn-T-Sh."|3|-1|-1
-8|141|11|"Gekrempeltes Splitter-T-Shirt"|3|-1|-1
-8|141|12|"Gekremp. Kontrasttarn-T-Shirt"|3|-1|-1
-8|141|13|"Gekremp. Pflasterstein-T-Shirt"|3|-1|-1
-8|141|14|"Pfirsichf. gekremp. Tarn-T-Shirt"|3|-1|-1
-8|141|15|"Gekremp. Pinselstrich-T-Shirt"|3|-1|-1
-8|141|16|"Gekrempeltes Flecktarn-T-Shirt"|3|-1|-1
-8|141|17|"Helles gekremp. Waldtarn-T-Shirt"|3|-1|-1
-8|141|18|"Moosgr. gekrempeltes T-Shirt"|3|-1|-1
-8|141|19|"Sandbraunes gekremp. T-Shirt"|3|-1|-1
-8|142|0|"Schlagring-Taschen-T-Shirt"|3|-1|-1
-8|143|0|"Schlagring-Taschen-T-Shirt"|3|-1|-1
-8|144|0|"Schlagring-Taschen-T-Shirt"|3|-1|-1
-8|145|0|"Schlagring-Taschen-T-Shirt"|3|-1|-1
-8|146|0|"Schlagring-Taschen-T-Shirt"|3|-1|-1
-8|147|0|"Schlagring-Taschen-T-Shirt"|3|-1|-1
-8|149|0|"Dunkles LC-Beavers-Polohemd"|3|-1|-1
-8|149|1|"Helles LC-Beavers-Polohemd"|3|-1|-1
-8|149|2|"Dunkles LS-Benders-Polohemd"|3|-1|-1
-8|149|3|"Helles LS-Benders-Polohemd"|3|-1|-1
-8|149|4|"Helles LS-Jardineros-Polohemd"|3|-1|-1
-8|149|5|"Dunkles LS-Jardineros-Poloh."|3|-1|-1
-8|149|6|"Dunkles Liberty-Cocks-Poloh."|3|-1|-1
-8|149|7|"Helles Liberty-Cocks-Poloh."|3|-1|-1
-8|149|8|"Dunkles Red-Mist-XI-Polohemd"|3|-1|-1
-8|149|9|"Helles Red-Mist-XI-Polohemd"|3|-1|-1
-8|149|10|"Dunkles Superstroika-Polohemd"|3|-1|-1
-8|149|11|"Helles Superstroika-Polohemd"|3|-1|-1
-8|150|0|"Dunkles LC-Beavers-Polohemd"|3|-1|-1
-8|150|1|"Helles LC-Beavers-Polohemd"|3|-1|-1
-8|150|2|"Dunkles LS-Benders-Polohemd"|3|-1|-1
-8|150|3|"Helles LS-Benders-Polohemd"|3|-1|-1
-8|150|4|"Helles LS-Jardineros-Polohemd"|3|-1|-1
-8|150|5|"Dunkles LS-Jardineros-Poloh."|3|-1|-1
-8|150|6|"Dunkles Liberty-Cocks-Poloh."|3|-1|-1
-8|150|7|"Helles Liberty-Cocks-Poloh."|3|-1|-1
-8|150|8|"Dunkles Red-Mist-XI-Polohemd"|3|-1|-1
-8|150|9|"Helles Red-Mist-XI-Polohemd"|3|-1|-1
-8|150|10|"Dunkles Superstroika-Polohemd"|3|-1|-1
-8|150|11|"Helles Superstroika-Polohemd"|3|-1|-1
-8|154|0|"Ultraleichte Gefechtsweste"|3|-1|-1
-8|155|0|"Leichte Gefechtsweste"|3|-1|-1
-8|156|0|"Mittelschwere Gefechtsweste"|3|-1|-1
-8|157|0|"Schwere Gefechtsweste"|3|-1|-1
-8|158|0|"Überschwere Gefechtsweste"|3|-1|-1
-8|162|0|"T-Shirt mit Rundausschnitt"|3|-1|-1
-8|162|1|"Weißes Zickzack-"Manor"-T-Shirt"|3|-1|-1
-8|162|2|"Weißes "Manor"-T-Shirt"|3|-1|-1
-8|162|3|"Lila "Manor"-T-Shirt"|3|-1|-1
-8|162|4|"Mintgrünes "Manor"-T-Shirt"|3|-1|-1
-8|162|5|"Weiß gestr. "Manor"-T-Shirt"|3|-1|-1
-8|162|6|"Schwarz gestr. "Manor"-T-Shirt"|3|-1|-1
-8|162|7|"Grüne-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|162|8|"Lila-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|162|9|""Blagueurs"-Marken-T-Shirt"|3|-1|-1
-8|162|10|""Blagueurs LS"-T-Shirt"|3|-1|-1
-8|162|11|""Blagueurs"-Streifen-T-Shirt"|3|-1|-1
-8|162|12|""Blagueurs"-Sport-T-Shirt"|3|-1|-1
-8|162|13|"Türkises "Blagueurs LS"-T-Shirt"|3|-1|-1
-8|162|14|"SW-"Blagueurs LS"-T-Shirt"|3|-1|-1
-8|162|15|"Lachsfarbenes SC-T-Shirt"|3|-1|-1
-8|162|16|"Blaues SC-T-Shirt"|3|-1|-1
-8|162|17|"Gelbes SC-T-Shirt"|3|-1|-1
-8|162|18|"Pinkes SC-T-Shirt"|3|-1|-1
-8|162|19|"Rot-schwarzes SC-T-Shirt"|3|-1|-1
-8|162|20|"Blau gestreiftes SC-T-Shirt"|3|-1|-1
-8|163|0|"T-Shirt mit Rundausschnitt"|3|-1|-1
-8|163|1|"Weißes Zickzack-"Manor"-T-Shirt"|3|-1|-1
-8|163|2|"Weißes "Manor"-T-Shirt"|3|-1|-1
-8|163|3|"Lila "Manor"-T-Shirt"|3|-1|-1
-8|163|4|"Mintgrünes "Manor"-T-Shirt"|3|-1|-1
-8|163|5|"Weiß gestr. "Manor"-T-Shirt"|3|-1|-1
-8|163|6|"Schwarz gestr. "Manor"-T-Shirt"|3|-1|-1
-8|163|7|"Grüne-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|163|8|"Lila-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|163|9|""Blagueurs"-Marken-T-Shirt"|3|-1|-1
-8|163|10|""Blagueurs LS"-T-Shirt"|3|-1|-1
-8|163|11|""Blagueurs"-Streifen-T-Shirt"|3|-1|-1
-8|163|12|""Blagueurs"-Sport-T-Shirt"|3|-1|-1
-8|163|13|"Türkises "Blagueurs LS"-T-Shirt"|3|-1|-1
-8|163|14|"SW-"Blagueurs LS"-T-Shirt"|3|-1|-1
-8|163|15|"Lachsfarbenes SC-T-Shirt"|3|-1|-1
-8|163|16|"Blaues SC-T-Shirt"|3|-1|-1
-8|163|17|"Gelbes SC-T-Shirt"|3|-1|-1
-8|163|18|"Pinkes SC-T-Shirt"|3|-1|-1
-8|163|19|"Rot-schwarzes SC-T-Shirt"|3|-1|-1
-8|163|20|"Blau gestreiftes SC-T-Shirt"|3|-1|-1
-8|164|0|"T-Shirt mit Rundausschnitt"|3|-1|-1
-8|164|1|"Weißes Zickzack-"Manor"-T-Shirt"|3|-1|-1
-8|164|2|"Weißes "Manor"-T-Shirt"|3|-1|-1
-8|164|3|"Lila "Manor"-T-Shirt"|3|-1|-1
-8|164|4|"Mintgrünes "Manor"-T-Shirt"|3|-1|-1
-8|164|5|"Weiß gestr. "Manor"-T-Shirt"|3|-1|-1
-8|164|6|"Schwarz gestr. "Manor"-T-Shirt"|3|-1|-1
-8|164|7|"Grüne-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|164|8|"Lila-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|164|9|""Blagueurs"-Marken-T-Shirt"|3|-1|-1
-8|164|10|""Blagueurs LS"-T-Shirt"|3|-1|-1
-8|164|11|""Blagueurs"-Streifen-T-Shirt"|3|-1|-1
-8|164|12|""Blagueurs"-Sport-T-Shirt"|3|-1|-1
-8|164|13|"Türkises "Blagueurs LS"-T-Shirt"|3|-1|-1
-8|164|14|"SW-"Blagueurs LS"-T-Shirt"|3|-1|-1
-8|164|15|"Lachsfarbenes SC-T-Shirt"|3|-1|-1
-8|164|16|"Blaues SC-T-Shirt"|3|-1|-1
-8|164|17|"Gelbes SC-T-Shirt"|3|-1|-1
-8|164|18|"Pinkes SC-T-Shirt"|3|-1|-1
-8|164|19|"Rot-schwarzes SC-T-Shirt"|3|-1|-1
-8|164|20|"Blau gestreiftes SC-T-Shirt"|3|-1|-1
-8|165|0|"T-Shirt mit Rundausschnitt"|3|-1|-1
-8|165|1|"Weißes Zickzack-"Manor"-T-Shirt"|3|-1|-1
-8|165|2|"Weißes "Manor"-T-Shirt"|3|-1|-1
-8|165|3|"Lila "Manor"-T-Shirt"|3|-1|-1
-8|165|4|"Mintgrünes "Manor"-T-Shirt"|3|-1|-1
-8|165|5|"Weiß gestr. "Manor"-T-Shirt"|3|-1|-1
-8|165|6|"Schwarz gestr. "Manor"-T-Shirt"|3|-1|-1
-8|165|7|"Grüne-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|165|8|"Lila-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|165|9|""Blagueurs"-Marken-T-Shirt"|3|-1|-1
-8|165|10|""Blagueurs LS"-T-Shirt"|3|-1|-1
-8|165|11|""Blagueurs"-Streifen-T-Shirt"|3|-1|-1
-8|165|12|""Blagueurs"-Sport-T-Shirt"|3|-1|-1
-8|165|13|"Türkises "Blagueurs LS"-T-Shirt"|3|-1|-1
-8|165|14|"SW-"Blagueurs LS"-T-Shirt"|3|-1|-1
-8|165|15|"Lachsfarbenes SC-T-Shirt"|3|-1|-1
-8|165|16|"Blaues SC-T-Shirt"|3|-1|-1
-8|165|17|"Gelbes SC-T-Shirt"|3|-1|-1
-8|165|18|"Pinkes SC-T-Shirt"|3|-1|-1
-8|165|19|"Rot-schwarzes SC-T-Shirt"|3|-1|-1
-8|165|20|"Blau gestreiftes SC-T-Shirt"|3|-1|-1
-8|166|0|"T-Shirt mit Rundausschnitt"|3|-1|-1
-8|166|1|"Weißes Zickzack-"Manor"-T-Shirt"|3|-1|-1
-8|166|2|"Weißes "Manor"-T-Shirt"|3|-1|-1
-8|166|3|"Lila "Manor"-T-Shirt"|3|-1|-1
-8|166|4|"Mintgrünes "Manor"-T-Shirt"|3|-1|-1
-8|166|5|"Weiß gestr. "Manor"-T-Shirt"|3|-1|-1
-8|166|6|"Schwarz gestr. "Manor"-T-Shirt"|3|-1|-1
-8|166|7|"Grüne-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|166|8|"Lila-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|166|9|""Blagueurs"-Marken-T-Shirt"|3|-1|-1
-8|166|10|""Blagueurs LS"-T-Shirt"|3|-1|-1
-8|166|11|""Blagueurs"-Streifen-T-Shirt"|3|-1|-1
-8|166|12|""Blagueurs"-Sport-T-Shirt"|3|-1|-1
-8|166|13|"Türkises "Blagueurs LS"-T-Shirt"|3|-1|-1
-8|166|14|"SW-"Blagueurs LS"-T-Shirt"|3|-1|-1
-8|166|15|"Lachsfarbenes SC-T-Shirt"|3|-1|-1
-8|166|16|"Blaues SC-T-Shirt"|3|-1|-1
-8|166|17|"Gelbes SC-T-Shirt"|3|-1|-1
-8|166|18|"Pinkes SC-T-Shirt"|3|-1|-1
-8|166|19|"Rot-schwarzes SC-T-Shirt"|3|-1|-1
-8|166|20|"Blau gestreiftes SC-T-Shirt"|3|-1|-1
-8|167|0|"T-Shirt mit Rundausschnitt"|3|-1|-1
-8|167|1|"Weißes Zickzack-"Manor"-T-Shirt"|3|-1|-1
-8|167|2|"Weißes "Manor"-T-Shirt"|3|-1|-1
-8|167|3|"Lila "Manor"-T-Shirt"|3|-1|-1
-8|167|4|"Mintgrünes "Manor"-T-Shirt"|3|-1|-1
-8|167|5|"Weiß gestr. "Manor"-T-Shirt"|3|-1|-1
-8|167|6|"Schwarz gestr. "Manor"-T-Shirt"|3|-1|-1
-8|167|7|"Grüne-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|167|8|"Lila-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|167|9|""Blagueurs"-Marken-T-Shirt"|3|-1|-1
-8|167|10|""Blagueurs LS"-T-Shirt"|3|-1|-1
-8|167|11|""Blagueurs"-Streifen-T-Shirt"|3|-1|-1
-8|167|12|""Blagueurs"-Sport-T-Shirt"|3|-1|-1
-8|167|13|"Türkises "Blagueurs LS"-T-Shirt"|3|-1|-1
-8|167|14|"SW-"Blagueurs LS"-T-Shirt"|3|-1|-1
-8|167|15|"Lachsfarbenes SC-T-Shirt"|3|-1|-1
-8|167|16|"Blaues SC-T-Shirt"|3|-1|-1
-8|167|17|"Gelbes SC-T-Shirt"|3|-1|-1
-8|167|18|"Pinkes SC-T-Shirt"|3|-1|-1
-8|167|19|"Rot-schwarzes SC-T-Shirt"|3|-1|-1
-8|167|20|"Blau gestreiftes SC-T-Shirt"|3|-1|-1
-8|168|0|"T-Shirt mit Rundausschnitt"|3|-1|-1
-8|168|1|"Weißes Zickzack-"Manor"-T-Shirt"|3|-1|-1
-8|168|2|"Weißes "Manor"-T-Shirt"|3|-1|-1
-8|168|3|"Lila "Manor"-T-Shirt"|3|-1|-1
-8|168|4|"Mintgrünes "Manor"-T-Shirt"|3|-1|-1
-8|168|5|"Weiß gestr. "Manor"-T-Shirt"|3|-1|-1
-8|168|6|"Schwarz gestr. "Manor"-T-Shirt"|3|-1|-1
-8|168|7|"Grüne-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|168|8|"Lila-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|168|9|""Blagueurs"-Marken-T-Shirt"|3|-1|-1
-8|168|10|""Blagueurs LS"-T-Shirt"|3|-1|-1
-8|168|11|""Blagueurs"-Streifen-T-Shirt"|3|-1|-1
-8|168|12|""Blagueurs"-Sport-T-Shirt"|3|-1|-1
-8|168|13|"Türkises "Blagueurs LS"-T-Shirt"|3|-1|-1
-8|168|14|"SW-"Blagueurs LS"-T-Shirt"|3|-1|-1
-8|168|15|"Lachsfarbenes SC-T-Shirt"|3|-1|-1
-8|168|16|"Blaues SC-T-Shirt"|3|-1|-1
-8|168|17|"Gelbes SC-T-Shirt"|3|-1|-1
-8|168|18|"Pinkes SC-T-Shirt"|3|-1|-1
-8|168|19|"Rot-schwarzes SC-T-Shirt"|3|-1|-1
-8|168|20|"Blau gestreiftes SC-T-Shirt"|3|-1|-1
-8|169|0|"T-Shirt mit Rundausschnitt"|3|-1|-1
-8|169|1|"Weißes Zickzack-"Manor"-T-Shirt"|3|-1|-1
-8|169|2|"Weißes "Manor"-T-Shirt"|3|-1|-1
-8|169|3|"Lila "Manor"-T-Shirt"|3|-1|-1
-8|169|4|"Mintgrünes "Manor"-T-Shirt"|3|-1|-1
-8|169|5|"Weiß gestr. "Manor"-T-Shirt"|3|-1|-1
-8|169|6|"Schwarz gestr. "Manor"-T-Shirt"|3|-1|-1
-8|169|7|"Grüne-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|169|8|"Lila-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|169|9|""Blagueurs"-Marken-T-Shirt"|3|-1|-1
-8|169|10|""Blagueurs LS"-T-Shirt"|3|-1|-1
-8|169|11|""Blagueurs"-Streifen-T-Shirt"|3|-1|-1
-8|169|12|""Blagueurs"-Sport-T-Shirt"|3|-1|-1
-8|169|13|"Türkises "Blagueurs LS"-T-Shirt"|3|-1|-1
-8|169|14|"SW-"Blagueurs LS"-T-Shirt"|3|-1|-1
-8|169|15|"Lachsfarbenes SC-T-Shirt"|3|-1|-1
-8|169|16|"Blaues SC-T-Shirt"|3|-1|-1
-8|169|17|"Gelbes SC-T-Shirt"|3|-1|-1
-8|169|18|"Pinkes SC-T-Shirt"|3|-1|-1
-8|169|19|"Rot-schwarzes SC-T-Shirt"|3|-1|-1
-8|169|20|"Blau gestreiftes SC-T-Shirt"|3|-1|-1
-8|170|0|"T-Shirt mit Rundausschnitt"|3|-1|-1
-8|170|1|"Weißes Zickzack-"Manor"-T-Shirt"|3|-1|-1
-8|170|2|"Weißes "Manor"-T-Shirt"|3|-1|-1
-8|170|3|"Lila "Manor"-T-Shirt"|3|-1|-1
-8|170|4|"Mintgrünes "Manor"-T-Shirt"|3|-1|-1
-8|170|5|"Weiß gestr. "Manor"-T-Shirt"|3|-1|-1
-8|170|6|"Schwarz gestr. "Manor"-T-Shirt"|3|-1|-1
-8|170|7|"Grüne-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|170|8|"Lila-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|170|9|""Blagueurs"-Marken-T-Shirt"|3|-1|-1
-8|170|10|""Blagueurs LS"-T-Shirt"|3|-1|-1
-8|170|11|""Blagueurs"-Streifen-T-Shirt"|3|-1|-1
-8|170|12|""Blagueurs"-Sport-T-Shirt"|3|-1|-1
-8|170|13|"Türkises "Blagueurs LS"-T-Shirt"|3|-1|-1
-8|170|14|"SW-"Blagueurs LS"-T-Shirt"|3|-1|-1
-8|170|15|"Lachsfarbenes SC-T-Shirt"|3|-1|-1
-8|170|16|"Blaues SC-T-Shirt"|3|-1|-1
-8|170|17|"Gelbes SC-T-Shirt"|3|-1|-1
-8|170|18|"Pinkes SC-T-Shirt"|3|-1|-1
-8|170|19|"Rot-schwarzes SC-T-Shirt"|3|-1|-1
-8|170|20|"Blau gestreiftes SC-T-Shirt"|3|-1|-1
-8|171|0|"T-Shirt mit Rundausschnitt"|3|-1|-1
-8|171|1|"Weißes Zickzack-"Manor"-T-Shirt"|3|-1|-1
-8|171|2|"Weißes "Manor"-T-Shirt"|3|-1|-1
-8|171|3|"Lila "Manor"-T-Shirt"|3|-1|-1
-8|171|4|"Mintgrünes "Manor"-T-Shirt"|3|-1|-1
-8|171|5|"Weiß gestr. "Manor"-T-Shirt"|3|-1|-1
-8|171|6|"Schwarz gestr. "Manor"-T-Shirt"|3|-1|-1
-8|171|7|"Grüne-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|171|8|"Lila-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|171|9|""Blagueurs"-Marken-T-Shirt"|3|-1|-1
-8|171|10|""Blagueurs LS"-T-Shirt"|3|-1|-1
-8|171|11|""Blagueurs"-Streifen-T-Shirt"|3|-1|-1
-8|171|12|""Blagueurs"-Sport-T-Shirt"|3|-1|-1
-8|171|13|"Türkises "Blagueurs LS"-T-Shirt"|3|-1|-1
-8|171|14|"SW-"Blagueurs LS"-T-Shirt"|3|-1|-1
-8|171|15|"Lachsfarbenes SC-T-Shirt"|3|-1|-1
-8|171|16|"Blaues SC-T-Shirt"|3|-1|-1
-8|171|17|"Gelbes SC-T-Shirt"|3|-1|-1
-8|171|18|"Pinkes SC-T-Shirt"|3|-1|-1
-8|171|19|"Rot-schwarzes SC-T-Shirt"|3|-1|-1
-8|171|20|"Blau gestreiftes SC-T-Shirt"|3|-1|-1
-8|172|0|"T-Shirt mit Rundausschnitt"|3|-1|-1
-8|172|1|"Weißes Zickzack-"Manor"-T-Shirt"|3|-1|-1
-8|172|2|"Weißes "Manor"-T-Shirt"|3|-1|-1
-8|172|3|"Lila "Manor"-T-Shirt"|3|-1|-1
-8|172|4|"Mintgrünes "Manor"-T-Shirt"|3|-1|-1
-8|172|5|"Weiß gestr. "Manor"-T-Shirt"|3|-1|-1
-8|172|6|"Schwarz gestr. "Manor"-T-Shirt"|3|-1|-1
-8|172|7|"Grüne-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|172|8|"Lila-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|172|9|""Blagueurs"-Marken-T-Shirt"|3|-1|-1
-8|172|10|""Blagueurs LS"-T-Shirt"|3|-1|-1
-8|172|11|""Blagueurs"-Streifen-T-Shirt"|3|-1|-1
-8|172|12|""Blagueurs"-Sport-T-Shirt"|3|-1|-1
-8|172|13|"Türkises "Blagueurs LS"-T-Shirt"|3|-1|-1
-8|172|14|"SW-"Blagueurs LS"-T-Shirt"|3|-1|-1
-8|172|15|"Lachsfarbenes SC-T-Shirt"|3|-1|-1
-8|172|16|"Blaues SC-T-Shirt"|3|-1|-1
-8|172|17|"Gelbes SC-T-Shirt"|3|-1|-1
-8|172|18|"Pinkes SC-T-Shirt"|3|-1|-1
-8|172|19|"Rot-schwarzes SC-T-Shirt"|3|-1|-1
-8|172|20|"Blau gestreiftes SC-T-Shirt"|3|-1|-1
-8|173|0|"T-Shirt mit Rundausschnitt"|3|-1|-1
-8|173|1|"Weißes Zickzack-"Manor"-T-Shirt"|3|-1|-1
-8|173|2|"Weißes "Manor"-T-Shirt"|3|-1|-1
-8|173|3|"Lila "Manor"-T-Shirt"|3|-1|-1
-8|173|4|"Mintgrünes "Manor"-T-Shirt"|3|-1|-1
-8|173|5|"Weiß gestr. "Manor"-T-Shirt"|3|-1|-1
-8|173|6|"Schwarz gestr. "Manor"-T-Shirt"|3|-1|-1
-8|173|7|"Grüne-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|173|8|"Lila-Welt-"Blagueurs"-T-Shirt"|3|-1|-1
-8|173|9|""Blagueurs"-Marken-T-Shirt"|3|-1|-1
-8|173|10|""Blagueurs LS"-T-Shirt"|3|-1|-1
-8|173|11|""Blagueurs"-Streifen-T-Shirt"|3|-1|-1
-8|173|12|""Blagueurs"-Sport-T-Shirt"|3|-1|-1
-8|173|13|"Türkises "Blagueurs LS"-T-Shirt"|3|-1|-1
-8|173|14|"SW-"Blagueurs LS"-T-Shirt"|3|-1|-1
-8|173|15|"Lachsfarbenes SC-T-Shirt"|3|-1|-1
-8|173|16|"Blaues SC-T-Shirt"|3|-1|-1
-8|173|17|"Gelbes SC-T-Shirt"|3|-1|-1
-8|173|18|"Pinkes SC-T-Shirt"|3|-1|-1
-8|173|19|"Rot-schwarzes SC-T-Shirt"|3|-1|-1
-8|173|20|"Blau gestreiftes SC-T-Shirt"|3|-1|-1
-8|175|0|"Wildes lockeres Tanktop"|3|-1|-1
-8|175|1|"Blaues lockeres Zebra-Tanktop"|3|-1|-1
-8|175|2|"Lockeres Zebra-Tanktop"|3|-1|-1
-8|175|3|"Lockeres pinkes SC-Tanktop"|3|-1|-1
-8|175|4|"Lockeres blaues SC-Tanktop"|3|-1|-1
-8|175|5|"Lockeres gelbes SC-Tanktop"|3|-1|-1
-8|175|6|"Lockeres Schlangenl.-Tanktop"|3|-1|-1
-8|175|7|"Lockeres grünes Flecken-Tankt."|3|-1|-1
-8|175|8|"Lockeres beiges Flecken-Tankt."|3|-1|-1
-8|175|9|"Lockeres rosa Flecken-Tanktop"|3|-1|-1
-8|175|10|"Lockeres zyanf. Flecken-Tanktop"|3|-1|-1
-8|175|11|"Lockeres Leoparden-Tanktop"|3|-1|-1
-8|176|0|"Wildes Camisole"|3|-1|-1
-8|176|1|"Blau gestreiftes Camisole"|3|-1|-1
-8|176|2|"Zebrastreifen-Camisole"|3|-1|-1
-8|176|3|"Pfirsichf. gepunktetes Camisole"|3|-1|-1
-8|176|4|"Braun gepunktetes Camisole"|3|-1|-1
-8|176|5|"Türkisblaues Botanik-Camisole"|3|-1|-1
-8|176|6|"Grünes Botanik-Camisole"|3|-1|-1
-8|176|7|"Neonfarbenes Camisole"|3|-1|-1
-8|176|8|"Blaues Blätter-Camisole"|3|-1|-1
-8|176|9|"Mehrfarbiges Blätter-Camisole"|3|-1|-1
-8|176|10|"Neon-Blätter-Camisole"|3|-1|-1
-8|176|11|"Weißes Botanik-Camisole"|3|-1|-1
-8|177|0|"Wilder Bikini"|3|-1|-1
-8|177|1|"Blauer Zebrastreifen-Bikini"|3|-1|-1
-8|177|2|"Zebrastreifen-Bikini"|3|-1|-1
-8|177|3|"Geometrisch gemusterter Bikini"|3|-1|-1
-8|177|4|"Abstrakt gemusterter Bikini"|3|-1|-1
-8|177|5|"Weißer Schlangenleder-Bikini"|3|-1|-1
-8|177|6|"Grüner Schlangenleder-Bikini"|3|-1|-1
-8|177|7|"Schwarzer Blumenbikini"|3|-1|-1
-8|178|2|"Schw. Space-Rangers-T-Shirt"|3|-1|-1
-8|178|3|"Weißes Space-Rangers-T-Shirt"|3|-1|-1
-8|178|4|"Gelbes Space-Rangers-T-Shirt"|3|-1|-1
-8|178|5|"Grünes Space-Rangers-T-Shirt"|3|-1|-1
-8|178|6|"Schw. Space-R.-Logo-T-Shirt"|3|-1|-1
-8|178|7|"Grünes Space-R.-Logo-T-Shirt"|3|-1|-1
-8|178|8|"Weißes Phasen-T-Shirt"|3|-1|-1
-8|178|9|"Gelbes Phasen-T-Shirt"|3|-1|-1
-8|178|10|"Blaues Raketenschiff-T-Shirt"|3|-1|-1
-8|178|11|"Pinkes Raketenschiff-T-Shirt"|3|-1|-1
-8|178|12|"Schw. Raumanzug-Alien-T-Shirt"|3|-1|-1
-8|178|13|"Pinkes Raumanzug-Alien-T-Shirt"|3|-1|-1
-8|178|14|"Violettes Doppelmond-T-Shirt"|3|-1|-1
-8|178|15|"Blaues Doppelmond-T-Shirt"|3|-1|-1
-8|178|16|"Pinkes Doppelmond-T-Shirt"|3|-1|-1
-8|178|17|"Bl. Space-R.-Freiheit-T-Shirt"|3|-1|-1
-8|178|18|"Gr. Space-R.-Freiheit-T-Shirt"|3|-1|-1
-8|178|19|"Rotes Space-R.-Freiheit-T-Shirt"|3|-1|-1
-8|179|2|"Schw. Space-Rangers-T-Shirt"|3|-1|-1
-8|179|3|"Weißes Space-Rangers-T-Shirt"|3|-1|-1
-8|179|4|"Gelbes Space-Rangers-T-Shirt"|3|-1|-1
-8|179|5|"Grünes Space-Rangers-T-Shirt"|3|-1|-1
-8|179|6|"Schw. Space-R.-Logo-T-Shirt"|3|-1|-1
-8|179|7|"Grünes Space-R.-Logo-T-Shirt"|3|-1|-1
-8|179|8|"Weißes Phasen-T-Shirt"|3|-1|-1
-8|179|9|"Gelbes Phasen-T-Shirt"|3|-1|-1
-8|179|10|"Blaues Raketenschiff-T-Shirt"|3|-1|-1
-8|179|11|"Pinkes Raketenschiff-T-Shirt"|3|-1|-1
-8|179|12|"Schw. Raumanzug-Alien-T-Shirt"|3|-1|-1
-8|179|13|"Pinkes Raumanzug-Alien-T-Shirt"|3|-1|-1
-8|179|14|"Violettes Doppelmond-T-Shirt"|3|-1|-1
-8|179|15|"Blaues Doppelmond-T-Shirt"|3|-1|-1
-8|179|16|"Pinkes Doppelmond-T-Shirt"|3|-1|-1
-8|179|17|"Bl. Space-R.-Freiheit-T-Shirt"|3|-1|-1
-8|179|18|"Gr. Space-R.-Freiheit-T-Shirt"|3|-1|-1
-8|179|19|"Rotes Space-R.-Freiheit-T-Shirt"|3|-1|-1
-8|180|2|"Schw. Space-Rangers-T-Shirt"|3|-1|-1
-8|180|3|"Weißes Space-Rangers-T-Shirt"|3|-1|-1
-8|180|4|"Gelbes Space-Rangers-T-Shirt"|3|-1|-1
-8|180|5|"Grünes Space-Rangers-T-Shirt"|3|-1|-1
-8|180|6|"Schw. Space-R.-Logo-T-Shirt"|3|-1|-1
-8|180|7|"Grünes Space-R.-Logo-T-Shirt"|3|-1|-1
-8|180|8|"Weißes Phasen-T-Shirt"|3|-1|-1
-8|180|9|"Gelbes Phasen-T-Shirt"|3|-1|-1
-8|180|10|"Blaues Raketenschiff-T-Shirt"|3|-1|-1
-8|180|11|"Pinkes Raketenschiff-T-Shirt"|3|-1|-1
-8|180|12|"Schw. Raumanzug-Alien-T-Shirt"|3|-1|-1
-8|180|13|"Pinkes Raumanzug-Alien-T-Shirt"|3|-1|-1
-8|180|14|"Violettes Doppelmond-T-Shirt"|3|-1|-1
-8|180|15|"Blaues Doppelmond-T-Shirt"|3|-1|-1
-8|180|16|"Pinkes Doppelmond-T-Shirt"|3|-1|-1
-8|180|17|"Bl. Space-R.-Freiheit-T-Shirt"|3|-1|-1
-8|180|18|"Gr. Space-R.-Freiheit-T-Shirt"|3|-1|-1
-8|180|19|"Rotes Space-R.-Freiheit-T-Shirt"|3|-1|-1
-8|181|2|"Schw. Space-Rangers-T-Shirt"|3|-1|-1
-8|181|3|"Weißes Space-Rangers-T-Shirt"|3|-1|-1
-8|181|4|"Gelbes Space-Rangers-T-Shirt"|3|-1|-1
-8|181|5|"Grünes Space-Rangers-T-Shirt"|3|-1|-1
-8|181|6|"Schw. Space-R.-Logo-T-Shirt"|3|-1|-1
-8|181|7|"Grünes Space-R.-Logo-T-Shirt"|3|-1|-1
-8|181|8|"Weißes Phasen-T-Shirt"|3|-1|-1
-8|181|9|"Gelbes Phasen-T-Shirt"|3|-1|-1
-8|181|10|"Blaues Raketenschiff-T-Shirt"|3|-1|-1
-8|181|11|"Pinkes Raketenschiff-T-Shirt"|3|-1|-1
-8|181|12|"Schw. Raumanzug-Alien-T-Shirt"|3|-1|-1
-8|181|13|"Pinkes Raumanzug-Alien-T-Shirt"|3|-1|-1
-8|181|14|"Violettes Doppelmond-T-Shirt"|3|-1|-1
-8|181|15|"Blaues Doppelmond-T-Shirt"|3|-1|-1
-8|181|16|"Pinkes Doppelmond-T-Shirt"|3|-1|-1
-8|181|17|"Bl. Space-R.-Freiheit-T-Shirt"|3|-1|-1
-8|181|18|"Gr. Space-R.-Freiheit-T-Shirt"|3|-1|-1
-8|181|19|"Rotes Space-R.-Freiheit-T-Shirt"|3|-1|-1
-8|182|2|"Schw. Space-Rangers-T-Shirt"|3|-1|-1
-8|182|3|"Weißes Space-Rangers-T-Shirt"|3|-1|-1
-8|182|4|"Gelbes Space-Rangers-T-Shirt"|3|-1|-1
-8|182|5|"Grünes Space-Rangers-T-Shirt"|3|-1|-1
-8|182|6|"Schw. Space-R.-Logo-T-Shirt"|3|-1|-1
-8|182|7|"Grünes Space-R.-Logo-T-Shirt"|3|-1|-1
-8|182|8|"Weißes Phasen-T-Shirt"|3|-1|-1
-8|182|9|"Gelbes Phasen-T-Shirt"|3|-1|-1
-8|182|10|"Blaues Raketenschiff-T-Shirt"|3|-1|-1
-8|182|11|"Pinkes Raketenschiff-T-Shirt"|3|-1|-1
-8|182|12|"Schw. Raumanzug-Alien-T-Shirt"|3|-1|-1
-8|182|13|"Pinkes Raumanzug-Alien-T-Shirt"|3|-1|-1
-8|182|14|"Violettes Doppelmond-T-Shirt"|3|-1|-1
-8|182|15|"Blaues Doppelmond-T-Shirt"|3|-1|-1
-8|182|16|"Pinkes Doppelmond-T-Shirt"|3|-1|-1
-8|182|17|"Bl. Space-R.-Freiheit-T-Shirt"|3|-1|-1
-8|182|18|"Gr. Space-R.-Freiheit-T-Shirt"|3|-1|-1
-8|182|19|"Rotes Space-R.-Freiheit-T-Shirt"|3|-1|-1
-8|183|2|"Schw. Space-Rangers-T-Shirt"|3|-1|-1
-8|183|3|"Weißes Space-Rangers-T-Shirt"|3|-1|-1
-8|183|4|"Gelbes Space-Rangers-T-Shirt"|3|-1|-1
-8|183|5|"Grünes Space-Rangers-T-Shirt"|3|-1|-1
-8|183|6|"Schw. Space-R.-Logo-T-Shirt"|3|-1|-1
-8|183|7|"Grünes Space-R.-Logo-T-Shirt"|3|-1|-1
-8|183|8|"Weißes Phasen-T-Shirt"|3|-1|-1
-8|183|9|"Gelbes Phasen-T-Shirt"|3|-1|-1
-8|183|10|"Blaues Raketenschiff-T-Shirt"|3|-1|-1
-8|183|11|"Pinkes Raketenschiff-T-Shirt"|3|-1|-1
-8|183|12|"Schw. Raumanzug-Alien-T-Shirt"|3|-1|-1
-8|183|13|"Pinkes Raumanzug-Alien-T-Shirt"|3|-1|-1
-8|183|14|"Violettes Doppelmond-T-Shirt"|3|-1|-1
-8|183|15|"Blaues Doppelmond-T-Shirt"|3|-1|-1
-8|183|16|"Pinkes Doppelmond-T-Shirt"|3|-1|-1
-8|183|17|"Bl. Space-R.-Freiheit-T-Shirt"|3|-1|-1
-8|183|18|"Gr. Space-R.-Freiheit-T-Shirt"|3|-1|-1
-8|183|19|"Rotes Space-R.-Freiheit-T-Shirt"|3|-1|-1
-8|188|0|"Grau-braune Panzerung"|3|-1|-1
-8|188|1|"Beige Panzerung"|3|-1|-1
-8|188|2|"Dunkelgrüne Panzerung"|3|-1|-1
-8|188|3|"Salbeigrüne Panzerung"|3|-1|-1
-8|188|4|"Flecktarn-Panzerung"|3|-1|-1
-8|188|5|"Beige Digital-Panzerung"|3|-1|-1
-8|188|6|"Kontrasttarn-Panzerung"|3|-1|-1
-8|188|7|"Blaue Tarn-Panzerung"|3|-1|-1
-8|188|8|"Wüstentarn-Panzerung"|3|-1|-1
-8|188|9|"Grüne Tarn-Panzerung"|3|-1|-1
-8|188|10|"Lila Panzerung"|3|-1|-1
-8|188|11|"Hellgrüne Panzerung"|3|-1|-1
-8|193|0|"Weißes Anzughemd (offen)"|3|-1|-1
-8|194|0|"Weißes Anzughemd (offen)"|3|-1|-1
-8|199|0|"Schwarze Weste mit Taschen"|3|-1|-1
-8|200|0|"Schw. verstärkte Panzerung"|3|-1|-1
-8|201|0|"T-Shirt"|3|-1|-1
-8|201|4|"T-Shirt"|3|-1|-1
-8|202|0|"T-Shirt"|3|-1|-1
-8|202|4|"T-Shirt"|3|-1|-1
-8|203|0|"T-Shirt"|3|-1|-1
-8|203|4|"T-Shirt"|3|-1|-1
-8|204|0|"T-Shirt"|3|-1|-1
-8|204|4|"T-Shirt"|3|-1|-1
-8|205|0|"T-Shirt"|3|-1|-1
-8|205|4|"T-Shirt"|3|-1|-1
-8|206|0|"T-Shirt"|3|-1|-1
-8|206|4|"T-Shirt"|3|-1|-1
-8|207|0|"Schwarze Schussweste"|3|-1|-1
-8|207|1|"Anthrazitgraue Schussweste"|3|-1|-1
-8|207|2|"Aschgraue Schussweste"|3|-1|-1
-8|207|3|"Eisblaue Schussweste"|3|-1|-1
-8|207|4|"Marineblaue Schussweste"|3|-1|-1
-8|207|5|"Chamoisfarbene Schussweste"|3|-1|-1
-8|207|6|"Sandbraune Schussweste"|3|-1|-1
-8|207|7|"Hellbraune Schussweste"|3|-1|-1
-8|207|8|"Lachsrosa Schussweste"|3|-1|-1
-8|207|9|"Moosgrüne Schussweste"|3|-1|-1
-8|207|10|"Pfirsichfarbene Schussweste"|3|-1|-1
-8|207|11|"Braune Digitaltarn-Schussw."|3|-1|-1
-8|207|12|"Herbsttarn-Schussweste"|3|-1|-1
-8|207|13|"Weiße Tarn-Schussweste"|3|-1|-1
-8|207|14|"Pfirsichf. Tarn-Schussweste"|3|-1|-1
-8|207|15|"Rote Tarn-Schussweste"|3|-1|-1
-8|208|0|"Beige Anglerweste"|3|-1|-1
-8|208|1|"Graue Anglerweste"|3|-1|-1
-8|208|2|"Steingraue Anglerweste"|3|-1|-1
-8|208|3|"Beige Digitaltarn-Anglerweste"|3|-1|-1
-8|208|4|"Blaue Digitaltarn-Anglerweste"|3|-1|-1
-8|208|5|"Wüstentarn-Anglerweste"|3|-1|-1
-8|208|6|"Waldtarn-Anglerweste"|3|-1|-1
-8|208|7|"Grüne Spritzer-Anglerweste"|3|-1|-1
-8|208|8|"Schwarze Anglerweste"|3|-1|-1
-8|208|9|"Weiße Anglerweste"|3|-1|-1
-8|208|10|"Schlammbraune Anglerweste"|3|-1|-1
-8|208|11|"Moosgrüne Anglerweste"|3|-1|-1
-8|208|12|"Hellbraune Anglerweste"|3|-1|-1
-8|208|13|"Cremefarbene Anglerweste"|3|-1|-1
-8|208|14|"Braune Anglerweste"|3|-1|-1
-8|208|15|"Blaue Anglerweste"|3|-1|-1
-8|209|0|"Weiße Strapz-Weste"|3|-1|-1
-8|209|1|"Gelbe Strapz-Weste"|3|-1|-1
-8|209|2|"Lila Strapz-Weste"|3|-1|-1
-8|209|3|"Orange-grüne Strapz-Weste"|3|-1|-1
-8|209|4|"Hellgrüne Strapz-Weste"|3|-1|-1
-8|209|5|"Strapz-Neonweste"|3|-1|-1
-8|209|6|"Grüne Strapz-Weste"|3|-1|-1
-8|209|7|"Orange Strapz-Weste"|3|-1|-1
-8|209|8|"Blaue Strapz-Weste"|3|-1|-1
-8|209|9|"Schwarz-hellgrüne Strapz-W."|3|-1|-1
-8|209|10|"Schwarz-lila Strapz-Weste"|3|-1|-1
-8|209|11|"Schwarz-grüne Strapz-Weste"|3|-1|-1
-8|209|12|"Schwarz-orange Strapz-Weste"|3|-1|-1
-8|209|13|"Schwarz-blaue Strapz-Weste"|3|-1|-1
-8|209|14|"Orange-rote Strapz-Weste"|3|-1|-1
-8|209|15|"Grau-grüne Strapz-Weste"|3|-1|-1
-8|209|16|"Lila-graue Strapz-Weste"|3|-1|-1
-8|209|17|"Grün-graue Strapz-Weste"|3|-1|-1
-8|209|18|"Blau-graue Strapz-Weste"|3|-1|-1
-8|209|19|"Kontrastfarbene Strapz-Weste"|3|-1|-1
+ComponentID,DrawableID,TextureID,Name,TorsoComponentID,TorsoDrawableID,TorsoTextureID
+8,0,0,"Crew-T-Shirt",3,-1,-1
+8,0,1,"Salamanders T-Shirt",3,-1,-1
+8,0,2,"The Feud T-Shirt",3,-1,-1
+8,0,3,"Gelbes T-Shirt",3,-1,-1
+8,0,4,"Rotes T-Shirt",3,-1,-1
+8,0,5,"Zyanfarbenes T-Shirt",3,-1,-1
+8,0,6,"Blaues T-Shirt",3,-1,-1
+8,0,7,"Hellbraunes T-Shirt",3,-1,-1
+8,0,8,"Pinkes T-Shirt",3,-1,-1
+8,0,9,"Mintgrünes T-Shirt",3,-1,-1
+8,0,10,"Aschgraues T-Shirt",3,-1,-1
+8,0,11,"Graues T-Shirt",3,-1,-1
+8,0,12,"Leoparden-T-Shirt",3,-1,-1
+8,0,13,"Zweifarbiges T-Shirt",3,-1,-1
+8,0,14,"Babyblaues T-Shirt",3,-1,-1
+8,0,15,"Zweifarbig gestreiftes T-Shirt",3,-1,-1
+8,1,0,"Abgetragene Jeansjacke",3,-1,-1
+8,1,1,"Rote Jeansjacke",3,-1,-1
+8,1,2,"Zweifarbige Jeansjacke",3,-1,-1
+8,1,4,"Adler-Jeansjacke",3,-1,-1
+8,1,5,"Sternen-Jeansjacke",3,-1,-1
+8,1,6,"Graffiti-Jeansjacke",3,-1,-1
+8,1,9,"Blumen-Jeansjacke",3,-1,-1
+8,1,11,"Vorgewaschene Jeansjacke",3,-1,-1
+8,1,14,"Weiße Jeansjacke",3,-1,-1
+8,2,0,"Eris-Oberteil",3,-1,-1
+8,3,0,"Weißer Kapuzenpullover",3,-1,-1
+8,4,13,"Rotes zweifarbiges Tanktop",3,-1,-1
+8,4,14,"Zweifarbiges Tanktop",3,-1,-1
+8,5,0,"Altweißes gekürztes Tanktop",3,-1,-1
+8,5,1,"Aschgraues gekürztes Tanktop",3,-1,-1
+8,5,7,"Gekürztes Schlangen-Tanktop",3,-1,-1
+8,5,9,"Weißes gekürztes Tanktop",3,-1,-1
+8,6,0,"Schwarzes Sakko",3,-1,-1
+8,7,0,"Schiefergrauer Blazer",3,-1,-1
+8,8,0,"Graue gekürzte Bikerweste",3,-1,-1
+8,9,0,"Anthrazitgraues Hemd",3,-1,-1
+8,10,0,"Gestreifte Trainingsjacke",3,-1,-1
+8,11,0,"Himmelblaues Racerback",3,-1,-1
+8,11,1,"Lila Racerback",3,-1,-1
+8,11,2,"Graues Racerback",3,-1,-1
+8,11,10,"Los Santos 01 Racerback",3,-1,-1
+8,11,11,"LS Racerback",3,-1,-1
+8,11,15,"LC Penetrators Racerback",3,-1,-1
+8,12,7,"Neon-Camisole",3,-1,-1
+8,12,8,"Rotes gepunktetes Camisole",3,-1,-1
+8,12,9,"Dunkles gepunktetes Camisole",3,-1,-1
+8,13,0,"Schwarzes Bustier",3,-1,-1
+8,13,1,"Rosen-Bustier",3,-1,-1
+8,13,2,"Olivgrünes Bustier",3,-1,-1
+8,13,3,"Graues Bustier",3,-1,-1
+8,13,4,"Blumen-Bustier",3,-1,-1
+8,13,5,"Rotes kariertes Bustier",3,-1,-1
+8,13,6,"Juwelen-Bustier",3,-1,-1
+8,13,7,"Pinkes Bustier",3,-1,-1
+8,13,8,"Weißes Bustier",3,-1,-1
+8,13,9,"Blaues gemustertes Bustier",3,-1,-1
+8,13,10,"Jeans-Bustier",3,-1,-1
+8,13,11,"Pinkes gemustertes Bustier",3,-1,-1
+8,13,12,"Tarn-Bustier",3,-1,-1
+8,13,13,"Blaues Bustier",3,-1,-1
+8,13,14,"Schwarz-weißes Bustier",3,-1,-1
+8,13,15,"Leoparden-Bustier",3,-1,-1
+8,14,0,"Graues Polohemd",3,-1,-1
+8,15,0,"Schwarzer Bikini",3,-1,-1
+8,15,3,"Grauer Bikini",3,-1,-1
+8,15,10,"Aquagrüner Bikini",3,-1,-1
+8,15,11,"Oranger Bikini",3,-1,-1
+8,16,0,"Yeti Barfs Tanktop",3,-1,-1
+8,16,1,"Pinkes Tanktop",3,-1,-1
+8,16,2,"Babyblaues Tanktop",3,-1,-1
+8,16,3,"Pinkes Trey Baker Tanktop",3,-1,-1
+8,16,4,"Grünes Trey Baker Tanktop",3,-1,-1
+8,16,5,"Rotes Tanktop",3,-1,-1
+8,16,6,"Marineblaues Tanktop",3,-1,-1
+8,17,0,"Weißer Bikini",3,-1,-1
+8,17,1,"Kreuz-Bikini",3,-1,-1
+8,17,2,"Blauer Bikini",3,-1,-1
+8,17,3,"Santo Capra Kitty Bikini",3,-1,-1
+8,17,4,"Roter Bikini",3,-1,-1
+8,17,5,"Marineblauer Bikini",3,-1,-1
+8,17,6,"Yeti Tarn-Bikini",3,-1,-1
+8,17,7,"Harsh Souls Punk-Bikini",3,-1,-1
+8,17,8,"Pink gemusterter Bikini",3,-1,-1
+8,17,9,"Inseldruck-Bikini",3,-1,-1
+8,17,10,"Blumen-Bikini",3,-1,-1
+8,17,11,"Orange gestreifter Bikini",3,-1,-1
+8,18,0,"Weihnachtsmann-T-Shirt",3,-1,-1
+8,18,1,"Elfen-T-Shirt",3,-1,-1
+8,18,2,"Schneemann-T-Shirt",3,-1,-1
+8,18,3,"Rentier-T-Shirt",3,-1,-1
+8,19,0,"Weihnachtsmann-T-Shirt",3,-1,-1
+8,19,1,"Elfen-T-Shirt",3,-1,-1
+8,19,2,"Schneemann-T-Shirt",3,-1,-1
+8,19,3,"Rentier-T-Shirt",3,-1,-1
+8,20,0,"Weißes Love-T-Shirt",3,-1,-1
+8,20,1,"Schwarzes Love-T-Shirt",3,-1,-1
+8,20,2,"Rotes Love-T-Shirt",3,-1,-1
+8,21,0,"Weißes Love-T-Shirt",3,-1,-1
+8,21,1,"Schwarzes Love-T-Shirt",3,-1,-1
+8,21,2,"Rotes Love-T-Shirt",3,-1,-1
+8,22,0,"Weißer Spitzenbustier",3,-1,-1
+8,22,1,"Roter Spitzenbustier",3,-1,-1
+8,22,2,"Schwarzer Spitzenbustier",3,-1,-1
+8,22,3,"Grauer Spitzenbustier",3,-1,-1
+8,22,4,"Türkiser Spitzenbustier",3,-1,-1
+8,23,0,"Weißes Camisole",3,-1,-1
+8,23,1,"Schwarzes Camisole",3,-1,-1
+8,23,2,"Rotes Camisole",3,-1,-1
+8,23,3,"Cremefarbenes Camisole",3,-1,-1
+8,23,4,"Lila Camisole",3,-1,-1
+8,23,5,"Blaues Camisole",3,-1,-1
+8,23,6,"Himmelblaues Camisole",3,-1,-1
+8,23,7,"Gelbes Camisole",3,-1,-1
+8,23,8,"Hellblaues Camisole",3,-1,-1
+8,23,9,"Graues Camisole",3,-1,-1
+8,23,10,"Oranges Camisole",3,-1,-1
+8,23,11,"Leoparden-Camisole",3,-1,-1
+8,23,12,"Pinkes Camisole",3,-1,-1
+8,24,0,"Weiße Bluse",3,-1,-1
+8,24,1,"Schwarze Bluse",3,-1,-1
+8,24,2,"Hellbraune Bluse",3,-1,-1
+8,24,3,"Graue gestreifte Bluse",3,-1,-1
+8,24,4,"Pinke gestreifte Bluse",3,-1,-1
+8,24,5,"Graue Bluse",3,-1,-1
+8,25,0,"Neon-Camisole",3,-1,-1
+8,25,1,"Rotes gepunktetes Camisole",3,-1,-1
+8,25,2,"Dunkles gepunktetes Camisole",3,-1,-1
+8,25,3,"Weißes Camisole",3,-1,-1
+8,25,4,"Schwarzes Camisole",3,-1,-1
+8,25,5,"Rotes Camisole",3,-1,-1
+8,25,6,"Cremefarbenes Camisole",3,-1,-1
+8,25,7,"Lila Camisole",3,-1,-1
+8,25,8,"Blaues Camisole",3,-1,-1
+8,25,9,"Himmelblaues Camisole",3,-1,-1
+8,25,10,"Gelbes Camisole",3,-1,-1
+8,25,11,"Hellblaues Camisole",3,-1,-1
+8,25,12,"Graues Camisole",3,-1,-1
+8,25,13,"Oranges Camisole",3,-1,-1
+8,25,14,"Leoparden-Camisole",3,-1,-1
+8,25,15,"Pinkes Camisole",3,-1,-1
+8,26,0,"Weißes Love-T-Shirt",3,-1,-1
+8,26,1,"Schwarzes Love-T-Shirt",3,-1,-1
+8,26,2,"Rotes Love-T-Shirt",3,-1,-1
+8,27,0,"Leoparden-Tanktop",3,-1,-1
+8,27,1,"Totenkopf-Tanktop",3,-1,-1
+8,27,2,"Zweifarbiges Tanktop",3,-1,-1
+8,28,0,"Weißes gekürztes Tanktop",3,-1,-1
+8,28,1,"Gekürztes Zebra-Tanktop",3,-1,-1
+8,28,2,"Blaues Zebra-Tanktop",3,-1,-1
+8,28,3,"Gekürztes Leoparden-Tanktop",3,-1,-1
+8,28,4,"Gekürztes Papagei-Tanktop",3,-1,-1
+8,28,5,"Gekürztes Santos 13 Tanktop",3,-1,-1
+8,28,6,"Gekürztes Princess RB Tanktop",3,-1,-1
+8,28,7,"Gekürztes Softly Softly Tanktop",3,-1,-1
+8,28,8,"Leoparden-Neon-Tanktop",3,-1,-1
+8,29,0,"Love Fist Racerback",3,-1,-1
+8,29,1,"247 Racerback",3,-1,-1
+8,29,2,"The Barfs Racerback",3,-1,-1
+8,29,3,"Princess RB Racerback",3,-1,-1
+8,29,4,"Prison Bitches Racerback",3,-1,-1
+8,30,0,"Grünes T-Shirt",3,-1,-1
+8,30,1,"Gelbes T-Shirt",3,-1,-1
+8,30,2,"Violettes T-Shirt",3,-1,-1
+8,30,3,"Graues T-Shirt",3,-1,-1
+8,31,0,"Amerikanische Flagge-Oberteil",3,-1,-1
+8,32,0,"Tarn-Einsatzweste",3,-1,-1
+8,33,0,"Graue schwere Einsatzweste",3,-1,-1
+8,33,1,"Schwarze schwere Einsatzw.",3,-1,-1
+8,38,0,"Weißes Hemd",3,-1,-1
+8,38,1,"Silbernes Hemd",3,-1,-1
+8,38,2,"Anthrazitgraues Hemd",3,-1,-1
+8,38,3,"Hellblaues Hemd",3,-1,-1
+8,38,4,"Schwachblaues Hemd",3,-1,-1
+8,38,5,"Pinkes Karohemd",3,-1,-1
+8,38,6,"Blaues gewobenes Hemd",3,-1,-1
+8,38,7,"Lachsrosa Hemd",3,-1,-1
+8,38,8,"Hellolivgrünes Hemd",3,-1,-1
+8,38,9,"Lila Hemd",3,-1,-1
+8,38,10,"Altweißes Hemd",3,-1,-1
+8,38,11,"Mintgrünes Hemd",3,-1,-1
+8,38,12,"Blau gestreiftes Hemd",3,-1,-1
+8,38,13,"Pink gestreiftes Hemd",3,-1,-1
+8,38,14,"Hellbraunes Hemd",3,-1,-1
+8,38,15,"Meerblau gestreiftes Hemd",3,-1,-1
+8,39,0,"Weißes Hemd",3,-1,-1
+8,39,1,"Silbernes Hemd",3,-1,-1
+8,39,2,"Anthrazitgraues Hemd",3,-1,-1
+8,39,3,"Hellblaues Hemd",3,-1,-1
+8,39,4,"Schwachblaues Hemd",3,-1,-1
+8,39,5,"Pinkes Karohemd",3,-1,-1
+8,39,6,"Blaues gewobenes Hemd",3,-1,-1
+8,39,7,"Lachsrosa Hemd",3,-1,-1
+8,39,8,"Hellolivgrünes Hemd",3,-1,-1
+8,39,9,"Lila Hemd",3,-1,-1
+8,39,10,"Altweißes Hemd",3,-1,-1
+8,39,11,"Mintgrünes Hemd",3,-1,-1
+8,39,12,"Blau gestreiftes Hemd",3,-1,-1
+8,39,13,"Pink gestreiftes Hemd",3,-1,-1
+8,39,14,"Hellbraunes Hemd",3,-1,-1
+8,39,15,"Meerblau gestreiftes Hemd",3,-1,-1
+8,40,0,"Silberne Maßanzugweste",3,-1,-1
+8,40,1,"Beige Maßanzugweste",3,-1,-1
+8,40,2,"Schwarze Maßanzugweste",3,-1,-1
+8,40,3,"Blaue Maßanzugweste",3,-1,-1
+8,40,4,"Graue Maßanzugweste",3,-1,-1
+8,40,5,"Marineblaue Maßanzugweste",3,-1,-1
+8,40,6,"Türkise Maßanzugweste",3,-1,-1
+8,40,7,"Rote Maßanzugweste",3,-1,-1
+8,40,8,"Weiße Maßanzugweste",3,-1,-1
+8,40,9,"Braune Maßanzugweste",3,-1,-1
+8,41,0,"Silberne Maßanzugweste",3,-1,-1
+8,41,1,"Beige Maßanzugweste",3,-1,-1
+8,41,2,"Schwarze Maßanzugweste",3,-1,-1
+8,41,3,"Blaue Maßanzugweste",3,-1,-1
+8,41,4,"Graue Maßanzugweste",3,-1,-1
+8,41,5,"Marineblaue Maßanzugweste",3,-1,-1
+8,41,6,"Türkise Maßanzugweste",3,-1,-1
+8,41,7,"Rote Maßanzugweste",3,-1,-1
+8,41,8,"Weiße Maßanzugweste",3,-1,-1
+8,41,9,"Braune Maßanzugweste",3,-1,-1
+8,44,0,"Schwarzes SN-T-Shirt",3,-1,-1
+8,45,0,"Pegasus-T-Shirt",3,-1,-1
+8,45,1,"Andromeda-T-Shirt",3,-1,-1
+8,45,2,"Medusa-Kunst-T-Shirt",3,-1,-1
+8,45,3,"Angelica-T-Shirt",3,-1,-1
+8,45,4,"Klassisches Perseus-T-Shirt",3,-1,-1
+8,45,5,"Schild & Schwert-T-Shirt",3,-1,-1
+8,45,6,"Schild-T-Shirt",3,-1,-1
+8,45,7,"Braunes Fullprint-T-Shirt",3,-1,-1
+8,45,8,"Braunes Print-T-Shirt",3,-1,-1
+8,45,9,"Pinkfarbenes Fullprint-T-Shirt",3,-1,-1
+8,45,10,"Schwarzes Print-T-Shirt",3,-1,-1
+8,45,11,"Goldenes SN-Print-T-Shirt",3,-1,-1
+8,45,12,"Braunes SN-Print-T-Shirt",3,-1,-1
+8,45,13,"Pinkfarbenes SN-PRB-T-Shirt",3,-1,-1
+8,45,14,"Braunes Geo-PRB-T-Shirt",3,-1,-1
+8,45,16,"Weißes SN-Streifen-T-Shirt",3,-1,-1
+8,45,17,"Buntes Geo-PRB-T-Shirt",3,-1,-1
+8,45,18,"Buntes Geo-T-Shirt",3,-1,-1
+8,45,19,"Braunes Geo-T-Shirt",3,-1,-1
+8,46,0,"Pegasus-T-Shirt",3,-1,-1
+8,46,1,"Andromeda-T-Shirt",3,-1,-1
+8,46,2,"Medusa-Kunst-T-Shirt",3,-1,-1
+8,46,3,"Angelica-T-Shirt",3,-1,-1
+8,46,4,"Klassisches Perseus-T-Shirt",3,-1,-1
+8,46,5,"Schild & Schwert-T-Shirt",3,-1,-1
+8,46,6,"Schild-T-Shirt",3,-1,-1
+8,46,7,"Braunes Fullprint-T-Shirt",3,-1,-1
+8,46,8,"Braunes Print-T-Shirt",3,-1,-1
+8,46,9,"Pinkfarbenes Fullprint-T-Shirt",3,-1,-1
+8,46,10,"Schwarzes Print-T-Shirt",3,-1,-1
+8,46,11,"Goldenes SN-Print-T-Shirt",3,-1,-1
+8,46,12,"Braunes SN-Print-T-Shirt",3,-1,-1
+8,46,13,"Pinkfarbenes SN-PRB-T-Shirt",3,-1,-1
+8,46,14,"Braunes Geo-PRB-T-Shirt",3,-1,-1
+8,46,16,"Weißes SN-Streifen-T-Shirt",3,-1,-1
+8,46,17,"Buntes Geo-PRB-T-Shirt",3,-1,-1
+8,46,18,"Buntes Geo-T-Shirt",3,-1,-1
+8,46,19,"Braunes Geo-T-Shirt",3,-1,-1
+8,49,0,"Goldenes glänzendes Oberteil",3,-1,-1
+8,50,0,"Pegasus-T-Shirt",3,-1,-1
+8,50,1,"Andromeda-T-Shirt",3,-1,-1
+8,50,2,"Medusa-Kunst-T-Shirt",3,-1,-1
+8,50,3,"Angelica-T-Shirt",3,-1,-1
+8,50,4,"Klassisches Perseus-T-Shirt",3,-1,-1
+8,50,5,"Schild & Schwert-T-Shirt",3,-1,-1
+8,50,6,"Schild-T-Shirt",3,-1,-1
+8,50,7,"Braunes Fullprint-T-Shirt",3,-1,-1
+8,50,8,"Braunes Print-T-Shirt",3,-1,-1
+8,50,9,"Pinkfarbenes Fullprint-T-Shirt",3,-1,-1
+8,50,10,"Schwarzes Print-T-Shirt",3,-1,-1
+8,50,11,"Goldenes SN-Print-T-Shirt",3,-1,-1
+8,50,12,"Braunes SN-Print-T-Shirt",3,-1,-1
+8,50,13,"Pinkfarbenes SN-PRB-T-Shirt",3,-1,-1
+8,50,14,"Braunes Geo-PRB-T-Shirt",3,-1,-1
+8,50,16,"Weißes SN-Streifen-T-Shirt",3,-1,-1
+8,50,17,"Buntes Geo-PRB-T-Shirt",3,-1,-1
+8,50,18,"Buntes Geo-T-Shirt",3,-1,-1
+8,50,19,"Braunes Geo-T-Shirt",3,-1,-1
+8,51,0,"Schwarzes SN-T-Shirt",3,-1,-1
+8,52,0,"Schwarzes SN-T-Shirt",3,-1,-1
+8,54,0,"Goldenes glänzendes Oberteil",3,-1,-1
+8,56,0,"Goldenes glänzendes Oberteil",3,-1,-1
+8,57,0,"Weißer Klassiker",3,-1,-1
+8,57,1,"Schwarzer Klassiker",3,-1,-1
+8,57,2,"Grauer Klassiker",3,-1,-1
+8,58,0,"Weißer Klassiker",3,-1,-1
+8,58,1,"Schwarzer Klassiker",3,-1,-1
+8,58,2,"Grauer Klassiker",3,-1,-1
+8,59,0,"Weißer Klassiker",3,-1,-1
+8,59,1,"Schwarzer Klassiker",3,-1,-1
+8,59,2,"Grauer Klassiker",3,-1,-1
+8,60,0,"Weißes lockeres Tanktop",3,-1,-1
+8,60,1,"Schwarzes lockeres Tanktop",3,-1,-1
+8,60,2,"Graues lockeres Tanktop",3,-1,-1
+8,61,0,"Schwarz-gelbes Baseball-T-Shirt",3,-1,-1
+8,61,1,"Gelb-weißes Baseball-T-Shirt",3,-1,-1
+8,61,2,"Gelbes Baseball-T-Shirt",3,-1,-1
+8,61,3,"Schwarzes Baseball-T-Shirt",3,-1,-1
+8,62,0,"Schwarz-gelbes Baseball-T-Shirt",3,-1,-1
+8,62,1,"Gelb-weißes Baseball-T-Shirt",3,-1,-1
+8,62,2,"Gelbes Baseball-T-Shirt",3,-1,-1
+8,62,3,"Schwarzes Baseball-T-Shirt",3,-1,-1
+8,63,0,"Schwarz-gelbes Baseball-T-Shirt",3,-1,-1
+8,63,1,"Gelb-weißes Baseball-T-Shirt",3,-1,-1
+8,63,2,"Gelbes Baseball-T-Shirt",3,-1,-1
+8,63,3,"Schwarzes Baseball-T-Shirt",3,-1,-1
+8,65,0,"Weißes Pullunderhemd",3,-1,-1
+8,68,0,"Hautfarbenes Spitzenbustier",3,-1,-1
+8,68,1,"Blasslila Karo-Spitzenbustier",3,-1,-1
+8,68,2,"Schwarzes Karo-Spitzenbustier",3,-1,-1
+8,68,3,"Blaues Punkte-Spitzenbustier",3,-1,-1
+8,68,4,"Rotes Leoparden-Spitzenbustier",3,-1,-1
+8,68,5,"Weißes Herzen-Spitzenbustier",3,-1,-1
+8,68,6,"Schw. Herzen-Spitzenbustier",3,-1,-1
+8,68,7,"Rotes Herzen-Spitzenbustier",3,-1,-1
+8,68,8,"Pinkes Streifen-Spitzenbustier",3,-1,-1
+8,68,9,"Hellbr. Streifen-Spitzenbustier",3,-1,-1
+8,68,10,"Schw. Leoparden-Spitzenbustier",3,-1,-1
+8,68,11,"Rotes Streifen-Spitzenbustier",3,-1,-1
+8,69,0,"Weißes gekrempeltes T-Shirt",3,-1,-1
+8,69,1,"Schwarzes gekrempeltes T-Shirt",3,-1,-1
+8,69,2,"Graues gekrempeltes T-Shirt",3,-1,-1
+8,70,0,"Weißes gekrempeltes T-Shirt",3,-1,-1
+8,70,1,"Schwarzes gekrempeltes T-Shirt",3,-1,-1
+8,70,2,"Graues gekrempeltes T-Shirt",3,-1,-1
+8,71,0,"Weißes gekrempeltes T-Shirt",3,-1,-1
+8,71,1,"Schwarzes gekrempeltes T-Shirt",3,-1,-1
+8,71,2,"Graues gekrempeltes T-Shirt",3,-1,-1
+8,72,0,"Weißes gekrempeltes T-Shirt",3,-1,-1
+8,72,1,"Schwarzes gekrempeltes T-Shirt",3,-1,-1
+8,72,2,"Graues gekrempeltes T-Shirt",3,-1,-1
+8,73,0,"Weißes gekrempeltes T-Shirt",3,-1,-1
+8,73,1,"Schwarzes gekrempeltes T-Shirt",3,-1,-1
+8,73,2,"Graues gekrempeltes T-Shirt",3,-1,-1
+8,74,0,"Weißes gekrempeltes T-Shirt",3,-1,-1
+8,74,1,"Schwarzes gekrempeltes T-Shirt",3,-1,-1
+8,74,2,"Graues gekrempeltes T-Shirt",3,-1,-1
+8,75,0,"Blaues Pullunderhemd",3,-1,-1
+8,75,1,"Schwarzes Pullunderhemd",3,-1,-1
+8,75,2,"Karo-Pullunderhemd",3,-1,-1
+8,76,0,"Grauer Rollkragenpullover",3,3,0
+8,76,1,"Roter Rollkragenpullover",3,3,0
+8,76,2,"Brauner Rollkragenpullover",3,3,0
+8,76,3,"Schwarzer Rollkragenpullover",3,3,0
+8,76,4,"Marineblauer Rollkragenpullover",3,3,0
+8,76,5,"Beiger Rollkragenpullover",3,3,0
+8,76,6,"Lila Rollkragenpullover",3,3,0
+8,76,7,"Grüner Rollkragenpullover",3,3,0
+8,77,0,"Grauer Rollkragenpullover",3,3,0
+8,77,1,"Roter Rollkragenpullover",3,3,0
+8,77,2,"Brauner Rollkragenpullover",3,3,0
+8,77,3,"Schwarzer Rollkragenpullover",3,3,0
+8,77,4,"Marineblauer Rollkragenpullover",3,3,0
+8,77,5,"Beiger Rollkragenpullover",3,3,0
+8,77,6,"Lila Rollkragenpullover",3,3,0
+8,77,7,"Grüner Rollkragenpullover",3,3,0
+8,86,0,"Schwarzes SN-T-Shirt",3,-1,-1
+8,86,2,"Pegasus-T-Shirt",3,-1,-1
+8,86,3,"Andromeda-T-Shirt",3,-1,-1
+8,86,4,"Medusa-Kunst-T-Shirt",3,-1,-1
+8,86,5,"Angelica-T-Shirt",3,-1,-1
+8,86,6,"Klassisches Perseus-T-Shirt",3,-1,-1
+8,86,7,"Schild & Schwert-T-Shirt",3,-1,-1
+8,86,8,"Schild-T-Shirt",3,-1,-1
+8,86,9,"Braunes Fullprint-T-Shirt",3,-1,-1
+8,86,10,"Braunes Print-T-Shirt",3,-1,-1
+8,86,11,"Pinkfarbenes Fullprint-T-Shirt",3,-1,-1
+8,86,12,"Schwarzes Print-T-Shirt",3,-1,-1
+8,86,13,"Goldenes SN-Print-T-Shirt",3,-1,-1
+8,86,14,"Braunes SN-Print-T-Shirt",3,-1,-1
+8,86,15,"Pinkfarbenes SN-PRB-T-Shirt",3,-1,-1
+8,86,16,"Braunes Geo-PRB-T-Shirt",3,-1,-1
+8,86,18,"Weißes SN-Streifen-T-Shirt",3,-1,-1
+8,86,19,"Buntes Geo-PRB-T-Shirt",3,-1,-1
+8,86,20,"Buntes Geo-T-Shirt",3,-1,-1
+8,86,21,"Braunes Geo-T-Shirt",3,-1,-1
+8,86,25,"Beiges T-Shirt",3,-1,-1
+8,87,0,"Khakifarbenes T-Shirt",3,-1,-1
+8,88,0,"Schwarzes SN-T-Shirt",3,-1,-1
+8,88,2,"Pegasus-T-Shirt",3,-1,-1
+8,88,3,"Andromeda-T-Shirt",3,-1,-1
+8,88,4,"Medusa-Kunst-T-Shirt",3,-1,-1
+8,88,5,"Angelica-T-Shirt",3,-1,-1
+8,88,6,"Klassisches Perseus-T-Shirt",3,-1,-1
+8,88,7,"Schild & Schwert-T-Shirt",3,-1,-1
+8,88,8,"Schild-T-Shirt",3,-1,-1
+8,88,9,"Braunes Fullprint-T-Shirt",3,-1,-1
+8,88,10,"Braunes Print-T-Shirt",3,-1,-1
+8,88,11,"Pinkfarbenes Fullprint-T-Shirt",3,-1,-1
+8,88,12,"Schwarzes Print-T-Shirt",3,-1,-1
+8,88,13,"Goldenes SN-Print-T-Shirt",3,-1,-1
+8,88,14,"Braunes SN-Print-T-Shirt",3,-1,-1
+8,88,15,"Pinkfarbenes SN-PRB-T-Shirt",3,-1,-1
+8,88,16,"Braunes Geo-PRB-T-Shirt",3,-1,-1
+8,88,18,"Weißes SN-Streifen-T-Shirt",3,-1,-1
+8,88,19,"Buntes Geo-PRB-T-Shirt",3,-1,-1
+8,88,20,"Buntes Geo-T-Shirt",3,-1,-1
+8,88,21,"Braunes Geo-T-Shirt",3,-1,-1
+8,88,25,"Beiges T-Shirt",3,-1,-1
+8,89,0,"Khakifarbenes T-Shirt",3,-1,-1
+8,90,0,"Schwarzes SN-T-Shirt",3,-1,-1
+8,90,2,"Pegasus-T-Shirt",3,-1,-1
+8,90,3,"Andromeda-T-Shirt",3,-1,-1
+8,90,4,"Medusa-Kunst-T-Shirt",3,-1,-1
+8,90,5,"Angelica-T-Shirt",3,-1,-1
+8,90,6,"Klassisches Perseus-T-Shirt",3,-1,-1
+8,90,7,"Schild & Schwert-T-Shirt",3,-1,-1
+8,90,8,"Schild-T-Shirt",3,-1,-1
+8,90,9,"Braunes Fullprint-T-Shirt",3,-1,-1
+8,90,10,"Braunes Print-T-Shirt",3,-1,-1
+8,90,11,"Pinkfarbenes Fullprint-T-Shirt",3,-1,-1
+8,90,12,"Schwarzes Print-T-Shirt",3,-1,-1
+8,90,13,"Goldenes SN-Print-T-Shirt",3,-1,-1
+8,90,14,"Braunes SN-Print-T-Shirt",3,-1,-1
+8,90,15,"Pinkfarbenes SN-PRB-T-Shirt",3,-1,-1
+8,90,16,"Braunes Geo-PRB-T-Shirt",3,-1,-1
+8,90,18,"Weißes SN-Streifen-T-Shirt",3,-1,-1
+8,90,19,"Buntes Geo-PRB-T-Shirt",3,-1,-1
+8,90,20,"Buntes Geo-T-Shirt",3,-1,-1
+8,90,21,"Braunes Geo-T-Shirt",3,-1,-1
+8,90,25,"Beiges T-Shirt",3,-1,-1
+8,91,0,"Khakifarbenes T-Shirt",3,-1,-1
+8,92,0,"Weißer Klassiker",3,-1,-1
+8,92,1,"Schwarzer Klassiker",3,-1,-1
+8,92,2,"Grauer Klassiker",3,-1,-1
+8,93,0,"Weißer Klassiker",3,-1,-1
+8,93,1,"Schwarzer Klassiker",3,-1,-1
+8,93,2,"Grauer Klassiker",3,-1,-1
+8,94,0,"Weißer Klassiker",3,-1,-1
+8,94,1,"Schwarzer Klassiker",3,-1,-1
+8,94,2,"Grauer Klassiker",3,-1,-1
+8,95,0,"Weißes gekrempeltes T-Shirt",3,-1,-1
+8,95,1,"Schwarzes gekrempeltes T-Shirt",3,-1,-1
+8,95,2,"Graues gekrempeltes T-Shirt",3,-1,-1
+8,96,0,"Weißes gekrempeltes T-Shirt",3,-1,-1
+8,96,1,"Schwarzes gekrempeltes T-Shirt",3,-1,-1
+8,96,2,"Graues gekrempeltes T-Shirt",3,-1,-1
+8,97,0,"Weißes gekrempeltes T-Shirt",3,-1,-1
+8,97,1,"Schwarzes gekrempeltes T-Shirt",3,-1,-1
+8,97,2,"Graues gekrempeltes T-Shirt",3,-1,-1
+8,98,0,"Weißes gekrempeltes T-Shirt",3,-1,-1
+8,98,1,"Schwarzes gekrempeltes T-Shirt",3,-1,-1
+8,98,2,"Graues gekrempeltes T-Shirt",3,-1,-1
+8,99,0,"Weißes gekrempeltes T-Shirt",3,-1,-1
+8,99,1,"Schwarzes gekrempeltes T-Shirt",3,-1,-1
+8,99,2,"Graues gekrempeltes T-Shirt",3,-1,-1
+8,100,0,"Weißes gekrempeltes T-Shirt",3,-1,-1
+8,100,1,"Schwarzes gekrempeltes T-Shirt",3,-1,-1
+8,100,2,"Graues gekrempeltes T-Shirt",3,-1,-1
+8,101,0,"Marineblaues Blazerhemd",3,-1,-1
+8,101,1,"Rotes Blazerhemd",3,-1,-1
+8,102,0,"Creme mit weißem Hemd",3,-1,-1
+8,102,1,"Creme mit schwarzem Hemd",3,-1,-1
+8,102,2,"Creme mit marineblauem Hemd",3,-1,-1
+8,102,3,"Creme mit rotem Hemd",3,-1,-1
+8,102,4,"Rot mit weißem Hemd",3,-1,-1
+8,102,5,"Rot mit schwarzem Hemd",3,-1,-1
+8,102,6,"Rot mit marineblauem Hemd",3,-1,-1
+8,102,7,"Rot mit rotem Hemd",3,-1,-1
+8,102,8,"Marineblau mit weißem Hemd",3,-1,-1
+8,102,9,"Marineblau mit schwarzem Hemd",3,-1,-1
+8,102,10,"Marineblau mit marinebl. Hemd",3,-1,-1
+8,102,11,"Marineblau mit rotem Hemd",3,-1,-1
+8,102,12,"Zyan mit weißem Hemd",3,-1,-1
+8,102,13,"Zyan mit schwarzem Hemd",3,-1,-1
+8,102,14,"Zyan mit marineblauem Hemd",3,-1,-1
+8,102,15,"Zyan mit rotem Hemd",3,-1,-1
+8,102,16,"Schwarz mit weißem Hemd",3,-1,-1
+8,102,17,"Schwarz mit schwarzem Hemd",3,-1,-1
+8,102,18,"Schwarz mit marinebl. Hemd",3,-1,-1
+8,102,19,"Schwarz mit rotem Hemd",3,-1,-1
+8,102,20,"Weiß mit weißem Hemd",3,-1,-1
+8,102,21,"Weiß mit schwarzem Hemd",3,-1,-1
+8,102,22,"Weiß mit marineblauem Hemd",3,-1,-1
+8,102,23,"Weiß mit rotem Hemd",3,-1,-1
+8,103,0,"Creme mit weißem Rolli",3,-1,-1
+8,103,1,"Creme mit schwarzem Rolli",3,-1,-1
+8,103,2,"Creme mit marineblauem Rolli",3,-1,-1
+8,103,3,"Creme mit rotem Rolli",3,-1,-1
+8,103,4,"Rot mit weißem Rolli",3,-1,-1
+8,103,5,"Rot mit schwarzem Rolli",3,-1,-1
+8,103,6,"Rot mit marineblauem Rolli",3,-1,-1
+8,103,7,"Rot mit rotem Rolli",3,-1,-1
+8,103,8,"Marineblau mit weißem Rolli",3,-1,-1
+8,103,9,"Marineblau mit schwarzem Rolli",3,-1,-1
+8,103,10,"Marineblau mit marinebl. Rolli",3,-1,-1
+8,103,11,"Marineblau mit rotem Rolli",3,-1,-1
+8,103,12,"Zyan mit weißem Rolli",3,-1,-1
+8,103,13,"Zyan mit schwarzem Rolli",3,-1,-1
+8,103,14,"Zyan mit marineblauem Rolli",3,-1,-1
+8,103,15,"Zyan mit rotem Rolli",3,-1,-1
+8,103,16,"Schwarz mit weißem Rolli",3,-1,-1
+8,103,17,"Schwarz mit schwarzem Rolli",3,-1,-1
+8,103,18,"Schwarz mit marineblauem Rolli",3,-1,-1
+8,103,19,"Schwarz mit rotem Rolli",3,-1,-1
+8,103,20,"Weiß mit weißem Rolli",3,-1,-1
+8,103,21,"Weiß mit schwarzem Rolli",3,-1,-1
+8,103,22,"Weiß mit marineblauem Rolli",3,-1,-1
+8,103,23,"Weiß mit rotem Rolli",3,-1,-1
+8,106,0,"Tarn-Bigness-Krempel-T-Shirt",3,-1,-1
+8,106,1,"Gekrempeltes Zebra-T-Shirt",3,-1,-1
+8,106,2,"Grünes Squash-Krempel-T-Shirt",3,-1,-1
+8,106,3,"Gekrempeltes Leoparden-T-Shirt",3,-1,-1
+8,106,4,"Gekrempeltes GoPostal-T-Shirt",3,-1,-1
+8,106,5,"Gekrempeltes Manor-T-Shirt",3,-1,-1
+8,106,6,"Gestreiftes gekrempeltes T-Shirt",3,-1,-1
+8,106,7,"Gestr. Squash-Krempel-T-Shirt",3,-1,-1
+8,106,8,"Helles Squash-Krempel-T-Shirt",3,-1,-1
+8,106,9,"Rotes gekrempeltes Güffy-T-Shirt",3,-1,-1
+8,106,10,"Gelbes Güffy-Krempel-T-Shirt",3,-1,-1
+8,106,11,"Orangensaft-Krempel-T-Shirt",3,-1,-1
+8,106,12,"Gekrempeltes Himmels-T-Shirt",3,-1,-1
+8,106,13,"Helles Güffy-Krempel-T-Shirt",3,-1,-1
+8,106,14,"Gekrempeltes Spritzer-T-Shirt",3,-1,-1
+8,106,15,"Bigness-Geo-Krempel-T-Shirt",3,-1,-1
+8,106,16,"Sand-Castle-Krempel-T-Shirt",3,-1,-1
+8,107,0,"Tarn-Bigness-Krempel-T-Shirt",3,-1,-1
+8,107,1,"Gekrempeltes Zebra-T-Shirt",3,-1,-1
+8,107,2,"Grünes Squash-Krempel-T-Shirt",3,-1,-1
+8,107,3,"Gekrempeltes Leoparden-T-Shirt",3,-1,-1
+8,107,4,"Gekrempeltes GoPostal-T-Shirt",3,-1,-1
+8,107,5,"Gekrempeltes Manor-T-Shirt",3,-1,-1
+8,107,6,"Gestreiftes gekrempeltes T-Shirt",3,-1,-1
+8,107,7,"Gestr. Squash-Krempel-T-Shirt",3,-1,-1
+8,107,8,"Helles Squash-Krempel-T-Shirt",3,-1,-1
+8,107,9,"Rotes gekrempeltes Güffy-T-Shirt",3,-1,-1
+8,107,10,"Gelbes Güffy-Krempel-T-Shirt",3,-1,-1
+8,107,11,"Orangensaft-Krempel-T-Shirt",3,-1,-1
+8,107,12,"Gekrempeltes Himmels-T-Shirt",3,-1,-1
+8,107,13,"Helles Güffy-Krempel-T-Shirt",3,-1,-1
+8,107,14,"Gekrempeltes Spritzer-T-Shirt",3,-1,-1
+8,107,15,"Bigness-Geo-Krempel-T-Shirt",3,-1,-1
+8,107,16,"Sand-Castle-Krempel-T-Shirt",3,-1,-1
+8,108,0,"Tarn-Bigness-Krempel-T-Shirt",3,-1,-1
+8,108,1,"Gekrempeltes Zebra-T-Shirt",3,-1,-1
+8,108,2,"Grünes Squash-Krempel-T-Shirt",3,-1,-1
+8,108,3,"Gekrempeltes Leoparden-T-Shirt",3,-1,-1
+8,108,4,"Gekrempeltes GoPostal-T-Shirt",3,-1,-1
+8,108,5,"Gekrempeltes Manor-T-Shirt",3,-1,-1
+8,108,6,"Gestreiftes gekrempeltes T-Shirt",3,-1,-1
+8,108,7,"Gestr. Squash-Krempel-T-Shirt",3,-1,-1
+8,108,8,"Helles Squash-Krempel-T-Shirt",3,-1,-1
+8,108,9,"Rotes gekrempeltes Güffy-T-Shirt",3,-1,-1
+8,108,10,"Gelbes Güffy-Krempel-T-Shirt",3,-1,-1
+8,108,11,"Orangensaft-Krempel-T-Shirt",3,-1,-1
+8,108,12,"Gekrempeltes Himmels-T-Shirt",3,-1,-1
+8,108,13,"Helles Güffy-Krempel-T-Shirt",3,-1,-1
+8,108,14,"Gekrempeltes Spritzer-T-Shirt",3,-1,-1
+8,108,15,"Bigness-Geo-Krempel-T-Shirt",3,-1,-1
+8,108,16,"Sand-Castle-Krempel-T-Shirt",3,-1,-1
+8,109,0,"Tarn-Bigness-Krempel-T-Shirt",3,-1,-1
+8,109,1,"Gekrempeltes Zebra-T-Shirt",3,-1,-1
+8,109,2,"Grünes Squash-Krempel-T-Shirt",3,-1,-1
+8,109,3,"Gekrempeltes Leoparden-T-Shirt",3,-1,-1
+8,109,4,"Gekrempeltes GoPostal-T-Shirt",3,-1,-1
+8,109,5,"Gekrempeltes Manor-T-Shirt",3,-1,-1
+8,109,6,"Gestreiftes gekrempeltes T-Shirt",3,-1,-1
+8,109,7,"Gestr. Squash-Krempel-T-Shirt",3,-1,-1
+8,109,8,"Helles Squash-Krempel-T-Shirt",3,-1,-1
+8,109,9,"Rotes gekrempeltes Güffy-T-Shirt",3,-1,-1
+8,109,10,"Gelbes Güffy-Krempel-T-Shirt",3,-1,-1
+8,109,11,"Orangensaft-Krempel-T-Shirt",3,-1,-1
+8,109,12,"Gekrempeltes Himmels-T-Shirt",3,-1,-1
+8,109,13,"Helles Güffy-Krempel-T-Shirt",3,-1,-1
+8,109,14,"Gekrempeltes Spritzer-T-Shirt",3,-1,-1
+8,109,15,"Bigness-Geo-Krempel-T-Shirt",3,-1,-1
+8,109,16,"Sand-Castle-Krempel-T-Shirt",3,-1,-1
+8,110,0,"Tarn-Bigness-Krempel-T-Shirt",3,-1,-1
+8,110,1,"Gekrempeltes Zebra-T-Shirt",3,-1,-1
+8,110,2,"Grünes Squash-Krempel-T-Shirt",3,-1,-1
+8,110,3,"Gekrempeltes Leoparden-T-Shirt",3,-1,-1
+8,110,4,"Gekrempeltes GoPostal-T-Shirt",3,-1,-1
+8,110,5,"Gekrempeltes Manor-T-Shirt",3,-1,-1
+8,110,6,"Gestreiftes gekrempeltes T-Shirt",3,-1,-1
+8,110,7,"Gestr. Squash-Krempel-T-Shirt",3,-1,-1
+8,110,8,"Helles Squash-Krempel-T-Shirt",3,-1,-1
+8,110,9,"Rotes gekrempeltes Güffy-T-Shirt",3,-1,-1
+8,110,10,"Gelbes Güffy-Krempel-T-Shirt",3,-1,-1
+8,110,11,"Orangensaft-Krempel-T-Shirt",3,-1,-1
+8,110,12,"Gekrempeltes Himmels-T-Shirt",3,-1,-1
+8,110,13,"Helles Güffy-Krempel-T-Shirt",3,-1,-1
+8,110,14,"Gekrempeltes Spritzer-T-Shirt",3,-1,-1
+8,110,15,"Bigness-Geo-Krempel-T-Shirt",3,-1,-1
+8,110,16,"Sand-Castle-Krempel-T-Shirt",3,-1,-1
+8,111,0,"Tarn-Bigness-Krempel-T-Shirt",3,-1,-1
+8,111,1,"Gekrempeltes Zebra-T-Shirt",3,-1,-1
+8,111,2,"Grünes Squash-Krempel-T-Shirt",3,-1,-1
+8,111,3,"Gekrempeltes Leoparden-T-Shirt",3,-1,-1
+8,111,4,"Gekrempeltes GoPostal-T-Shirt",3,-1,-1
+8,111,5,"Gekrempeltes Manor-T-Shirt",3,-1,-1
+8,111,6,"Gestreiftes gekrempeltes T-Shirt",3,-1,-1
+8,111,7,"Gestr. Squash-Krempel-T-Shirt",3,-1,-1
+8,111,8,"Helles Squash-Krempel-T-Shirt",3,-1,-1
+8,111,9,"Rotes gekrempeltes Güffy-T-Shirt",3,-1,-1
+8,111,10,"Gelbes Güffy-Krempel-T-Shirt",3,-1,-1
+8,111,11,"Orangensaft-Krempel-T-Shirt",3,-1,-1
+8,111,12,"Gekrempeltes Himmels-T-Shirt",3,-1,-1
+8,111,13,"Helles Güffy-Krempel-T-Shirt",3,-1,-1
+8,111,14,"Gekrempeltes Spritzer-T-Shirt",3,-1,-1
+8,111,15,"Bigness-Geo-Krempel-T-Shirt",3,-1,-1
+8,111,16,"Sand-Castle-Krempel-T-Shirt",3,-1,-1
+8,112,0,"Tarn-Bigness-Krempel-T-Shirt",3,-1,-1
+8,112,1,"Gekrempeltes Zebra-T-Shirt",3,-1,-1
+8,112,2,"Grünes Squash-Krempel-T-Shirt",3,-1,-1
+8,112,3,"Gekrempeltes Leoparden-T-Shirt",3,-1,-1
+8,112,4,"Gekrempeltes GoPostal-T-Shirt",3,-1,-1
+8,112,5,"Gekrempeltes Manor-T-Shirt",3,-1,-1
+8,112,6,"Gestreiftes gekrempeltes T-Shirt",3,-1,-1
+8,112,7,"Gestr. Squash-Krempel-T-Shirt",3,-1,-1
+8,112,8,"Helles Squash-Krempel-T-Shirt",3,-1,-1
+8,112,9,"Rotes gekrempeltes Güffy-T-Shirt",3,-1,-1
+8,112,10,"Gelbes Güffy-Krempel-T-Shirt",3,-1,-1
+8,112,11,"Orangensaft-Krempel-T-Shirt",3,-1,-1
+8,112,12,"Gekrempeltes Himmels-T-Shirt",3,-1,-1
+8,112,13,"Helles Güffy-Krempel-T-Shirt",3,-1,-1
+8,112,14,"Gekrempeltes Spritzer-T-Shirt",3,-1,-1
+8,112,15,"Bigness-Geo-Krempel-T-Shirt",3,-1,-1
+8,112,16,"Sand-Castle-Krempel-T-Shirt",3,-1,-1
+8,113,0,"Tarn-Bigness-Krempel-T-Shirt",3,-1,-1
+8,113,1,"Gekrempeltes Zebra-T-Shirt",3,-1,-1
+8,113,2,"Grünes Squash-Krempel-T-Shirt",3,-1,-1
+8,113,3,"Gekrempeltes Leoparden-T-Shirt",3,-1,-1
+8,113,4,"Gekrempeltes GoPostal-T-Shirt",3,-1,-1
+8,113,5,"Gekrempeltes Manor-T-Shirt",3,-1,-1
+8,113,6,"Gestreiftes gekrempeltes T-Shirt",3,-1,-1
+8,113,7,"Gestr. Squash-Krempel-T-Shirt",3,-1,-1
+8,113,8,"Helles Squash-Krempel-T-Shirt",3,-1,-1
+8,113,9,"Rotes gekrempeltes Güffy-T-Shirt",3,-1,-1
+8,113,10,"Gelbes Güffy-Krempel-T-Shirt",3,-1,-1
+8,113,11,"Orangensaft-Krempel-T-Shirt",3,-1,-1
+8,113,12,"Gekrempeltes Himmels-T-Shirt",3,-1,-1
+8,113,13,"Helles Güffy-Krempel-T-Shirt",3,-1,-1
+8,113,14,"Gekrempeltes Spritzer-T-Shirt",3,-1,-1
+8,113,15,"Bigness-Geo-Krempel-T-Shirt",3,-1,-1
+8,113,16,"Sand-Castle-Krempel-T-Shirt",3,-1,-1
+8,114,0,"Tarn-Bigness-Krempel-T-Shirt",3,-1,-1
+8,114,1,"Gekrempeltes Zebra-T-Shirt",3,-1,-1
+8,114,2,"Grünes Squash-Krempel-T-Shirt",3,-1,-1
+8,114,3,"Gekrempeltes Leoparden-T-Shirt",3,-1,-1
+8,114,4,"Gekrempeltes GoPostal-T-Shirt",3,-1,-1
+8,114,5,"Gekrempeltes Manor-T-Shirt",3,-1,-1
+8,114,6,"Gestreiftes gekrempeltes T-Shirt",3,-1,-1
+8,114,7,"Gestr. Squash-Krempel-T-Shirt",3,-1,-1
+8,114,8,"Helles Squash-Krempel-T-Shirt",3,-1,-1
+8,114,9,"Rotes gekrempeltes Güffy-T-Shirt",3,-1,-1
+8,114,10,"Gelbes Güffy-Krempel-T-Shirt",3,-1,-1
+8,114,11,"Orangensaft-Krempel-T-Shirt",3,-1,-1
+8,114,12,"Gekrempeltes Himmels-T-Shirt",3,-1,-1
+8,114,13,"Helles Güffy-Krempel-T-Shirt",3,-1,-1
+8,114,14,"Gekrempeltes Spritzer-T-Shirt",3,-1,-1
+8,114,15,"Bigness-Geo-Krempel-T-Shirt",3,-1,-1
+8,114,16,"Sand-Castle-Krempel-T-Shirt",3,-1,-1
+8,115,0,"Tarn-Bigness-Krempel-T-Shirt",3,-1,-1
+8,115,1,"Gekrempeltes Zebra-T-Shirt",3,-1,-1
+8,115,2,"Grünes Squash-Krempel-T-Shirt",3,-1,-1
+8,115,3,"Gekrempeltes Leoparden-T-Shirt",3,-1,-1
+8,115,4,"Gekrempeltes GoPostal-T-Shirt",3,-1,-1
+8,115,5,"Gekrempeltes Manor-T-Shirt",3,-1,-1
+8,115,6,"Gestreiftes gekrempeltes T-Shirt",3,-1,-1
+8,115,7,"Gestr. Squash-Krempel-T-Shirt",3,-1,-1
+8,115,8,"Helles Squash-Krempel-T-Shirt",3,-1,-1
+8,115,9,"Rotes gekrempeltes Güffy-T-Shirt",3,-1,-1
+8,115,10,"Gelbes Güffy-Krempel-T-Shirt",3,-1,-1
+8,115,11,"Orangensaft-Krempel-T-Shirt",3,-1,-1
+8,115,12,"Gekrempeltes Himmels-T-Shirt",3,-1,-1
+8,115,13,"Helles Güffy-Krempel-T-Shirt",3,-1,-1
+8,115,14,"Gekrempeltes Spritzer-T-Shirt",3,-1,-1
+8,115,15,"Bigness-Geo-Krempel-T-Shirt",3,-1,-1
+8,115,16,"Sand-Castle-Krempel-T-Shirt",3,-1,-1
+8,116,0,"Tarn-Bigness-Krempel-T-Shirt",3,-1,-1
+8,116,1,"Gekrempeltes Zebra-T-Shirt",3,-1,-1
+8,116,2,"Grünes Squash-Krempel-T-Shirt",3,-1,-1
+8,116,3,"Gekrempeltes Leoparden-T-Shirt",3,-1,-1
+8,116,4,"Gekrempeltes GoPostal-T-Shirt",3,-1,-1
+8,116,5,"Gekrempeltes Manor-T-Shirt",3,-1,-1
+8,116,6,"Gestreiftes gekrempeltes T-Shirt",3,-1,-1
+8,116,7,"Gestr. Squash-Krempel-T-Shirt",3,-1,-1
+8,116,8,"Helles Squash-Krempel-T-Shirt",3,-1,-1
+8,116,9,"Rotes gekrempeltes Güffy-T-Shirt",3,-1,-1
+8,116,10,"Gelbes Güffy-Krempel-T-Shirt",3,-1,-1
+8,116,11,"Orangensaft-Krempel-T-Shirt",3,-1,-1
+8,116,12,"Gekrempeltes Himmels-T-Shirt",3,-1,-1
+8,116,13,"Helles Güffy-Krempel-T-Shirt",3,-1,-1
+8,116,14,"Gekrempeltes Spritzer-T-Shirt",3,-1,-1
+8,116,15,"Bigness-Geo-Krempel-T-Shirt",3,-1,-1
+8,116,16,"Sand-Castle-Krempel-T-Shirt",3,-1,-1
+8,117,0,"Tarn-Bigness-Krempel-T-Shirt",3,-1,-1
+8,117,1,"Gekrempeltes Zebra-T-Shirt",3,-1,-1
+8,117,2,"Grünes Squash-Krempel-T-Shirt",3,-1,-1
+8,117,3,"Gekrempeltes Leoparden-T-Shirt",3,-1,-1
+8,117,4,"Gekrempeltes GoPostal-T-Shirt",3,-1,-1
+8,117,5,"Gekrempeltes Manor-T-Shirt",3,-1,-1
+8,117,6,"Gestreiftes gekrempeltes T-Shirt",3,-1,-1
+8,117,7,"Gestr. Squash-Krempel-T-Shirt",3,-1,-1
+8,117,8,"Helles Squash-Krempel-T-Shirt",3,-1,-1
+8,117,9,"Rotes gekrempeltes Güffy-T-Shirt",3,-1,-1
+8,117,10,"Gelbes Güffy-Krempel-T-Shirt",3,-1,-1
+8,117,11,"Orangensaft-Krempel-T-Shirt",3,-1,-1
+8,117,12,"Gekrempeltes Himmels-T-Shirt",3,-1,-1
+8,117,13,"Helles Güffy-Krempel-T-Shirt",3,-1,-1
+8,117,14,"Gekrempeltes Spritzer-T-Shirt",3,-1,-1
+8,117,15,"Bigness-Geo-Krempel-T-Shirt",3,-1,-1
+8,117,16,"Sand-Castle-Krempel-T-Shirt",3,-1,-1
+8,118,0,"Blaues Digitaltarn-T-Shirt",3,-1,-1
+8,118,1,"Braunes Digitaltarn-T-Shirt",3,-1,-1
+8,118,2,"Grünes Digitaltarn-T-Shirt",3,-1,-1
+8,118,3,"Graues Digitaltarn-T-Shirt",3,-1,-1
+8,118,4,"Pfirsichf. Digitaltarn-T-Shirt",3,-1,-1
+8,118,5,"Herbsttarn-T-Shirt",3,-1,-1
+8,118,6,"Dunkles Waldtarn-T-Shirt",3,-1,-1
+8,118,7,"Crosshatch-T-Shirt",3,-1,-1
+8,118,8,"Moosgrünes Digitaltarn-T-Shirt",3,-1,-1
+8,118,9,"Graues Waldtarn-T-Shirt",3,-1,-1
+8,118,10,"Aquablaues Tarn-T-Shirt",3,-1,-1
+8,118,11,"Splitter-T-Shirt",3,-1,-1
+8,118,12,"Kontrasttarn-T-Shirt",3,-1,-1
+8,118,13,"Pflasterstein-T-Shirt",3,-1,-1
+8,118,14,"Pfirsichfarbenes Tarn-T-Shirt",3,-1,-1
+8,118,15,"Pinselstrich-T-Shirt",3,-1,-1
+8,118,16,"Flecktarn-T-Shirt",3,-1,-1
+8,118,17,"Helles Waldtarn-T-Shirt",3,-1,-1
+8,118,18,"Moosgrünes T-Shirt",3,-1,-1
+8,118,19,"Sandbraunes T-Shirt",3,-1,-1
+8,119,0,"Blaues Digitaltarn-T-Shirt",3,-1,-1
+8,119,1,"Braunes Digitaltarn-T-Shirt",3,-1,-1
+8,119,2,"Grünes Digitaltarn-T-Shirt",3,-1,-1
+8,119,3,"Graues Digitaltarn-T-Shirt",3,-1,-1
+8,119,4,"Pfirsichf. Digitaltarn-T-Shirt",3,-1,-1
+8,119,5,"Herbsttarn-T-Shirt",3,-1,-1
+8,119,6,"Dunkles Waldtarn-T-Shirt",3,-1,-1
+8,119,7,"Crosshatch-T-Shirt",3,-1,-1
+8,119,8,"Moosgrünes Digitaltarn-T-Shirt",3,-1,-1
+8,119,9,"Graues Waldtarn-T-Shirt",3,-1,-1
+8,119,10,"Aquablaues Tarn-T-Shirt",3,-1,-1
+8,119,11,"Splitter-T-Shirt",3,-1,-1
+8,119,12,"Kontrasttarn-T-Shirt",3,-1,-1
+8,119,13,"Pflasterstein-T-Shirt",3,-1,-1
+8,119,14,"Pfirsichfarbenes Tarn-T-Shirt",3,-1,-1
+8,119,15,"Pinselstrich-T-Shirt",3,-1,-1
+8,119,16,"Flecktarn-T-Shirt",3,-1,-1
+8,119,17,"Helles Waldtarn-T-Shirt",3,-1,-1
+8,119,18,"Moosgrünes T-Shirt",3,-1,-1
+8,119,19,"Sandbraunes T-Shirt",3,-1,-1
+8,120,0,"Blaues Digitaltarn-T-Shirt",3,-1,-1
+8,120,1,"Braunes Digitaltarn-T-Shirt",3,-1,-1
+8,120,2,"Grünes Digitaltarn-T-Shirt",3,-1,-1
+8,120,3,"Graues Digitaltarn-T-Shirt",3,-1,-1
+8,120,4,"Pfirsichf. Digitaltarn-T-Shirt",3,-1,-1
+8,120,5,"Herbsttarn-T-Shirt",3,-1,-1
+8,120,6,"Dunkles Waldtarn-T-Shirt",3,-1,-1
+8,120,7,"Crosshatch-T-Shirt",3,-1,-1
+8,120,8,"Moosgrünes Digitaltarn-T-Shirt",3,-1,-1
+8,120,9,"Graues Waldtarn-T-Shirt",3,-1,-1
+8,120,10,"Aquablaues Tarn-T-Shirt",3,-1,-1
+8,120,11,"Splitter-T-Shirt",3,-1,-1
+8,120,12,"Kontrasttarn-T-Shirt",3,-1,-1
+8,120,13,"Pflasterstein-T-Shirt",3,-1,-1
+8,120,14,"Pfirsichfarbenes Tarn-T-Shirt",3,-1,-1
+8,120,15,"Pinselstrich-T-Shirt",3,-1,-1
+8,120,16,"Flecktarn-T-Shirt",3,-1,-1
+8,120,17,"Helles Waldtarn-T-Shirt",3,-1,-1
+8,120,18,"Moosgrünes T-Shirt",3,-1,-1
+8,120,19,"Sandbraunes T-Shirt",3,-1,-1
+8,121,0,"Blaues Digitaltarn-T-Shirt",3,-1,-1
+8,121,1,"Braunes Digitaltarn-T-Shirt",3,-1,-1
+8,121,2,"Grünes Digitaltarn-T-Shirt",3,-1,-1
+8,121,3,"Graues Digitaltarn-T-Shirt",3,-1,-1
+8,121,4,"Pfirsichf. Digitaltarn-T-Shirt",3,-1,-1
+8,121,5,"Herbsttarn-T-Shirt",3,-1,-1
+8,121,6,"Dunkles Waldtarn-T-Shirt",3,-1,-1
+8,121,7,"Crosshatch-T-Shirt",3,-1,-1
+8,121,8,"Moosgrünes Digitaltarn-T-Shirt",3,-1,-1
+8,121,9,"Graues Waldtarn-T-Shirt",3,-1,-1
+8,121,10,"Aquablaues Tarn-T-Shirt",3,-1,-1
+8,121,11,"Splitter-T-Shirt",3,-1,-1
+8,121,12,"Kontrasttarn-T-Shirt",3,-1,-1
+8,121,13,"Pflasterstein-T-Shirt",3,-1,-1
+8,121,14,"Pfirsichfarbenes Tarn-T-Shirt",3,-1,-1
+8,121,15,"Pinselstrich-T-Shirt",3,-1,-1
+8,121,16,"Flecktarn-T-Shirt",3,-1,-1
+8,121,17,"Helles Waldtarn-T-Shirt",3,-1,-1
+8,121,18,"Moosgrünes T-Shirt",3,-1,-1
+8,121,19,"Sandbraunes T-Shirt",3,-1,-1
+8,122,0,"Blaues Digitaltarn-T-Shirt",3,-1,-1
+8,122,1,"Braunes Digitaltarn-T-Shirt",3,-1,-1
+8,122,2,"Grünes Digitaltarn-T-Shirt",3,-1,-1
+8,122,3,"Graues Digitaltarn-T-Shirt",3,-1,-1
+8,122,4,"Pfirsichf. Digitaltarn-T-Shirt",3,-1,-1
+8,122,5,"Herbsttarn-T-Shirt",3,-1,-1
+8,122,6,"Dunkles Waldtarn-T-Shirt",3,-1,-1
+8,122,7,"Crosshatch-T-Shirt",3,-1,-1
+8,122,8,"Moosgrünes Digitaltarn-T-Shirt",3,-1,-1
+8,122,9,"Graues Waldtarn-T-Shirt",3,-1,-1
+8,122,10,"Aquablaues Tarn-T-Shirt",3,-1,-1
+8,122,11,"Splitter-T-Shirt",3,-1,-1
+8,122,12,"Kontrasttarn-T-Shirt",3,-1,-1
+8,122,13,"Pflasterstein-T-Shirt",3,-1,-1
+8,122,14,"Pfirsichfarbenes Tarn-T-Shirt",3,-1,-1
+8,122,15,"Pinselstrich-T-Shirt",3,-1,-1
+8,122,16,"Flecktarn-T-Shirt",3,-1,-1
+8,122,17,"Helles Waldtarn-T-Shirt",3,-1,-1
+8,122,18,"Moosgrünes T-Shirt",3,-1,-1
+8,122,19,"Sandbraunes T-Shirt",3,-1,-1
+8,123,0,"Blaues Digitaltarn-T-Shirt",3,-1,-1
+8,123,1,"Braunes Digitaltarn-T-Shirt",3,-1,-1
+8,123,2,"Grünes Digitaltarn-T-Shirt",3,-1,-1
+8,123,3,"Graues Digitaltarn-T-Shirt",3,-1,-1
+8,123,4,"Pfirsichf. Digitaltarn-T-Shirt",3,-1,-1
+8,123,5,"Herbsttarn-T-Shirt",3,-1,-1
+8,123,6,"Dunkles Waldtarn-T-Shirt",3,-1,-1
+8,123,7,"Crosshatch-T-Shirt",3,-1,-1
+8,123,8,"Moosgrünes Digitaltarn-T-Shirt",3,-1,-1
+8,123,9,"Graues Waldtarn-T-Shirt",3,-1,-1
+8,123,10,"Aquablaues Tarn-T-Shirt",3,-1,-1
+8,123,11,"Splitter-T-Shirt",3,-1,-1
+8,123,12,"Kontrasttarn-T-Shirt",3,-1,-1
+8,123,13,"Pflasterstein-T-Shirt",3,-1,-1
+8,123,14,"Pfirsichfarbenes Tarn-T-Shirt",3,-1,-1
+8,123,15,"Pinselstrich-T-Shirt",3,-1,-1
+8,123,16,"Flecktarn-T-Shirt",3,-1,-1
+8,123,17,"Helles Waldtarn-T-Shirt",3,-1,-1
+8,123,18,"Moosgrünes T-Shirt",3,-1,-1
+8,123,19,"Sandbraunes T-Shirt",3,-1,-1
+8,124,0,"Blaues Digitaltarn-T-Shirt",3,-1,-1
+8,124,1,"Braunes Digitaltarn-T-Shirt",3,-1,-1
+8,124,2,"Grünes Digitaltarn-T-Shirt",3,-1,-1
+8,124,3,"Graues Digitaltarn-T-Shirt",3,-1,-1
+8,124,4,"Pfirsichf. Digitaltarn-T-Shirt",3,-1,-1
+8,124,5,"Herbsttarn-T-Shirt",3,-1,-1
+8,124,6,"Dunkles Waldtarn-T-Shirt",3,-1,-1
+8,124,7,"Crosshatch-T-Shirt",3,-1,-1
+8,124,8,"Moosgrünes Digitaltarn-T-Shirt",3,-1,-1
+8,124,9,"Graues Waldtarn-T-Shirt",3,-1,-1
+8,124,10,"Aquablaues Tarn-T-Shirt",3,-1,-1
+8,124,11,"Splitter-T-Shirt",3,-1,-1
+8,124,12,"Kontrasttarn-T-Shirt",3,-1,-1
+8,124,13,"Pflasterstein-T-Shirt",3,-1,-1
+8,124,14,"Pfirsichfarbenes Tarn-T-Shirt",3,-1,-1
+8,124,15,"Pinselstrich-T-Shirt",3,-1,-1
+8,124,16,"Flecktarn-T-Shirt",3,-1,-1
+8,124,17,"Helles Waldtarn-T-Shirt",3,-1,-1
+8,124,18,"Moosgrünes T-Shirt",3,-1,-1
+8,124,19,"Sandbraunes T-Shirt",3,-1,-1
+8,125,0,"Blaues Digitaltarn-T-Shirt",3,-1,-1
+8,125,1,"Braunes Digitaltarn-T-Shirt",3,-1,-1
+8,125,2,"Grünes Digitaltarn-T-Shirt",3,-1,-1
+8,125,3,"Graues Digitaltarn-T-Shirt",3,-1,-1
+8,125,4,"Pfirsichf. Digitaltarn-T-Shirt",3,-1,-1
+8,125,5,"Herbsttarn-T-Shirt",3,-1,-1
+8,125,6,"Dunkles Waldtarn-T-Shirt",3,-1,-1
+8,125,7,"Crosshatch-T-Shirt",3,-1,-1
+8,125,8,"Moosgrünes Digitaltarn-T-Shirt",3,-1,-1
+8,125,9,"Graues Waldtarn-T-Shirt",3,-1,-1
+8,125,10,"Aquablaues Tarn-T-Shirt",3,-1,-1
+8,125,11,"Splitter-T-Shirt",3,-1,-1
+8,125,12,"Kontrasttarn-T-Shirt",3,-1,-1
+8,125,13,"Pflasterstein-T-Shirt",3,-1,-1
+8,125,14,"Pfirsichfarbenes Tarn-T-Shirt",3,-1,-1
+8,125,15,"Pinselstrich-T-Shirt",3,-1,-1
+8,125,16,"Flecktarn-T-Shirt",3,-1,-1
+8,125,17,"Helles Waldtarn-T-Shirt",3,-1,-1
+8,125,18,"Moosgrünes T-Shirt",3,-1,-1
+8,125,19,"Sandbraunes T-Shirt",3,-1,-1
+8,126,0,"Blaues Digitaltarn-T-Shirt",3,-1,-1
+8,126,1,"Braunes Digitaltarn-T-Shirt",3,-1,-1
+8,126,2,"Grünes Digitaltarn-T-Shirt",3,-1,-1
+8,126,3,"Graues Digitaltarn-T-Shirt",3,-1,-1
+8,126,4,"Pfirsichf. Digitaltarn-T-Shirt",3,-1,-1
+8,126,5,"Herbsttarn-T-Shirt",3,-1,-1
+8,126,6,"Dunkles Waldtarn-T-Shirt",3,-1,-1
+8,126,7,"Crosshatch-T-Shirt",3,-1,-1
+8,126,8,"Moosgrünes Digitaltarn-T-Shirt",3,-1,-1
+8,126,9,"Graues Waldtarn-T-Shirt",3,-1,-1
+8,126,10,"Aquablaues Tarn-T-Shirt",3,-1,-1
+8,126,11,"Splitter-T-Shirt",3,-1,-1
+8,126,12,"Kontrasttarn-T-Shirt",3,-1,-1
+8,126,13,"Pflasterstein-T-Shirt",3,-1,-1
+8,126,14,"Pfirsichfarbenes Tarn-T-Shirt",3,-1,-1
+8,126,15,"Pinselstrich-T-Shirt",3,-1,-1
+8,126,16,"Flecktarn-T-Shirt",3,-1,-1
+8,126,17,"Helles Waldtarn-T-Shirt",3,-1,-1
+8,126,18,"Moosgrünes T-Shirt",3,-1,-1
+8,126,19,"Sandbraunes T-Shirt",3,-1,-1
+8,127,0,"Blaues Digitaltarn-T-Shirt",3,-1,-1
+8,127,1,"Braunes Digitaltarn-T-Shirt",3,-1,-1
+8,127,2,"Grünes Digitaltarn-T-Shirt",3,-1,-1
+8,127,3,"Graues Digitaltarn-T-Shirt",3,-1,-1
+8,127,4,"Pfirsichf. Digitaltarn-T-Shirt",3,-1,-1
+8,127,5,"Herbsttarn-T-Shirt",3,-1,-1
+8,127,6,"Dunkles Waldtarn-T-Shirt",3,-1,-1
+8,127,7,"Crosshatch-T-Shirt",3,-1,-1
+8,127,8,"Moosgrünes Digitaltarn-T-Shirt",3,-1,-1
+8,127,9,"Graues Waldtarn-T-Shirt",3,-1,-1
+8,127,10,"Aquablaues Tarn-T-Shirt",3,-1,-1
+8,127,11,"Splitter-T-Shirt",3,-1,-1
+8,127,12,"Kontrasttarn-T-Shirt",3,-1,-1
+8,127,13,"Pflasterstein-T-Shirt",3,-1,-1
+8,127,14,"Pfirsichfarbenes Tarn-T-Shirt",3,-1,-1
+8,127,15,"Pinselstrich-T-Shirt",3,-1,-1
+8,127,16,"Flecktarn-T-Shirt",3,-1,-1
+8,127,17,"Helles Waldtarn-T-Shirt",3,-1,-1
+8,127,18,"Moosgrünes T-Shirt",3,-1,-1
+8,127,19,"Sandbraunes T-Shirt",3,-1,-1
+8,128,0,"Blaues Digitaltarn-T-Shirt",3,-1,-1
+8,128,1,"Braunes Digitaltarn-T-Shirt",3,-1,-1
+8,128,2,"Grünes Digitaltarn-T-Shirt",3,-1,-1
+8,128,3,"Graues Digitaltarn-T-Shirt",3,-1,-1
+8,128,4,"Pfirsichf. Digitaltarn-T-Shirt",3,-1,-1
+8,128,5,"Herbsttarn-T-Shirt",3,-1,-1
+8,128,6,"Dunkles Waldtarn-T-Shirt",3,-1,-1
+8,128,7,"Crosshatch-T-Shirt",3,-1,-1
+8,128,8,"Moosgrünes Digitaltarn-T-Shirt",3,-1,-1
+8,128,9,"Graues Waldtarn-T-Shirt",3,-1,-1
+8,128,10,"Aquablaues Tarn-T-Shirt",3,-1,-1
+8,128,11,"Splitter-T-Shirt",3,-1,-1
+8,128,12,"Kontrasttarn-T-Shirt",3,-1,-1
+8,128,13,"Pflasterstein-T-Shirt",3,-1,-1
+8,128,14,"Pfirsichfarbenes Tarn-T-Shirt",3,-1,-1
+8,128,15,"Pinselstrich-T-Shirt",3,-1,-1
+8,128,16,"Flecktarn-T-Shirt",3,-1,-1
+8,128,17,"Helles Waldtarn-T-Shirt",3,-1,-1
+8,128,18,"Moosgrünes T-Shirt",3,-1,-1
+8,128,19,"Sandbraunes T-Shirt",3,-1,-1
+8,129,0,"Blaues Digitaltarn-T-Shirt",3,-1,-1
+8,129,1,"Braunes Digitaltarn-T-Shirt",3,-1,-1
+8,129,2,"Grünes Digitaltarn-T-Shirt",3,-1,-1
+8,129,3,"Graues Digitaltarn-T-Shirt",3,-1,-1
+8,129,4,"Pfirsichf. Digitaltarn-T-Shirt",3,-1,-1
+8,129,5,"Herbsttarn-T-Shirt",3,-1,-1
+8,129,6,"Dunkles Waldtarn-T-Shirt",3,-1,-1
+8,129,7,"Crosshatch-T-Shirt",3,-1,-1
+8,129,8,"Moosgrünes Digitaltarn-T-Shirt",3,-1,-1
+8,129,9,"Graues Waldtarn-T-Shirt",3,-1,-1
+8,129,10,"Aquablaues Tarn-T-Shirt",3,-1,-1
+8,129,11,"Splitter-T-Shirt",3,-1,-1
+8,129,12,"Kontrasttarn-T-Shirt",3,-1,-1
+8,129,13,"Pflasterstein-T-Shirt",3,-1,-1
+8,129,14,"Pfirsichfarbenes Tarn-T-Shirt",3,-1,-1
+8,129,15,"Pinselstrich-T-Shirt",3,-1,-1
+8,129,16,"Flecktarn-T-Shirt",3,-1,-1
+8,129,17,"Helles Waldtarn-T-Shirt",3,-1,-1
+8,129,18,"Moosgrünes T-Shirt",3,-1,-1
+8,129,19,"Sandbraunes T-Shirt",3,-1,-1
+8,130,0,"Blaues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,130,1,"Braunes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,130,2,"Grünes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,130,3,"Graues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,130,4,"Pfirsichf. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,130,5,"Gekrempelt. Herbsttarn-T-Shirt",3,-1,-1
+8,130,6,"Dunkles gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,130,7,"Gekremp. Crosshatch-T-Shirt",3,-1,-1
+8,130,8,"Moosgr. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,130,9,"Graues gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,130,10,"Aquablaues gekremp. Tarn-T-Sh.",3,-1,-1
+8,130,11,"Gekrempeltes Splitter-T-Shirt",3,-1,-1
+8,130,12,"Gekremp. Kontrasttarn-T-Shirt",3,-1,-1
+8,130,13,"Gekremp. Pflasterstein-T-Shirt",3,-1,-1
+8,130,14,"Pfirsichf. gekremp. Tarn-T-Shirt",3,-1,-1
+8,130,15,"Gekremp. Pinselstrich-T-Shirt",3,-1,-1
+8,130,16,"Gekrempeltes Flecktarn-T-Shirt",3,-1,-1
+8,130,17,"Helles gekremp. Waldtarn-T-Shirt",3,-1,-1
+8,130,18,"Moosgr. gekrempeltes T-Shirt",3,-1,-1
+8,130,19,"Sandbraunes gekremp. T-Shirt",3,-1,-1
+8,131,0,"Blaues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,131,1,"Braunes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,131,2,"Grünes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,131,3,"Graues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,131,4,"Pfirsichf. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,131,5,"Gekrempelt. Herbsttarn-T-Shirt",3,-1,-1
+8,131,6,"Dunkles gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,131,7,"Gekremp. Crosshatch-T-Shirt",3,-1,-1
+8,131,8,"Moosgr. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,131,9,"Graues gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,131,10,"Aquablaues gekremp. Tarn-T-Sh.",3,-1,-1
+8,131,11,"Gekrempeltes Splitter-T-Shirt",3,-1,-1
+8,131,12,"Gekremp. Kontrasttarn-T-Shirt",3,-1,-1
+8,131,13,"Gekremp. Pflasterstein-T-Shirt",3,-1,-1
+8,131,14,"Pfirsichf. gekremp. Tarn-T-Shirt",3,-1,-1
+8,131,15,"Gekremp. Pinselstrich-T-Shirt",3,-1,-1
+8,131,16,"Gekrempeltes Flecktarn-T-Shirt",3,-1,-1
+8,131,17,"Helles gekremp. Waldtarn-T-Shirt",3,-1,-1
+8,131,18,"Moosgr. gekrempeltes T-Shirt",3,-1,-1
+8,131,19,"Sandbraunes gekremp. T-Shirt",3,-1,-1
+8,132,0,"Blaues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,132,1,"Braunes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,132,2,"Grünes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,132,3,"Graues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,132,4,"Pfirsichf. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,132,5,"Gekrempelt. Herbsttarn-T-Shirt",3,-1,-1
+8,132,6,"Dunkles gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,132,7,"Gekremp. Crosshatch-T-Shirt",3,-1,-1
+8,132,8,"Moosgr. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,132,9,"Graues gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,132,10,"Aquablaues gekremp. Tarn-T-Sh.",3,-1,-1
+8,132,11,"Gekrempeltes Splitter-T-Shirt",3,-1,-1
+8,132,12,"Gekremp. Kontrasttarn-T-Shirt",3,-1,-1
+8,132,13,"Gekremp. Pflasterstein-T-Shirt",3,-1,-1
+8,132,14,"Pfirsichf. gekremp. Tarn-T-Shirt",3,-1,-1
+8,132,15,"Gekremp. Pinselstrich-T-Shirt",3,-1,-1
+8,132,16,"Gekrempeltes Flecktarn-T-Shirt",3,-1,-1
+8,132,17,"Helles gekremp. Waldtarn-T-Shirt",3,-1,-1
+8,132,18,"Moosgr. gekrempeltes T-Shirt",3,-1,-1
+8,132,19,"Sandbraunes gekremp. T-Shirt",3,-1,-1
+8,133,0,"Blaues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,133,1,"Braunes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,133,2,"Grünes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,133,3,"Graues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,133,4,"Pfirsichf. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,133,5,"Gekrempelt. Herbsttarn-T-Shirt",3,-1,-1
+8,133,6,"Dunkles gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,133,7,"Gekremp. Crosshatch-T-Shirt",3,-1,-1
+8,133,8,"Moosgr. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,133,9,"Graues gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,133,10,"Aquablaues gekremp. Tarn-T-Sh.",3,-1,-1
+8,133,11,"Gekrempeltes Splitter-T-Shirt",3,-1,-1
+8,133,12,"Gekremp. Kontrasttarn-T-Shirt",3,-1,-1
+8,133,13,"Gekremp. Pflasterstein-T-Shirt",3,-1,-1
+8,133,14,"Pfirsichf. gekremp. Tarn-T-Shirt",3,-1,-1
+8,133,15,"Gekremp. Pinselstrich-T-Shirt",3,-1,-1
+8,133,16,"Gekrempeltes Flecktarn-T-Shirt",3,-1,-1
+8,133,17,"Helles gekremp. Waldtarn-T-Shirt",3,-1,-1
+8,133,18,"Moosgr. gekrempeltes T-Shirt",3,-1,-1
+8,133,19,"Sandbraunes gekremp. T-Shirt",3,-1,-1
+8,134,0,"Blaues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,134,1,"Braunes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,134,2,"Grünes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,134,3,"Graues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,134,4,"Pfirsichf. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,134,5,"Gekrempelt. Herbsttarn-T-Shirt",3,-1,-1
+8,134,6,"Dunkles gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,134,7,"Gekremp. Crosshatch-T-Shirt",3,-1,-1
+8,134,8,"Moosgr. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,134,9,"Graues gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,134,10,"Aquablaues gekremp. Tarn-T-Sh.",3,-1,-1
+8,134,11,"Gekrempeltes Splitter-T-Shirt",3,-1,-1
+8,134,12,"Gekremp. Kontrasttarn-T-Shirt",3,-1,-1
+8,134,13,"Gekremp. Pflasterstein-T-Shirt",3,-1,-1
+8,134,14,"Pfirsichf. gekremp. Tarn-T-Shirt",3,-1,-1
+8,134,15,"Gekremp. Pinselstrich-T-Shirt",3,-1,-1
+8,134,16,"Gekrempeltes Flecktarn-T-Shirt",3,-1,-1
+8,134,17,"Helles gekremp. Waldtarn-T-Shirt",3,-1,-1
+8,134,18,"Moosgr. gekrempeltes T-Shirt",3,-1,-1
+8,134,19,"Sandbraunes gekremp. T-Shirt",3,-1,-1
+8,135,0,"Blaues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,135,1,"Braunes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,135,2,"Grünes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,135,3,"Graues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,135,4,"Pfirsichf. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,135,5,"Gekrempelt. Herbsttarn-T-Shirt",3,-1,-1
+8,135,6,"Dunkles gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,135,7,"Gekremp. Crosshatch-T-Shirt",3,-1,-1
+8,135,8,"Moosgr. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,135,9,"Graues gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,135,10,"Aquablaues gekremp. Tarn-T-Sh.",3,-1,-1
+8,135,11,"Gekrempeltes Splitter-T-Shirt",3,-1,-1
+8,135,12,"Gekremp. Kontrasttarn-T-Shirt",3,-1,-1
+8,135,13,"Gekremp. Pflasterstein-T-Shirt",3,-1,-1
+8,135,14,"Pfirsichf. gekremp. Tarn-T-Shirt",3,-1,-1
+8,135,15,"Gekremp. Pinselstrich-T-Shirt",3,-1,-1
+8,135,16,"Gekrempeltes Flecktarn-T-Shirt",3,-1,-1
+8,135,17,"Helles gekremp. Waldtarn-T-Shirt",3,-1,-1
+8,135,18,"Moosgr. gekrempeltes T-Shirt",3,-1,-1
+8,135,19,"Sandbraunes gekremp. T-Shirt",3,-1,-1
+8,136,0,"Blaues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,136,1,"Braunes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,136,2,"Grünes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,136,3,"Graues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,136,4,"Pfirsichf. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,136,5,"Gekrempelt. Herbsttarn-T-Shirt",3,-1,-1
+8,136,6,"Dunkles gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,136,7,"Gekremp. Crosshatch-T-Shirt",3,-1,-1
+8,136,8,"Moosgr. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,136,9,"Graues gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,136,10,"Aquablaues gekremp. Tarn-T-Sh.",3,-1,-1
+8,136,11,"Gekrempeltes Splitter-T-Shirt",3,-1,-1
+8,136,12,"Gekremp. Kontrasttarn-T-Shirt",3,-1,-1
+8,136,13,"Gekremp. Pflasterstein-T-Shirt",3,-1,-1
+8,136,14,"Pfirsichf. gekremp. Tarn-T-Shirt",3,-1,-1
+8,136,15,"Gekremp. Pinselstrich-T-Shirt",3,-1,-1
+8,136,16,"Gekrempeltes Flecktarn-T-Shirt",3,-1,-1
+8,136,17,"Helles gekremp. Waldtarn-T-Shirt",3,-1,-1
+8,136,18,"Moosgr. gekrempeltes T-Shirt",3,-1,-1
+8,136,19,"Sandbraunes gekremp. T-Shirt",3,-1,-1
+8,137,0,"Blaues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,137,1,"Braunes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,137,2,"Grünes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,137,3,"Graues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,137,4,"Pfirsichf. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,137,5,"Gekrempelt. Herbsttarn-T-Shirt",3,-1,-1
+8,137,6,"Dunkles gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,137,7,"Gekremp. Crosshatch-T-Shirt",3,-1,-1
+8,137,8,"Moosgr. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,137,9,"Graues gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,137,10,"Aquablaues gekremp. Tarn-T-Sh.",3,-1,-1
+8,137,11,"Gekrempeltes Splitter-T-Shirt",3,-1,-1
+8,137,12,"Gekremp. Kontrasttarn-T-Shirt",3,-1,-1
+8,137,13,"Gekremp. Pflasterstein-T-Shirt",3,-1,-1
+8,137,14,"Pfirsichf. gekremp. Tarn-T-Shirt",3,-1,-1
+8,137,15,"Gekremp. Pinselstrich-T-Shirt",3,-1,-1
+8,137,16,"Gekrempeltes Flecktarn-T-Shirt",3,-1,-1
+8,137,17,"Helles gekremp. Waldtarn-T-Shirt",3,-1,-1
+8,137,18,"Moosgr. gekrempeltes T-Shirt",3,-1,-1
+8,137,19,"Sandbraunes gekremp. T-Shirt",3,-1,-1
+8,138,0,"Blaues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,138,1,"Braunes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,138,2,"Grünes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,138,3,"Graues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,138,4,"Pfirsichf. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,138,5,"Gekrempelt. Herbsttarn-T-Shirt",3,-1,-1
+8,138,6,"Dunkles gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,138,7,"Gekremp. Crosshatch-T-Shirt",3,-1,-1
+8,138,8,"Moosgr. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,138,9,"Graues gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,138,10,"Aquablaues gekremp. Tarn-T-Sh.",3,-1,-1
+8,138,11,"Gekrempeltes Splitter-T-Shirt",3,-1,-1
+8,138,12,"Gekremp. Kontrasttarn-T-Shirt",3,-1,-1
+8,138,13,"Gekremp. Pflasterstein-T-Shirt",3,-1,-1
+8,138,14,"Pfirsichf. gekremp. Tarn-T-Shirt",3,-1,-1
+8,138,15,"Gekremp. Pinselstrich-T-Shirt",3,-1,-1
+8,138,16,"Gekrempeltes Flecktarn-T-Shirt",3,-1,-1
+8,138,17,"Helles gekremp. Waldtarn-T-Shirt",3,-1,-1
+8,138,18,"Moosgr. gekrempeltes T-Shirt",3,-1,-1
+8,138,19,"Sandbraunes gekremp. T-Shirt",3,-1,-1
+8,139,0,"Blaues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,139,1,"Braunes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,139,2,"Grünes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,139,3,"Graues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,139,4,"Pfirsichf. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,139,5,"Gekrempelt. Herbsttarn-T-Shirt",3,-1,-1
+8,139,6,"Dunkles gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,139,7,"Gekremp. Crosshatch-T-Shirt",3,-1,-1
+8,139,8,"Moosgr. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,139,9,"Graues gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,139,10,"Aquablaues gekremp. Tarn-T-Sh.",3,-1,-1
+8,139,11,"Gekrempeltes Splitter-T-Shirt",3,-1,-1
+8,139,12,"Gekremp. Kontrasttarn-T-Shirt",3,-1,-1
+8,139,13,"Gekremp. Pflasterstein-T-Shirt",3,-1,-1
+8,139,14,"Pfirsichf. gekremp. Tarn-T-Shirt",3,-1,-1
+8,139,15,"Gekremp. Pinselstrich-T-Shirt",3,-1,-1
+8,139,16,"Gekrempeltes Flecktarn-T-Shirt",3,-1,-1
+8,139,17,"Helles gekremp. Waldtarn-T-Shirt",3,-1,-1
+8,139,18,"Moosgr. gekrempeltes T-Shirt",3,-1,-1
+8,139,19,"Sandbraunes gekremp. T-Shirt",3,-1,-1
+8,140,0,"Blaues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,140,1,"Braunes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,140,2,"Grünes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,140,3,"Graues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,140,4,"Pfirsichf. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,140,5,"Gekrempelt. Herbsttarn-T-Shirt",3,-1,-1
+8,140,6,"Dunkles gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,140,7,"Gekremp. Crosshatch-T-Shirt",3,-1,-1
+8,140,8,"Moosgr. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,140,9,"Graues gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,140,10,"Aquablaues gekremp. Tarn-T-Sh.",3,-1,-1
+8,140,11,"Gekrempeltes Splitter-T-Shirt",3,-1,-1
+8,140,12,"Gekremp. Kontrasttarn-T-Shirt",3,-1,-1
+8,140,13,"Gekremp. Pflasterstein-T-Shirt",3,-1,-1
+8,140,14,"Pfirsichf. gekremp. Tarn-T-Shirt",3,-1,-1
+8,140,15,"Gekremp. Pinselstrich-T-Shirt",3,-1,-1
+8,140,16,"Gekrempeltes Flecktarn-T-Shirt",3,-1,-1
+8,140,17,"Helles gekremp. Waldtarn-T-Shirt",3,-1,-1
+8,140,18,"Moosgr. gekrempeltes T-Shirt",3,-1,-1
+8,140,19,"Sandbraunes gekremp. T-Shirt",3,-1,-1
+8,141,0,"Blaues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,141,1,"Braunes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,141,2,"Grünes gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,141,3,"Graues gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,141,4,"Pfirsichf. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,141,5,"Gekrempelt. Herbsttarn-T-Shirt",3,-1,-1
+8,141,6,"Dunkles gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,141,7,"Gekremp. Crosshatch-T-Shirt",3,-1,-1
+8,141,8,"Moosgr. gekr. Digitaltarn-T-Shirt",3,-1,-1
+8,141,9,"Graues gekremp. Waldtarn-T-Sh.",3,-1,-1
+8,141,10,"Aquablaues gekremp. Tarn-T-Sh.",3,-1,-1
+8,141,11,"Gekrempeltes Splitter-T-Shirt",3,-1,-1
+8,141,12,"Gekremp. Kontrasttarn-T-Shirt",3,-1,-1
+8,141,13,"Gekremp. Pflasterstein-T-Shirt",3,-1,-1
+8,141,14,"Pfirsichf. gekremp. Tarn-T-Shirt",3,-1,-1
+8,141,15,"Gekremp. Pinselstrich-T-Shirt",3,-1,-1
+8,141,16,"Gekrempeltes Flecktarn-T-Shirt",3,-1,-1
+8,141,17,"Helles gekremp. Waldtarn-T-Shirt",3,-1,-1
+8,141,18,"Moosgr. gekrempeltes T-Shirt",3,-1,-1
+8,141,19,"Sandbraunes gekremp. T-Shirt",3,-1,-1
+8,142,0,"Schlagring-Taschen-T-Shirt",3,-1,-1
+8,143,0,"Schlagring-Taschen-T-Shirt",3,-1,-1
+8,144,0,"Schlagring-Taschen-T-Shirt",3,-1,-1
+8,145,0,"Schlagring-Taschen-T-Shirt",3,-1,-1
+8,146,0,"Schlagring-Taschen-T-Shirt",3,-1,-1
+8,147,0,"Schlagring-Taschen-T-Shirt",3,-1,-1
+8,149,0,"Dunkles LC-Beavers-Polohemd",3,-1,-1
+8,149,1,"Helles LC-Beavers-Polohemd",3,-1,-1
+8,149,2,"Dunkles LS-Benders-Polohemd",3,-1,-1
+8,149,3,"Helles LS-Benders-Polohemd",3,-1,-1
+8,149,4,"Helles LS-Jardineros-Polohemd",3,-1,-1
+8,149,5,"Dunkles LS-Jardineros-Poloh.",3,-1,-1
+8,149,6,"Dunkles Liberty-Cocks-Poloh.",3,-1,-1
+8,149,7,"Helles Liberty-Cocks-Poloh.",3,-1,-1
+8,149,8,"Dunkles Red-Mist-XI-Polohemd",3,-1,-1
+8,149,9,"Helles Red-Mist-XI-Polohemd",3,-1,-1
+8,149,10,"Dunkles Superstroika-Polohemd",3,-1,-1
+8,149,11,"Helles Superstroika-Polohemd",3,-1,-1
+8,150,0,"Dunkles LC-Beavers-Polohemd",3,-1,-1
+8,150,1,"Helles LC-Beavers-Polohemd",3,-1,-1
+8,150,2,"Dunkles LS-Benders-Polohemd",3,-1,-1
+8,150,3,"Helles LS-Benders-Polohemd",3,-1,-1
+8,150,4,"Helles LS-Jardineros-Polohemd",3,-1,-1
+8,150,5,"Dunkles LS-Jardineros-Poloh.",3,-1,-1
+8,150,6,"Dunkles Liberty-Cocks-Poloh.",3,-1,-1
+8,150,7,"Helles Liberty-Cocks-Poloh.",3,-1,-1
+8,150,8,"Dunkles Red-Mist-XI-Polohemd",3,-1,-1
+8,150,9,"Helles Red-Mist-XI-Polohemd",3,-1,-1
+8,150,10,"Dunkles Superstroika-Polohemd",3,-1,-1
+8,150,11,"Helles Superstroika-Polohemd",3,-1,-1
+8,154,0,"Ultraleichte Gefechtsweste",3,-1,-1
+8,155,0,"Leichte Gefechtsweste",3,-1,-1
+8,156,0,"Mittelschwere Gefechtsweste",3,-1,-1
+8,157,0,"Schwere Gefechtsweste",3,-1,-1
+8,158,0,"Überschwere Gefechtsweste",3,-1,-1
+8,162,0,"T-Shirt mit Rundausschnitt",3,-1,-1
+8,162,1,"Weißes Zickzack-"Manor"-T-Shirt",3,-1,-1
+8,162,2,"Weißes "Manor"-T-Shirt",3,-1,-1
+8,162,3,"Lila "Manor"-T-Shirt",3,-1,-1
+8,162,4,"Mintgrünes "Manor"-T-Shirt",3,-1,-1
+8,162,5,"Weiß gestr. "Manor"-T-Shirt",3,-1,-1
+8,162,6,"Schwarz gestr. "Manor"-T-Shirt",3,-1,-1
+8,162,7,"Grüne-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,162,8,"Lila-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,162,9,""Blagueurs"-Marken-T-Shirt",3,-1,-1
+8,162,10,""Blagueurs LS"-T-Shirt",3,-1,-1
+8,162,11,""Blagueurs"-Streifen-T-Shirt",3,-1,-1
+8,162,12,""Blagueurs"-Sport-T-Shirt",3,-1,-1
+8,162,13,"Türkises "Blagueurs LS"-T-Shirt",3,-1,-1
+8,162,14,"SW-"Blagueurs LS"-T-Shirt",3,-1,-1
+8,162,15,"Lachsfarbenes SC-T-Shirt",3,-1,-1
+8,162,16,"Blaues SC-T-Shirt",3,-1,-1
+8,162,17,"Gelbes SC-T-Shirt",3,-1,-1
+8,162,18,"Pinkes SC-T-Shirt",3,-1,-1
+8,162,19,"Rot-schwarzes SC-T-Shirt",3,-1,-1
+8,162,20,"Blau gestreiftes SC-T-Shirt",3,-1,-1
+8,163,0,"T-Shirt mit Rundausschnitt",3,-1,-1
+8,163,1,"Weißes Zickzack-"Manor"-T-Shirt",3,-1,-1
+8,163,2,"Weißes "Manor"-T-Shirt",3,-1,-1
+8,163,3,"Lila "Manor"-T-Shirt",3,-1,-1
+8,163,4,"Mintgrünes "Manor"-T-Shirt",3,-1,-1
+8,163,5,"Weiß gestr. "Manor"-T-Shirt",3,-1,-1
+8,163,6,"Schwarz gestr. "Manor"-T-Shirt",3,-1,-1
+8,163,7,"Grüne-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,163,8,"Lila-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,163,9,""Blagueurs"-Marken-T-Shirt",3,-1,-1
+8,163,10,""Blagueurs LS"-T-Shirt",3,-1,-1
+8,163,11,""Blagueurs"-Streifen-T-Shirt",3,-1,-1
+8,163,12,""Blagueurs"-Sport-T-Shirt",3,-1,-1
+8,163,13,"Türkises "Blagueurs LS"-T-Shirt",3,-1,-1
+8,163,14,"SW-"Blagueurs LS"-T-Shirt",3,-1,-1
+8,163,15,"Lachsfarbenes SC-T-Shirt",3,-1,-1
+8,163,16,"Blaues SC-T-Shirt",3,-1,-1
+8,163,17,"Gelbes SC-T-Shirt",3,-1,-1
+8,163,18,"Pinkes SC-T-Shirt",3,-1,-1
+8,163,19,"Rot-schwarzes SC-T-Shirt",3,-1,-1
+8,163,20,"Blau gestreiftes SC-T-Shirt",3,-1,-1
+8,164,0,"T-Shirt mit Rundausschnitt",3,-1,-1
+8,164,1,"Weißes Zickzack-"Manor"-T-Shirt",3,-1,-1
+8,164,2,"Weißes "Manor"-T-Shirt",3,-1,-1
+8,164,3,"Lila "Manor"-T-Shirt",3,-1,-1
+8,164,4,"Mintgrünes "Manor"-T-Shirt",3,-1,-1
+8,164,5,"Weiß gestr. "Manor"-T-Shirt",3,-1,-1
+8,164,6,"Schwarz gestr. "Manor"-T-Shirt",3,-1,-1
+8,164,7,"Grüne-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,164,8,"Lila-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,164,9,""Blagueurs"-Marken-T-Shirt",3,-1,-1
+8,164,10,""Blagueurs LS"-T-Shirt",3,-1,-1
+8,164,11,""Blagueurs"-Streifen-T-Shirt",3,-1,-1
+8,164,12,""Blagueurs"-Sport-T-Shirt",3,-1,-1
+8,164,13,"Türkises "Blagueurs LS"-T-Shirt",3,-1,-1
+8,164,14,"SW-"Blagueurs LS"-T-Shirt",3,-1,-1
+8,164,15,"Lachsfarbenes SC-T-Shirt",3,-1,-1
+8,164,16,"Blaues SC-T-Shirt",3,-1,-1
+8,164,17,"Gelbes SC-T-Shirt",3,-1,-1
+8,164,18,"Pinkes SC-T-Shirt",3,-1,-1
+8,164,19,"Rot-schwarzes SC-T-Shirt",3,-1,-1
+8,164,20,"Blau gestreiftes SC-T-Shirt",3,-1,-1
+8,165,0,"T-Shirt mit Rundausschnitt",3,-1,-1
+8,165,1,"Weißes Zickzack-"Manor"-T-Shirt",3,-1,-1
+8,165,2,"Weißes "Manor"-T-Shirt",3,-1,-1
+8,165,3,"Lila "Manor"-T-Shirt",3,-1,-1
+8,165,4,"Mintgrünes "Manor"-T-Shirt",3,-1,-1
+8,165,5,"Weiß gestr. "Manor"-T-Shirt",3,-1,-1
+8,165,6,"Schwarz gestr. "Manor"-T-Shirt",3,-1,-1
+8,165,7,"Grüne-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,165,8,"Lila-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,165,9,""Blagueurs"-Marken-T-Shirt",3,-1,-1
+8,165,10,""Blagueurs LS"-T-Shirt",3,-1,-1
+8,165,11,""Blagueurs"-Streifen-T-Shirt",3,-1,-1
+8,165,12,""Blagueurs"-Sport-T-Shirt",3,-1,-1
+8,165,13,"Türkises "Blagueurs LS"-T-Shirt",3,-1,-1
+8,165,14,"SW-"Blagueurs LS"-T-Shirt",3,-1,-1
+8,165,15,"Lachsfarbenes SC-T-Shirt",3,-1,-1
+8,165,16,"Blaues SC-T-Shirt",3,-1,-1
+8,165,17,"Gelbes SC-T-Shirt",3,-1,-1
+8,165,18,"Pinkes SC-T-Shirt",3,-1,-1
+8,165,19,"Rot-schwarzes SC-T-Shirt",3,-1,-1
+8,165,20,"Blau gestreiftes SC-T-Shirt",3,-1,-1
+8,166,0,"T-Shirt mit Rundausschnitt",3,-1,-1
+8,166,1,"Weißes Zickzack-"Manor"-T-Shirt",3,-1,-1
+8,166,2,"Weißes "Manor"-T-Shirt",3,-1,-1
+8,166,3,"Lila "Manor"-T-Shirt",3,-1,-1
+8,166,4,"Mintgrünes "Manor"-T-Shirt",3,-1,-1
+8,166,5,"Weiß gestr. "Manor"-T-Shirt",3,-1,-1
+8,166,6,"Schwarz gestr. "Manor"-T-Shirt",3,-1,-1
+8,166,7,"Grüne-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,166,8,"Lila-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,166,9,""Blagueurs"-Marken-T-Shirt",3,-1,-1
+8,166,10,""Blagueurs LS"-T-Shirt",3,-1,-1
+8,166,11,""Blagueurs"-Streifen-T-Shirt",3,-1,-1
+8,166,12,""Blagueurs"-Sport-T-Shirt",3,-1,-1
+8,166,13,"Türkises "Blagueurs LS"-T-Shirt",3,-1,-1
+8,166,14,"SW-"Blagueurs LS"-T-Shirt",3,-1,-1
+8,166,15,"Lachsfarbenes SC-T-Shirt",3,-1,-1
+8,166,16,"Blaues SC-T-Shirt",3,-1,-1
+8,166,17,"Gelbes SC-T-Shirt",3,-1,-1
+8,166,18,"Pinkes SC-T-Shirt",3,-1,-1
+8,166,19,"Rot-schwarzes SC-T-Shirt",3,-1,-1
+8,166,20,"Blau gestreiftes SC-T-Shirt",3,-1,-1
+8,167,0,"T-Shirt mit Rundausschnitt",3,-1,-1
+8,167,1,"Weißes Zickzack-"Manor"-T-Shirt",3,-1,-1
+8,167,2,"Weißes "Manor"-T-Shirt",3,-1,-1
+8,167,3,"Lila "Manor"-T-Shirt",3,-1,-1
+8,167,4,"Mintgrünes "Manor"-T-Shirt",3,-1,-1
+8,167,5,"Weiß gestr. "Manor"-T-Shirt",3,-1,-1
+8,167,6,"Schwarz gestr. "Manor"-T-Shirt",3,-1,-1
+8,167,7,"Grüne-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,167,8,"Lila-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,167,9,""Blagueurs"-Marken-T-Shirt",3,-1,-1
+8,167,10,""Blagueurs LS"-T-Shirt",3,-1,-1
+8,167,11,""Blagueurs"-Streifen-T-Shirt",3,-1,-1
+8,167,12,""Blagueurs"-Sport-T-Shirt",3,-1,-1
+8,167,13,"Türkises "Blagueurs LS"-T-Shirt",3,-1,-1
+8,167,14,"SW-"Blagueurs LS"-T-Shirt",3,-1,-1
+8,167,15,"Lachsfarbenes SC-T-Shirt",3,-1,-1
+8,167,16,"Blaues SC-T-Shirt",3,-1,-1
+8,167,17,"Gelbes SC-T-Shirt",3,-1,-1
+8,167,18,"Pinkes SC-T-Shirt",3,-1,-1
+8,167,19,"Rot-schwarzes SC-T-Shirt",3,-1,-1
+8,167,20,"Blau gestreiftes SC-T-Shirt",3,-1,-1
+8,168,0,"T-Shirt mit Rundausschnitt",3,-1,-1
+8,168,1,"Weißes Zickzack-"Manor"-T-Shirt",3,-1,-1
+8,168,2,"Weißes "Manor"-T-Shirt",3,-1,-1
+8,168,3,"Lila "Manor"-T-Shirt",3,-1,-1
+8,168,4,"Mintgrünes "Manor"-T-Shirt",3,-1,-1
+8,168,5,"Weiß gestr. "Manor"-T-Shirt",3,-1,-1
+8,168,6,"Schwarz gestr. "Manor"-T-Shirt",3,-1,-1
+8,168,7,"Grüne-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,168,8,"Lila-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,168,9,""Blagueurs"-Marken-T-Shirt",3,-1,-1
+8,168,10,""Blagueurs LS"-T-Shirt",3,-1,-1
+8,168,11,""Blagueurs"-Streifen-T-Shirt",3,-1,-1
+8,168,12,""Blagueurs"-Sport-T-Shirt",3,-1,-1
+8,168,13,"Türkises "Blagueurs LS"-T-Shirt",3,-1,-1
+8,168,14,"SW-"Blagueurs LS"-T-Shirt",3,-1,-1
+8,168,15,"Lachsfarbenes SC-T-Shirt",3,-1,-1
+8,168,16,"Blaues SC-T-Shirt",3,-1,-1
+8,168,17,"Gelbes SC-T-Shirt",3,-1,-1
+8,168,18,"Pinkes SC-T-Shirt",3,-1,-1
+8,168,19,"Rot-schwarzes SC-T-Shirt",3,-1,-1
+8,168,20,"Blau gestreiftes SC-T-Shirt",3,-1,-1
+8,169,0,"T-Shirt mit Rundausschnitt",3,-1,-1
+8,169,1,"Weißes Zickzack-"Manor"-T-Shirt",3,-1,-1
+8,169,2,"Weißes "Manor"-T-Shirt",3,-1,-1
+8,169,3,"Lila "Manor"-T-Shirt",3,-1,-1
+8,169,4,"Mintgrünes "Manor"-T-Shirt",3,-1,-1
+8,169,5,"Weiß gestr. "Manor"-T-Shirt",3,-1,-1
+8,169,6,"Schwarz gestr. "Manor"-T-Shirt",3,-1,-1
+8,169,7,"Grüne-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,169,8,"Lila-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,169,9,""Blagueurs"-Marken-T-Shirt",3,-1,-1
+8,169,10,""Blagueurs LS"-T-Shirt",3,-1,-1
+8,169,11,""Blagueurs"-Streifen-T-Shirt",3,-1,-1
+8,169,12,""Blagueurs"-Sport-T-Shirt",3,-1,-1
+8,169,13,"Türkises "Blagueurs LS"-T-Shirt",3,-1,-1
+8,169,14,"SW-"Blagueurs LS"-T-Shirt",3,-1,-1
+8,169,15,"Lachsfarbenes SC-T-Shirt",3,-1,-1
+8,169,16,"Blaues SC-T-Shirt",3,-1,-1
+8,169,17,"Gelbes SC-T-Shirt",3,-1,-1
+8,169,18,"Pinkes SC-T-Shirt",3,-1,-1
+8,169,19,"Rot-schwarzes SC-T-Shirt",3,-1,-1
+8,169,20,"Blau gestreiftes SC-T-Shirt",3,-1,-1
+8,170,0,"T-Shirt mit Rundausschnitt",3,-1,-1
+8,170,1,"Weißes Zickzack-"Manor"-T-Shirt",3,-1,-1
+8,170,2,"Weißes "Manor"-T-Shirt",3,-1,-1
+8,170,3,"Lila "Manor"-T-Shirt",3,-1,-1
+8,170,4,"Mintgrünes "Manor"-T-Shirt",3,-1,-1
+8,170,5,"Weiß gestr. "Manor"-T-Shirt",3,-1,-1
+8,170,6,"Schwarz gestr. "Manor"-T-Shirt",3,-1,-1
+8,170,7,"Grüne-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,170,8,"Lila-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,170,9,""Blagueurs"-Marken-T-Shirt",3,-1,-1
+8,170,10,""Blagueurs LS"-T-Shirt",3,-1,-1
+8,170,11,""Blagueurs"-Streifen-T-Shirt",3,-1,-1
+8,170,12,""Blagueurs"-Sport-T-Shirt",3,-1,-1
+8,170,13,"Türkises "Blagueurs LS"-T-Shirt",3,-1,-1
+8,170,14,"SW-"Blagueurs LS"-T-Shirt",3,-1,-1
+8,170,15,"Lachsfarbenes SC-T-Shirt",3,-1,-1
+8,170,16,"Blaues SC-T-Shirt",3,-1,-1
+8,170,17,"Gelbes SC-T-Shirt",3,-1,-1
+8,170,18,"Pinkes SC-T-Shirt",3,-1,-1
+8,170,19,"Rot-schwarzes SC-T-Shirt",3,-1,-1
+8,170,20,"Blau gestreiftes SC-T-Shirt",3,-1,-1
+8,171,0,"T-Shirt mit Rundausschnitt",3,-1,-1
+8,171,1,"Weißes Zickzack-"Manor"-T-Shirt",3,-1,-1
+8,171,2,"Weißes "Manor"-T-Shirt",3,-1,-1
+8,171,3,"Lila "Manor"-T-Shirt",3,-1,-1
+8,171,4,"Mintgrünes "Manor"-T-Shirt",3,-1,-1
+8,171,5,"Weiß gestr. "Manor"-T-Shirt",3,-1,-1
+8,171,6,"Schwarz gestr. "Manor"-T-Shirt",3,-1,-1
+8,171,7,"Grüne-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,171,8,"Lila-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,171,9,""Blagueurs"-Marken-T-Shirt",3,-1,-1
+8,171,10,""Blagueurs LS"-T-Shirt",3,-1,-1
+8,171,11,""Blagueurs"-Streifen-T-Shirt",3,-1,-1
+8,171,12,""Blagueurs"-Sport-T-Shirt",3,-1,-1
+8,171,13,"Türkises "Blagueurs LS"-T-Shirt",3,-1,-1
+8,171,14,"SW-"Blagueurs LS"-T-Shirt",3,-1,-1
+8,171,15,"Lachsfarbenes SC-T-Shirt",3,-1,-1
+8,171,16,"Blaues SC-T-Shirt",3,-1,-1
+8,171,17,"Gelbes SC-T-Shirt",3,-1,-1
+8,171,18,"Pinkes SC-T-Shirt",3,-1,-1
+8,171,19,"Rot-schwarzes SC-T-Shirt",3,-1,-1
+8,171,20,"Blau gestreiftes SC-T-Shirt",3,-1,-1
+8,172,0,"T-Shirt mit Rundausschnitt",3,-1,-1
+8,172,1,"Weißes Zickzack-"Manor"-T-Shirt",3,-1,-1
+8,172,2,"Weißes "Manor"-T-Shirt",3,-1,-1
+8,172,3,"Lila "Manor"-T-Shirt",3,-1,-1
+8,172,4,"Mintgrünes "Manor"-T-Shirt",3,-1,-1
+8,172,5,"Weiß gestr. "Manor"-T-Shirt",3,-1,-1
+8,172,6,"Schwarz gestr. "Manor"-T-Shirt",3,-1,-1
+8,172,7,"Grüne-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,172,8,"Lila-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,172,9,""Blagueurs"-Marken-T-Shirt",3,-1,-1
+8,172,10,""Blagueurs LS"-T-Shirt",3,-1,-1
+8,172,11,""Blagueurs"-Streifen-T-Shirt",3,-1,-1
+8,172,12,""Blagueurs"-Sport-T-Shirt",3,-1,-1
+8,172,13,"Türkises "Blagueurs LS"-T-Shirt",3,-1,-1
+8,172,14,"SW-"Blagueurs LS"-T-Shirt",3,-1,-1
+8,172,15,"Lachsfarbenes SC-T-Shirt",3,-1,-1
+8,172,16,"Blaues SC-T-Shirt",3,-1,-1
+8,172,17,"Gelbes SC-T-Shirt",3,-1,-1
+8,172,18,"Pinkes SC-T-Shirt",3,-1,-1
+8,172,19,"Rot-schwarzes SC-T-Shirt",3,-1,-1
+8,172,20,"Blau gestreiftes SC-T-Shirt",3,-1,-1
+8,173,0,"T-Shirt mit Rundausschnitt",3,-1,-1
+8,173,1,"Weißes Zickzack-"Manor"-T-Shirt",3,-1,-1
+8,173,2,"Weißes "Manor"-T-Shirt",3,-1,-1
+8,173,3,"Lila "Manor"-T-Shirt",3,-1,-1
+8,173,4,"Mintgrünes "Manor"-T-Shirt",3,-1,-1
+8,173,5,"Weiß gestr. "Manor"-T-Shirt",3,-1,-1
+8,173,6,"Schwarz gestr. "Manor"-T-Shirt",3,-1,-1
+8,173,7,"Grüne-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,173,8,"Lila-Welt-"Blagueurs"-T-Shirt",3,-1,-1
+8,173,9,""Blagueurs"-Marken-T-Shirt",3,-1,-1
+8,173,10,""Blagueurs LS"-T-Shirt",3,-1,-1
+8,173,11,""Blagueurs"-Streifen-T-Shirt",3,-1,-1
+8,173,12,""Blagueurs"-Sport-T-Shirt",3,-1,-1
+8,173,13,"Türkises "Blagueurs LS"-T-Shirt",3,-1,-1
+8,173,14,"SW-"Blagueurs LS"-T-Shirt",3,-1,-1
+8,173,15,"Lachsfarbenes SC-T-Shirt",3,-1,-1
+8,173,16,"Blaues SC-T-Shirt",3,-1,-1
+8,173,17,"Gelbes SC-T-Shirt",3,-1,-1
+8,173,18,"Pinkes SC-T-Shirt",3,-1,-1
+8,173,19,"Rot-schwarzes SC-T-Shirt",3,-1,-1
+8,173,20,"Blau gestreiftes SC-T-Shirt",3,-1,-1
+8,175,0,"Wildes lockeres Tanktop",3,-1,-1
+8,175,1,"Blaues lockeres Zebra-Tanktop",3,-1,-1
+8,175,2,"Lockeres Zebra-Tanktop",3,-1,-1
+8,175,3,"Lockeres pinkes SC-Tanktop",3,-1,-1
+8,175,4,"Lockeres blaues SC-Tanktop",3,-1,-1
+8,175,5,"Lockeres gelbes SC-Tanktop",3,-1,-1
+8,175,6,"Lockeres Schlangenl.-Tanktop",3,-1,-1
+8,175,7,"Lockeres grünes Flecken-Tankt.",3,-1,-1
+8,175,8,"Lockeres beiges Flecken-Tankt.",3,-1,-1
+8,175,9,"Lockeres rosa Flecken-Tanktop",3,-1,-1
+8,175,10,"Lockeres zyanf. Flecken-Tanktop",3,-1,-1
+8,175,11,"Lockeres Leoparden-Tanktop",3,-1,-1
+8,176,0,"Wildes Camisole",3,-1,-1
+8,176,1,"Blau gestreiftes Camisole",3,-1,-1
+8,176,2,"Zebrastreifen-Camisole",3,-1,-1
+8,176,3,"Pfirsichf. gepunktetes Camisole",3,-1,-1
+8,176,4,"Braun gepunktetes Camisole",3,-1,-1
+8,176,5,"Türkisblaues Botanik-Camisole",3,-1,-1
+8,176,6,"Grünes Botanik-Camisole",3,-1,-1
+8,176,7,"Neonfarbenes Camisole",3,-1,-1
+8,176,8,"Blaues Blätter-Camisole",3,-1,-1
+8,176,9,"Mehrfarbiges Blätter-Camisole",3,-1,-1
+8,176,10,"Neon-Blätter-Camisole",3,-1,-1
+8,176,11,"Weißes Botanik-Camisole",3,-1,-1
+8,177,0,"Wilder Bikini",3,-1,-1
+8,177,1,"Blauer Zebrastreifen-Bikini",3,-1,-1
+8,177,2,"Zebrastreifen-Bikini",3,-1,-1
+8,177,3,"Geometrisch gemusterter Bikini",3,-1,-1
+8,177,4,"Abstrakt gemusterter Bikini",3,-1,-1
+8,177,5,"Weißer Schlangenleder-Bikini",3,-1,-1
+8,177,6,"Grüner Schlangenleder-Bikini",3,-1,-1
+8,177,7,"Schwarzer Blumenbikini",3,-1,-1
+8,178,2,"Schw. Space-Rangers-T-Shirt",3,-1,-1
+8,178,3,"Weißes Space-Rangers-T-Shirt",3,-1,-1
+8,178,4,"Gelbes Space-Rangers-T-Shirt",3,-1,-1
+8,178,5,"Grünes Space-Rangers-T-Shirt",3,-1,-1
+8,178,6,"Schw. Space-R.-Logo-T-Shirt",3,-1,-1
+8,178,7,"Grünes Space-R.-Logo-T-Shirt",3,-1,-1
+8,178,8,"Weißes Phasen-T-Shirt",3,-1,-1
+8,178,9,"Gelbes Phasen-T-Shirt",3,-1,-1
+8,178,10,"Blaues Raketenschiff-T-Shirt",3,-1,-1
+8,178,11,"Pinkes Raketenschiff-T-Shirt",3,-1,-1
+8,178,12,"Schw. Raumanzug-Alien-T-Shirt",3,-1,-1
+8,178,13,"Pinkes Raumanzug-Alien-T-Shirt",3,-1,-1
+8,178,14,"Violettes Doppelmond-T-Shirt",3,-1,-1
+8,178,15,"Blaues Doppelmond-T-Shirt",3,-1,-1
+8,178,16,"Pinkes Doppelmond-T-Shirt",3,-1,-1
+8,178,17,"Bl. Space-R.-Freiheit-T-Shirt",3,-1,-1
+8,178,18,"Gr. Space-R.-Freiheit-T-Shirt",3,-1,-1
+8,178,19,"Rotes Space-R.-Freiheit-T-Shirt",3,-1,-1
+8,179,2,"Schw. Space-Rangers-T-Shirt",3,-1,-1
+8,179,3,"Weißes Space-Rangers-T-Shirt",3,-1,-1
+8,179,4,"Gelbes Space-Rangers-T-Shirt",3,-1,-1
+8,179,5,"Grünes Space-Rangers-T-Shirt",3,-1,-1
+8,179,6,"Schw. Space-R.-Logo-T-Shirt",3,-1,-1
+8,179,7,"Grünes Space-R.-Logo-T-Shirt",3,-1,-1
+8,179,8,"Weißes Phasen-T-Shirt",3,-1,-1
+8,179,9,"Gelbes Phasen-T-Shirt",3,-1,-1
+8,179,10,"Blaues Raketenschiff-T-Shirt",3,-1,-1
+8,179,11,"Pinkes Raketenschiff-T-Shirt",3,-1,-1
+8,179,12,"Schw. Raumanzug-Alien-T-Shirt",3,-1,-1
+8,179,13,"Pinkes Raumanzug-Alien-T-Shirt",3,-1,-1
+8,179,14,"Violettes Doppelmond-T-Shirt",3,-1,-1
+8,179,15,"Blaues Doppelmond-T-Shirt",3,-1,-1
+8,179,16,"Pinkes Doppelmond-T-Shirt",3,-1,-1
+8,179,17,"Bl. Space-R.-Freiheit-T-Shirt",3,-1,-1
+8,179,18,"Gr. Space-R.-Freiheit-T-Shirt",3,-1,-1
+8,179,19,"Rotes Space-R.-Freiheit-T-Shirt",3,-1,-1
+8,180,2,"Schw. Space-Rangers-T-Shirt",3,-1,-1
+8,180,3,"Weißes Space-Rangers-T-Shirt",3,-1,-1
+8,180,4,"Gelbes Space-Rangers-T-Shirt",3,-1,-1
+8,180,5,"Grünes Space-Rangers-T-Shirt",3,-1,-1
+8,180,6,"Schw. Space-R.-Logo-T-Shirt",3,-1,-1
+8,180,7,"Grünes Space-R.-Logo-T-Shirt",3,-1,-1
+8,180,8,"Weißes Phasen-T-Shirt",3,-1,-1
+8,180,9,"Gelbes Phasen-T-Shirt",3,-1,-1
+8,180,10,"Blaues Raketenschiff-T-Shirt",3,-1,-1
+8,180,11,"Pinkes Raketenschiff-T-Shirt",3,-1,-1
+8,180,12,"Schw. Raumanzug-Alien-T-Shirt",3,-1,-1
+8,180,13,"Pinkes Raumanzug-Alien-T-Shirt",3,-1,-1
+8,180,14,"Violettes Doppelmond-T-Shirt",3,-1,-1
+8,180,15,"Blaues Doppelmond-T-Shirt",3,-1,-1
+8,180,16,"Pinkes Doppelmond-T-Shirt",3,-1,-1
+8,180,17,"Bl. Space-R.-Freiheit-T-Shirt",3,-1,-1
+8,180,18,"Gr. Space-R.-Freiheit-T-Shirt",3,-1,-1
+8,180,19,"Rotes Space-R.-Freiheit-T-Shirt",3,-1,-1
+8,181,2,"Schw. Space-Rangers-T-Shirt",3,-1,-1
+8,181,3,"Weißes Space-Rangers-T-Shirt",3,-1,-1
+8,181,4,"Gelbes Space-Rangers-T-Shirt",3,-1,-1
+8,181,5,"Grünes Space-Rangers-T-Shirt",3,-1,-1
+8,181,6,"Schw. Space-R.-Logo-T-Shirt",3,-1,-1
+8,181,7,"Grünes Space-R.-Logo-T-Shirt",3,-1,-1
+8,181,8,"Weißes Phasen-T-Shirt",3,-1,-1
+8,181,9,"Gelbes Phasen-T-Shirt",3,-1,-1
+8,181,10,"Blaues Raketenschiff-T-Shirt",3,-1,-1
+8,181,11,"Pinkes Raketenschiff-T-Shirt",3,-1,-1
+8,181,12,"Schw. Raumanzug-Alien-T-Shirt",3,-1,-1
+8,181,13,"Pinkes Raumanzug-Alien-T-Shirt",3,-1,-1
+8,181,14,"Violettes Doppelmond-T-Shirt",3,-1,-1
+8,181,15,"Blaues Doppelmond-T-Shirt",3,-1,-1
+8,181,16,"Pinkes Doppelmond-T-Shirt",3,-1,-1
+8,181,17,"Bl. Space-R.-Freiheit-T-Shirt",3,-1,-1
+8,181,18,"Gr. Space-R.-Freiheit-T-Shirt",3,-1,-1
+8,181,19,"Rotes Space-R.-Freiheit-T-Shirt",3,-1,-1
+8,182,2,"Schw. Space-Rangers-T-Shirt",3,-1,-1
+8,182,3,"Weißes Space-Rangers-T-Shirt",3,-1,-1
+8,182,4,"Gelbes Space-Rangers-T-Shirt",3,-1,-1
+8,182,5,"Grünes Space-Rangers-T-Shirt",3,-1,-1
+8,182,6,"Schw. Space-R.-Logo-T-Shirt",3,-1,-1
+8,182,7,"Grünes Space-R.-Logo-T-Shirt",3,-1,-1
+8,182,8,"Weißes Phasen-T-Shirt",3,-1,-1
+8,182,9,"Gelbes Phasen-T-Shirt",3,-1,-1
+8,182,10,"Blaues Raketenschiff-T-Shirt",3,-1,-1
+8,182,11,"Pinkes Raketenschiff-T-Shirt",3,-1,-1
+8,182,12,"Schw. Raumanzug-Alien-T-Shirt",3,-1,-1
+8,182,13,"Pinkes Raumanzug-Alien-T-Shirt",3,-1,-1
+8,182,14,"Violettes Doppelmond-T-Shirt",3,-1,-1
+8,182,15,"Blaues Doppelmond-T-Shirt",3,-1,-1
+8,182,16,"Pinkes Doppelmond-T-Shirt",3,-1,-1
+8,182,17,"Bl. Space-R.-Freiheit-T-Shirt",3,-1,-1
+8,182,18,"Gr. Space-R.-Freiheit-T-Shirt",3,-1,-1
+8,182,19,"Rotes Space-R.-Freiheit-T-Shirt",3,-1,-1
+8,183,2,"Schw. Space-Rangers-T-Shirt",3,-1,-1
+8,183,3,"Weißes Space-Rangers-T-Shirt",3,-1,-1
+8,183,4,"Gelbes Space-Rangers-T-Shirt",3,-1,-1
+8,183,5,"Grünes Space-Rangers-T-Shirt",3,-1,-1
+8,183,6,"Schw. Space-R.-Logo-T-Shirt",3,-1,-1
+8,183,7,"Grünes Space-R.-Logo-T-Shirt",3,-1,-1
+8,183,8,"Weißes Phasen-T-Shirt",3,-1,-1
+8,183,9,"Gelbes Phasen-T-Shirt",3,-1,-1
+8,183,10,"Blaues Raketenschiff-T-Shirt",3,-1,-1
+8,183,11,"Pinkes Raketenschiff-T-Shirt",3,-1,-1
+8,183,12,"Schw. Raumanzug-Alien-T-Shirt",3,-1,-1
+8,183,13,"Pinkes Raumanzug-Alien-T-Shirt",3,-1,-1
+8,183,14,"Violettes Doppelmond-T-Shirt",3,-1,-1
+8,183,15,"Blaues Doppelmond-T-Shirt",3,-1,-1
+8,183,16,"Pinkes Doppelmond-T-Shirt",3,-1,-1
+8,183,17,"Bl. Space-R.-Freiheit-T-Shirt",3,-1,-1
+8,183,18,"Gr. Space-R.-Freiheit-T-Shirt",3,-1,-1
+8,183,19,"Rotes Space-R.-Freiheit-T-Shirt",3,-1,-1
+8,188,0,"Grau-braune Panzerung",3,-1,-1
+8,188,1,"Beige Panzerung",3,-1,-1
+8,188,2,"Dunkelgrüne Panzerung",3,-1,-1
+8,188,3,"Salbeigrüne Panzerung",3,-1,-1
+8,188,4,"Flecktarn-Panzerung",3,-1,-1
+8,188,5,"Beige Digital-Panzerung",3,-1,-1
+8,188,6,"Kontrasttarn-Panzerung",3,-1,-1
+8,188,7,"Blaue Tarn-Panzerung",3,-1,-1
+8,188,8,"Wüstentarn-Panzerung",3,-1,-1
+8,188,9,"Grüne Tarn-Panzerung",3,-1,-1
+8,188,10,"Lila Panzerung",3,-1,-1
+8,188,11,"Hellgrüne Panzerung",3,-1,-1
+8,193,0,"Weißes Anzughemd (offen)",3,-1,-1
+8,194,0,"Weißes Anzughemd (offen)",3,-1,-1
+8,199,0,"Schwarze Weste mit Taschen",3,-1,-1
+8,200,0,"Schw. verstärkte Panzerung",3,-1,-1
+8,201,0,"T-Shirt",3,-1,-1
+8,201,4,"T-Shirt",3,-1,-1
+8,202,0,"T-Shirt",3,-1,-1
+8,202,4,"T-Shirt",3,-1,-1
+8,203,0,"T-Shirt",3,-1,-1
+8,203,4,"T-Shirt",3,-1,-1
+8,204,0,"T-Shirt",3,-1,-1
+8,204,4,"T-Shirt",3,-1,-1
+8,205,0,"T-Shirt",3,-1,-1
+8,205,4,"T-Shirt",3,-1,-1
+8,206,0,"T-Shirt",3,-1,-1
+8,206,4,"T-Shirt",3,-1,-1
+8,207,0,"Schwarze Schussweste",3,-1,-1
+8,207,1,"Anthrazitgraue Schussweste",3,-1,-1
+8,207,2,"Aschgraue Schussweste",3,-1,-1
+8,207,3,"Eisblaue Schussweste",3,-1,-1
+8,207,4,"Marineblaue Schussweste",3,-1,-1
+8,207,5,"Chamoisfarbene Schussweste",3,-1,-1
+8,207,6,"Sandbraune Schussweste",3,-1,-1
+8,207,7,"Hellbraune Schussweste",3,-1,-1
+8,207,8,"Lachsrosa Schussweste",3,-1,-1
+8,207,9,"Moosgrüne Schussweste",3,-1,-1
+8,207,10,"Pfirsichfarbene Schussweste",3,-1,-1
+8,207,11,"Braune Digitaltarn-Schussw.",3,-1,-1
+8,207,12,"Herbsttarn-Schussweste",3,-1,-1
+8,207,13,"Weiße Tarn-Schussweste",3,-1,-1
+8,207,14,"Pfirsichf. Tarn-Schussweste",3,-1,-1
+8,207,15,"Rote Tarn-Schussweste",3,-1,-1
+8,208,0,"Beige Anglerweste",3,-1,-1
+8,208,1,"Graue Anglerweste",3,-1,-1
+8,208,2,"Steingraue Anglerweste",3,-1,-1
+8,208,3,"Beige Digitaltarn-Anglerweste",3,-1,-1
+8,208,4,"Blaue Digitaltarn-Anglerweste",3,-1,-1
+8,208,5,"Wüstentarn-Anglerweste",3,-1,-1
+8,208,6,"Waldtarn-Anglerweste",3,-1,-1
+8,208,7,"Grüne Spritzer-Anglerweste",3,-1,-1
+8,208,8,"Schwarze Anglerweste",3,-1,-1
+8,208,9,"Weiße Anglerweste",3,-1,-1
+8,208,10,"Schlammbraune Anglerweste",3,-1,-1
+8,208,11,"Moosgrüne Anglerweste",3,-1,-1
+8,208,12,"Hellbraune Anglerweste",3,-1,-1
+8,208,13,"Cremefarbene Anglerweste",3,-1,-1
+8,208,14,"Braune Anglerweste",3,-1,-1
+8,208,15,"Blaue Anglerweste",3,-1,-1
+8,209,0,"Weiße Strapz-Weste",3,-1,-1
+8,209,1,"Gelbe Strapz-Weste",3,-1,-1
+8,209,2,"Lila Strapz-Weste",3,-1,-1
+8,209,3,"Orange-grüne Strapz-Weste",3,-1,-1
+8,209,4,"Hellgrüne Strapz-Weste",3,-1,-1
+8,209,5,"Strapz-Neonweste",3,-1,-1
+8,209,6,"Grüne Strapz-Weste",3,-1,-1
+8,209,7,"Orange Strapz-Weste",3,-1,-1
+8,209,8,"Blaue Strapz-Weste",3,-1,-1
+8,209,9,"Schwarz-hellgrüne Strapz-W.",3,-1,-1
+8,209,10,"Schwarz-lila Strapz-Weste",3,-1,-1
+8,209,11,"Schwarz-grüne Strapz-Weste",3,-1,-1
+8,209,12,"Schwarz-orange Strapz-Weste",3,-1,-1
+8,209,13,"Schwarz-blaue Strapz-Weste",3,-1,-1
+8,209,14,"Orange-rote Strapz-Weste",3,-1,-1
+8,209,15,"Grau-grüne Strapz-Weste",3,-1,-1
+8,209,16,"Lila-graue Strapz-Weste",3,-1,-1
+8,209,17,"Grün-graue Strapz-Weste",3,-1,-1
+8,209,18,"Blau-graue Strapz-Weste",3,-1,-1
+8,209,19,"Kontrastfarbene Strapz-Weste",3,-1,-1
