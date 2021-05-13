@@ -1,135 +1,135 @@
 ComponentID,DrawableID,TextureID,Name,TorsoComponentID,TorsoDrawableID,TorsoTextureID
-11,0,0,"Crew-T-Shirt",3,-1,-1
-11,0,1,"Yeti T-Shirt",3,-1,-1
-11,0,2,"Anthrazitgraues T-Shirt",3,-1,-1
-11,0,3,"Stank T-Shirt",3,-1,-1
-11,0,4,"Ranch T-Shirt",3,-1,-1
-11,0,5,"Pikeys T-Shirt",3,-1,-1
-11,0,7,"Multi-Logo T-Shirt",3,-1,-1
-11,0,8,"Sweatbox T-Shirt",3,-1,-1
-11,0,11,"Eris T-Shirt",3,-1,-1
-11,1,0,"Weiß, V-Ausschnitt",3,-1,-1
-11,1,1,"Aschgrau, V-Ausschnitt",3,-1,-1
-11,1,3,"Swallow, V-Ausschnitt",3,-1,-1
-11,1,4,"Harsh Souls, V-Ausschnitt",3,-1,-1
-11,1,5,"Broker, V-Ausschnitt",3,-1,-1
-11,1,6,"Hip-Hop Royalty, V-Ausschnitt",3,-1,-1
-11,1,7,"Grün, V-Ausschnitt",3,-1,-1
-11,1,8,"G&B, V-Ausschnitt",3,-1,-1
-11,1,11,"Orange, V-Ausschnitt",3,-1,-1
-11,1,12,"Braun, V-Ausschnitt",3,-1,-1
-11,1,14,"Signs, V-Ausschnitt",3,-1,-1
-11,1,15,"Blau gestreift, V-Ausschnitt",3,-1,-1
-11,2,9,"LS Pounders Trikot",3,-1,-1
-11,3,0,"Zweifarbige Trainingsjacke",3,-1,-1
-11,3,1,"Graue Trainingsjacke",3,-1,-1
-11,3,2,"Schwarze Trainingsjacke",3,-1,-1
-11,3,3,"Blaue Trainingsjacke",3,-1,-1
-11,3,4,"Marineblaue Trainigsjacke",3,-1,-1
-11,3,5,"Rote Trainingsjacke",3,-1,-1
-11,3,6,"Grüne Trainingsjacke",3,-1,-1
-11,3,7,"Orange Trainingsjacke",3,-1,-1
-11,3,8,"Gelbe Trainingsjacke",3,-1,-1
-11,3,9,"Lila Trainingsjacke",3,-1,-1
-11,3,10,"Braune Trainingsjacke",3,-1,-1
-11,3,11,"Hellbraune Trainigsjacke",3,-1,-1
-11,3,12,"Lavendelfarbene Trainigsjacke",3,-1,-1
-11,3,13,"Dreifarbige Trainingsjacke",3,-1,-1
-11,3,14,"Blau-orange Trainingsjacke",3,-1,-1
-11,3,15,"Rote gestreifte Trainingsjacke",3,-1,-1
-11,4,0,"Schwarzes Sportsakko",3,-1,-1
-11,4,2,"Rotes Sportsakko",3,-1,-1
-11,4,3,"Graues Sportsakko",3,-1,-1
-11,4,11,"Blaues Sportsakko",3,-1,-1
-11,4,14,"Luxuriöses Sportsakko",3,-1,-1
-11,5,0,"Weißes Tanktop",3,-1,-1
-11,5,1,"Graues Tanktop",3,-1,-1
-11,5,2,"Schwarzes Tanktop",3,-1,-1
-11,5,7,"Rotes Tanktop",3,-1,-1
-11,6,0,"Silbern gestreifte Lederjacke",3,-1,-1
-11,6,1,"Blau gestreifte Lederjacke",3,-1,-1
-11,6,3,"Rote Lederjacke",3,-1,-1
-11,6,4,"Weiße Lederjacke",3,-1,-1
-11,6,5,"Blaue Lederjacke",3,-1,-1
-11,6,6,"Lonewolf Lederjacke",3,-1,-1
-11,6,8,"Grau gestreifte Lederjacke",3,-1,-1
-11,6,9,"Grau gebänderte Lederjacke",3,-1,-1
-11,6,11,"Braune Wildlederjacke",3,-1,-1
-11,7,0,"Weißer Kapuzenpullover",3,-1,-1
-11,7,1,"Grauer Kapuzenpullover",3,-1,-1
-11,7,2,"Schwarzer Kapuzenpullover",3,-1,-1
-11,7,3,"Himmelblauer Kapuzenpullover",3,-1,-1
-11,7,4,"Marineblauer Kapuzenpullover",3,-1,-1
-11,7,5,"Roter Kapuzenpullover",3,-1,-1
-11,7,6,"Grüner Kapuzenpullover",3,-1,-1
-11,7,7,"Oranger Kapuzenpullover",3,-1,-1
-11,7,8,"Gelber Kapuzenpullover",3,-1,-1
-11,7,9,"Lila Kapuzenpullover",3,-1,-1
-11,7,10,"Brauner Kapuzenpullover",3,-1,-1
-11,7,11,"Hellbrauner Kapuzenpullover",3,-1,-1
-11,7,12,"Helllila Kapuzenpullover",3,-1,-1
-11,7,13,"Tarn-Kapuzenpullover",3,-1,-1
-11,7,14,"Schneetarn-Kapuzenpullover",3,-1,-1
-11,7,15,"Schiefergrauer Kapuzenpullover",3,-1,-1
-11,8,0,"Rot abgesetztes Trikot",3,-1,-1
-11,8,10,"Himmelblaues Trikot",3,-1,-1
-11,8,13,"Schiefergraues Trikot",3,-1,-1
-11,8,14,"Graues zweifarbiges Trikot",3,-1,-1
-11,9,0,"Weiß gestreiftes Polohemd",3,-1,-1
-11,9,1,"Stahlgraues Polohemd",3,-1,-1
-11,9,2,"Dunkles Polohemd",3,-1,-1
-11,9,3,"Rosa Polohemd",3,-1,-1
-11,9,4,"Blaues Polohemd",3,-1,-1
-11,9,5,"Leuchtend oranges Polohemd",3,-1,-1
-11,9,6,"Lachsfarbenes Polohemd",3,-1,-1
-11,9,7,"Lila Polohemd",3,-1,-1
-11,9,10,"Blaues gebändertes Polohemd",3,-1,-1
-11,9,11,"Frostweißes Polohemd",3,-1,-1
-11,9,12,"Hellgrünes Polohemd",3,-1,-1
-11,9,13,"Dunkelgrünes Polohemd",3,-1,-1
-11,9,14,"Rotes Polohemd",3,-1,-1
-11,9,15,"Sonnengelbes Polohemd",3,-1,-1
-11,10,0,"Schiefergraues Sakko",3,-1,-1
-11,10,1,"Graues Sakko",3,-1,-1
-11,10,2,"Blaues Sakko",3,-1,-1
-11,11,0,"Graue Weste",3,-1,-1
-11,11,1,"Schwarze Weste",3,-1,-1
-11,11,7,"Pinke Weste",3,-1,-1
-11,11,14,"Nadelstreifen-Weste",3,-1,-1
-11,12,0,"Weiß, lose",3,-1,-1
-11,12,1,"Stahlgrau, lose",3,-1,-1
-11,12,2,"Schwarz, lose",3,-1,-1
-11,12,3,"Himmelblau, lose",3,-1,-1
-11,12,4,"Marineblau, lose",3,-1,-1
-11,12,5,"Rot, lose",3,-1,-1
-11,12,6,"Moosgrün, lose",3,-1,-1
-11,12,7,"Aschgrau, lose",3,-1,-1
-11,12,8,"Senfgelb, lose",3,-1,-1
-11,12,9,"Buttergelb, lose",3,-1,-1
-11,12,10,"Waldgrün, lose",3,-1,-1
-11,12,11,"Azurblau, lose",3,-1,-1
-11,13,0,"Weiß, reingesteckt",3,-1,-1
-11,13,1,"Silber, reingesteckt",3,-1,-1
-11,13,2,"Schwarz, reingesteckt",3,-1,-1
-11,13,3,"Blau, reingesteckt",3,-1,-1
-11,13,5,"Burgunderrot, reingesteckt",3,-1,-1
-11,13,13,"Grün kariert, reingesteckt",3,-1,-1
-11,14,0,"Blaues Karohemd",3,-1,-1
-11,14,1,"Gelbes Karohemd",3,-1,-1
-11,14,2,"Aschgraues Karohemd",3,-1,-1
-11,14,3,"Zitronengelbes Karohemd",3,-1,-1
-11,14,4,"Oranges Karohemd",3,-1,-1
-11,14,5,"Obstfarbenes Karohemd",3,-1,-1
-11,14,6,"Aquablaues Karohemd",3,-1,-1
-11,14,7,"Anthrazitgraues Karohemd",3,-1,-1
-11,14,8,"Türkises Karohemd",3,-1,-1
-11,14,9,"Rotes Karohemd",3,-1,-1
-11,14,10,"Mintgrünes Karohemd",3,-1,-1
-11,14,11,"Graues Karohemd",3,-1,-1
-11,14,12,"Patriotisches Karohemd",3,-1,-1
-11,14,13,"Grelles Karohemd",3,-1,-1
-11,14,14,"Wald-Karohemd",3,-1,-1
-11,14,15,"Hellbraunes Karohemd",3,-1,-1
+11,0,0,"Crew-T-Shirt",3,0,0
+11,0,1,"Yeti T-Shirt",3,0,0
+11,0,2,"Anthrazitgraues T-Shirt",3,0,0
+11,0,3,"Stank T-Shirt",3,0,0
+11,0,4,"Ranch T-Shirt",3,0,0
+11,0,5,"Pikeys T-Shirt",3,0,0
+11,0,7,"Multi-Logo T-Shirt",3,0,0
+11,0,8,"Sweatbox T-Shirt",3,0,0
+11,0,11,"Eris T-Shirt",3,0,0
+11,1,0,"Weiß, V-Ausschnitt",3,0,0
+11,1,1,"Aschgrau, V-Ausschnitt",3,0,0
+11,1,3,"Swallow, V-Ausschnitt",3,0,0
+11,1,4,"Harsh Souls, V-Ausschnitt",3,0,0
+11,1,5,"Broker, V-Ausschnitt",3,0,0
+11,1,6,"Hip-Hop Royalty, V-Ausschnitt",3,0,0
+11,1,7,"Grün, V-Ausschnitt",3,0,0
+11,1,8,"G&B, V-Ausschnitt",3,0,0
+11,1,11,"Orange, V-Ausschnitt",3,0,0
+11,1,12,"Braun, V-Ausschnitt",3,0,0
+11,1,14,"Signs, V-Ausschnitt",3,0,0
+11,1,15,"Blau gestreift, V-Ausschnitt",3,0,0
+11,2,9,"LS Pounders Trikot",3,2,0
+11,3,0,"Zweifarbige Trainingsjacke",3,1,0
+11,3,1,"Graue Trainingsjacke",3,1,0
+11,3,2,"Schwarze Trainingsjacke",3,1,0
+11,3,3,"Blaue Trainingsjacke",3,1,0
+11,3,4,"Marineblaue Trainigsjacke",3,1,0
+11,3,5,"Rote Trainingsjacke",3,1,0
+11,3,6,"Grüne Trainingsjacke",3,1,0
+11,3,7,"Orange Trainingsjacke",3,1,0
+11,3,8,"Gelbe Trainingsjacke",3,1,0
+11,3,9,"Lila Trainingsjacke",3,1,0
+11,3,10,"Braune Trainingsjacke",3,1,0
+11,3,11,"Hellbraune Trainigsjacke",3,1,0
+11,3,12,"Lavendelfarbene Trainigsjacke",3,1,0
+11,3,13,"Dreifarbige Trainingsjacke",3,1,0
+11,3,14,"Blau-orange Trainingsjacke",3,1,0
+11,3,15,"Rote gestreifte Trainingsjacke",3,1,0
+11,4,0,"Schwarzes Sportsakko",3,1,0
+11,4,2,"Rotes Sportsakko",3,1,0
+11,4,3,"Graues Sportsakko",3,1,0
+11,4,11,"Blaues Sportsakko",3,1,0
+11,4,14,"Luxuriöses Sportsakko",3,1,0
+11,5,0,"Weißes Tanktop",3,5,0
+11,5,1,"Graues Tanktop",3,5,0
+11,5,2,"Schwarzes Tanktop",3,5,0
+11,5,7,"Rotes Tanktop",3,5,0
+11,6,0,"Silbern gestreifte Lederjacke",3,1,0
+11,6,1,"Blau gestreifte Lederjacke",3,1,0
+11,6,3,"Rote Lederjacke",3,1,0
+11,6,4,"Weiße Lederjacke",3,1,0
+11,6,5,"Blaue Lederjacke",3,1,0
+11,6,6,"Lonewolf Lederjacke",3,1,0
+11,6,8,"Grau gestreifte Lederjacke",3,1,0
+11,6,9,"Grau gebänderte Lederjacke",3,1,0
+11,6,11,"Braune Wildlederjacke",3,1,0
+11,7,0,"Weißer Kapuzenpullover",3,1,0
+11,7,1,"Grauer Kapuzenpullover",3,1,0
+11,7,2,"Schwarzer Kapuzenpullover",3,1,0
+11,7,3,"Himmelblauer Kapuzenpullover",3,1,0
+11,7,4,"Marineblauer Kapuzenpullover",3,1,0
+11,7,5,"Roter Kapuzenpullover",3,1,0
+11,7,6,"Grüner Kapuzenpullover",3,1,0
+11,7,7,"Oranger Kapuzenpullover",3,1,0
+11,7,8,"Gelber Kapuzenpullover",3,1,0
+11,7,9,"Lila Kapuzenpullover",3,1,0
+11,7,10,"Brauner Kapuzenpullover",3,1,0
+11,7,11,"Hellbrauner Kapuzenpullover",3,1,0
+11,7,12,"Helllila Kapuzenpullover",3,1,0
+11,7,13,"Tarn-Kapuzenpullover",3,1,0
+11,7,14,"Schneetarn-Kapuzenpullover",3,1,0
+11,7,15,"Schiefergrauer Kapuzenpullover",3,1,0
+11,8,0,"Rot abgesetztes Trikot",3,11,0
+11,8,10,"Himmelblaues Trikot",3,11,0
+11,8,13,"Schiefergraues Trikot",3,11,0
+11,8,14,"Graues zweifarbiges Trikot",3,11,0
+11,9,0,"Weiß gestreiftes Polohemd",3,11,0
+11,9,1,"Stahlgraues Polohemd",3,11,0
+11,9,2,"Dunkles Polohemd",3,11,0
+11,9,3,"Rosa Polohemd",3,11,0
+11,9,4,"Blaues Polohemd",3,11,0
+11,9,5,"Leuchtend oranges Polohemd",3,11,0
+11,9,6,"Lachsfarbenes Polohemd",3,11,0
+11,9,7,"Lila Polohemd",3,11,0
+11,9,10,"Blaues gebändertes Polohemd",3,11,0
+11,9,11,"Frostweißes Polohemd",3,11,0
+11,9,12,"Hellgrünes Polohemd",3,11,0
+11,9,13,"Dunkelgrünes Polohemd",3,11,0
+11,9,14,"Rotes Polohemd",3,11,0
+11,9,15,"Sonnengelbes Polohemd",3,11,0
+11,10,0,"Schiefergraues Sakko",3,4,0
+11,10,1,"Graues Sakko",3,4,0
+11,10,2,"Blaues Sakko",3,4,0
+11,11,0,"Graue Weste",3,4,0
+11,11,1,"Schwarze Weste",3,4,0
+11,11,7,"Pinke Weste",3,4,0
+11,11,14,"Nadelstreifen-Weste",3,4,0
+11,12,0,"Weiß, lose",3,1,0
+11,12,1,"Stahlgrau, lose",3,1,0
+11,12,2,"Schwarz, lose",3,1,0
+11,12,3,"Himmelblau, lose",3,1,0
+11,12,4,"Marineblau, lose",3,1,0
+11,12,5,"Rot, lose",3,1,0
+11,12,6,"Moosgrün, lose",3,1,0
+11,12,7,"Aschgrau, lose",3,1,0
+11,12,8,"Senfgelb, lose",3,1,0
+11,12,9,"Buttergelb, lose",3,1,0
+11,12,10,"Waldgrün, lose",3,1,0
+11,12,11,"Azurblau, lose",3,1,0
+11,13,0,"Weiß, reingesteckt",3,11,0
+11,13,1,"Silber, reingesteckt",3,11,0
+11,13,2,"Schwarz, reingesteckt",3,11,0
+11,13,3,"Blau, reingesteckt",3,11,0
+11,13,5,"Burgunderrot, reingesteckt",3,11,0
+11,13,13,"Grün kariert, reingesteckt",3,11,0
+11,14,0,"Blaues Karohemd",3,1,0
+11,14,1,"Gelbes Karohemd",3,1,0
+11,14,2,"Aschgraues Karohemd",3,1,0
+11,14,3,"Zitronengelbes Karohemd",3,1,0
+11,14,4,"Oranges Karohemd",3,1,0
+11,14,5,"Obstfarbenes Karohemd",3,1,0
+11,14,6,"Aquablaues Karohemd",3,1,0
+11,14,7,"Anthrazitgraues Karohemd",3,1,0
+11,14,8,"Türkises Karohemd",3,1,0
+11,14,9,"Rotes Karohemd",3,1,0
+11,14,10,"Mintgrünes Karohemd",3,1,0
+11,14,11,"Graues Karohemd",3,1,0
+11,14,12,"Patriotisches Karohemd",3,1,0
+11,14,13,"Grelles Karohemd",3,1,0
+11,14,14,"Wald-Karohemd",3,1,0
+11,14,15,"Hellbraunes Karohemd",3,1,0
 11,16,0,"Cerveza, V-Ausschnitt",3,0,0
 11,16,1,"Los Santos, V-Ausschnitt",3,0,0
 11,16,2,"Farshtunken, V-Ausschnitt",3,0,0
@@ -641,21 +641,21 @@ ComponentID,DrawableID,TextureID,Name,TorsoComponentID,TorsoDrawableID,TorsoText
 11,126,12,"Senfgelbes Breitkarohemd",3,4,0
 11,126,13,"Violettes Breitkarohemd",3,4,0
 11,126,14,"Weißes Breitkarohemd",3,4,0
-11,127,0,"Blaues offenes Kreuzkarohemd",3,-1,-1
-11,127,1,"Braunes offenes Kreuzkarohemd",3,-1,-1
-11,127,2,"Grünes offenes Kreuzkarohemd",3,-1,-1
-11,127,3,"Violettes off. Kreuzkarohemd",3,-1,-1
-11,127,4,"Hellbraunes off. Kreuzkarohemd",3,-1,-1
-11,127,5,"Blaues off. Streifenkarohemd",3,-1,-1
-11,127,6,"Violettes off. Streifenkarohemd",3,-1,-1
-11,127,7,"Graues off. Streifenkarohemd",3,-1,-1
-11,127,8,"Senfgelbes off. Streifenkaroh.",3,-1,-1
-11,127,9,"Grünes offenes Breitkarohemd",3,-1,-1
-11,127,10,"Rotes offenes Breitkarohemd",3,-1,-1
-11,127,11,"Schwarzes off. Breitkarohemd",3,-1,-1
-11,127,12,"Senfgelbes off. Breitkarohemd",3,-1,-1
-11,127,13,"Violettes offenes Breitkarohemd",3,-1,-1
-11,127,14,"Weißes offenes Breitkarohemd",3,-1,-1
+11,127,0,"Blaues offenes Kreuzkarohemd",3,4,0
+11,127,1,"Braunes offenes Kreuzkarohemd",3,4,0
+11,127,2,"Grünes offenes Kreuzkarohemd",3,4,0
+11,127,3,"Violettes off. Kreuzkarohemd",3,4,0
+11,127,4,"Hellbraunes off. Kreuzkarohemd",3,4,0
+11,127,5,"Blaues off. Streifenkarohemd",3,4,0
+11,127,6,"Violettes off. Streifenkarohemd",3,4,0
+11,127,7,"Graues off. Streifenkarohemd",3,4,0
+11,127,8,"Senfgelbes off. Streifenkaroh.",3,4,0
+11,127,9,"Grünes offenes Breitkarohemd",3,4,0
+11,127,10,"Rotes offenes Breitkarohemd",3,4,0
+11,127,11,"Schwarzes off. Breitkarohemd",3,4,0
+11,127,12,"Senfgelbes off. Breitkarohemd",3,4,0
+11,127,13,"Violettes offenes Breitkarohemd",3,4,0
+11,127,14,"Weißes offenes Breitkarohemd",3,4,0
 11,129,0,"SecuroServ-Collegejacke",3,4,0
 11,130,0,"SecuroServ-Collegejacke (offen)",3,4,0
 11,131,0,"Marineblaues Liberty-Polohemd",3,0,0
@@ -2763,39 +2763,39 @@ ComponentID,DrawableID,TextureID,Name,TorsoComponentID,TorsoDrawableID,TorsoText
 11,338,3,"Hellbr. hochgeschl. Lederjacke",3,1,0
 11,338,4,"Graue hochgeschl. Lederjacke",3,1,0
 11,338,5,"Weiße hochgeschl. Lederjacke",3,1,0
-11,339,0,"Blaues Kreuzkarohemd (leger)",3,-1,-1
-11,339,1,"Braunes Kreuzkarohemd (leger)",3,-1,-1
-11,339,2,"Grünes Kreuzkarohemd (leger)",3,-1,-1
-11,339,3,"Lila Kreuzkarohemd (leger)",3,-1,-1
-11,339,4,"Hellbr. Kreuzkarohemd (leger)",3,-1,-1
-11,339,5,"Bl. Streifenkarohemd (leger)",3,-1,-1
-11,339,6,"Lila Streifenkarohemd (leger)",3,-1,-1
-11,339,7,"Graues Streifenkaroh. (leger)",3,-1,-1
-11,339,8,"Senfg. Streifenkaroh. (leger)",3,-1,-1
-11,339,9,"Grünes Breitkarohemd (leger)",3,-1,-1
-11,339,10,"Rotes Breitkarohemd (leger)",3,-1,-1
-11,339,11,"Schw. Breitkarohemd (leger)",3,-1,-1
-11,339,12,"Senfg. Breitkarohemd (leger)",3,-1,-1
-11,339,13,"Lila Breitkarohemd (leger)",3,-1,-1
-11,339,14,"Weißes Breitkarohemd (leger)",3,-1,-1
-11,339,15,"Schwarzes Doppelshirt (leger)",3,-1,-1
-11,339,16,"Graues Doppelshirt (leger)",3,-1,-1
-11,339,17,"Weißes Doppelshirt (leger)",3,-1,-1
-11,339,18,"Marinebl. Doppelshirt (leger)",3,-1,-1
-11,339,19,"Hellbr. Doppelshirt (leger)",3,-1,-1
-11,339,20,"Khakifarb. Doppelshirt (leger)",3,-1,-1
-11,339,21,"Elfenb. Doppelshirt (leger)",3,-1,-1
-11,339,22,"Altweißes Doppelshirt",3,-1,-1
-11,339,23,"Hellrotes Doppelshirt (leger)",3,-1,-1
-11,340,0,"Schwarzes Doppelshirt (offen)",3,-1,-1
-11,340,1,"Graues Doppelshirt (offen)",3,-1,-1
-11,340,2,"Weißes Doppelshirt (offen)",3,-1,-1
-11,340,3,"Marinebl. Doppelshirt (offen)",3,-1,-1
-11,340,4,"Hellbr. Doppelshirt (offen)",3,-1,-1
-11,340,5,"Khakifarb. Doppelshirt (offen)",3,-1,-1
-11,340,6,"Elfenb. Doppelshirt (offen)",3,-1,-1
-11,340,7,"Altweißes Doppelshirt (offen)",3,-1,-1
-11,340,8,"Hellrotes Doppelshirt (offen)",3,-1,-1
+11,339,0,"Blaues Kreuzkarohemd (leger)",3,1,0
+11,339,1,"Braunes Kreuzkarohemd (leger)",3,1,0
+11,339,2,"Grünes Kreuzkarohemd (leger)",3,1,0
+11,339,3,"Lila Kreuzkarohemd (leger)",3,1,0
+11,339,4,"Hellbr. Kreuzkarohemd (leger)",3,1,0
+11,339,5,"Bl. Streifenkarohemd (leger)",3,1,0
+11,339,6,"Lila Streifenkarohemd (leger)",3,1,0
+11,339,7,"Graues Streifenkaroh. (leger)",3,1,0
+11,339,8,"Senfg. Streifenkaroh. (leger)",3,1,0
+11,339,9,"Grünes Breitkarohemd (leger)",3,1,0
+11,339,10,"Rotes Breitkarohemd (leger)",3,1,0
+11,339,11,"Schw. Breitkarohemd (leger)",3,1,0
+11,339,12,"Senfg. Breitkarohemd (leger)",3,1,0
+11,339,13,"Lila Breitkarohemd (leger)",3,1,0
+11,339,14,"Weißes Breitkarohemd (leger)",3,1,0
+11,339,15,"Schwarzes Doppelshirt (leger)",3,1,0
+11,339,16,"Graues Doppelshirt (leger)",3,1,0
+11,339,17,"Weißes Doppelshirt (leger)",3,1,0
+11,339,18,"Marinebl. Doppelshirt (leger)",3,1,0
+11,339,19,"Hellbr. Doppelshirt (leger)",3,1,0
+11,339,20,"Khakifarb. Doppelshirt (leger)",3,1,0
+11,339,21,"Elfenb. Doppelshirt (leger)",3,1,0
+11,339,22,"Altweißes Doppelshirt",3,1,0
+11,339,23,"Hellrotes Doppelshirt (leger)",3,1,0
+11,340,0,"Schwarzes Doppelshirt (offen)",3,1,0
+11,340,1,"Graues Doppelshirt (offen)",3,1,0
+11,340,2,"Weißes Doppelshirt (offen)",3,1,0
+11,340,3,"Marinebl. Doppelshirt (offen)",3,1,0
+11,340,4,"Hellbr. Doppelshirt (offen)",3,1,0
+11,340,5,"Khakifarb. Doppelshirt (offen)",3,1,0
+11,340,6,"Elfenb. Doppelshirt (offen)",3,1,0
+11,340,7,"Altweißes Doppelshirt (offen)",3,1,0
+11,340,8,"Hellrotes Doppelshirt (offen)",3,1,0
 11,341,0,"Schwarzes Doppelshirt",3,4,0
 11,341,1,"Graues Doppelshirt",3,4,0
 11,341,2,"Weißes Doppelshirt",3,4,0
