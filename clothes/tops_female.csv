@@ -308,6 +308,7 @@ ComponentID,DrawableID,TextureID,Name,TorsoComponentID,TorsoDrawableID,TorsoText
 11,46,2,"Beige Kampfweste",3,3,0
 11,46,3,"Waldtarn-Kampfweste",3,3,0
 11,47,0,"Schwarze Fliegerjacke",3,3,0
+11,48,0,"Polizeiuniform",3,14,0
 11,49,0,"Schwarzes SN-T-Shirt",3,14,0
 11,50,0,"Grauer weiter Kapuzenpullover",3,3,0
 11,51,0,"Schwarzer Frack",3,3,0
