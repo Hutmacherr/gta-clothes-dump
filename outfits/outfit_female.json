@@ -1,5 +1,819 @@
 [
     {
+        "outfitCategory": "Standard",
+        "outfitName": "Chica",
+        "components": [
+            {
+                "ComponentID": 3,
+                "DrawableID": 4,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 4,
+                "DrawableID": 3,
+                "TextureID": 1
+            },
+            {
+                "ComponentID": 6,
+                "DrawableID": 4,
+                "TextureID": 1
+            },
+            {
+                "ComponentID": 7,
+                "DrawableID": 2,
+                "TextureID": 1
+            },
+            {
+                "ComponentID": 8,
+                "DrawableID": 2,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 11,
+                "DrawableID": 5,
+                "TextureID": 0
+            }
+        ],
+        "props": []
+    },
+    {
+        "outfitCategory": "Standard",
+        "outfitName": "Wildfang",
+        "components": [
+            {
+                "ComponentID": 3,
+                "DrawableID": 3,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 4,
+                "DrawableID": 1,
+                "TextureID": 4
+            },
+            {
+                "ComponentID": 6,
+                "DrawableID": 1,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 7,
+                "DrawableID": 0,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 8,
+                "DrawableID": 2,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 11,
+                "DrawableID": 3,
+                "TextureID": 1
+            }
+        ],
+        "props": []
+    },
+    {
+        "outfitCategory": "Standard",
+        "outfitName": "Standardkollektion",
+        "components": [
+            {
+                "ComponentID": 3,
+                "DrawableID": 0,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 4,
+                "DrawableID": 4,
+                "TextureID": 9
+            },
+            {
+                "ComponentID": 6,
+                "DrawableID": 11,
+                "TextureID": 2
+            },
+            {
+                "ComponentID": 7,
+                "DrawableID": 7,
+                "TextureID": 1
+            },
+            {
+                "ComponentID": 8,
+                "DrawableID": 2,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 11,
+                "DrawableID": 0,
+                "TextureID": 11
+            }
+        ],
+        "props": []
+    },
+    {
+        "outfitCategory": "Standard",
+        "outfitName": "Gl\u00fcckspilz",
+        "components": [
+            {
+                "ComponentID": 3,
+                "DrawableID": 5,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 4,
+                "DrawableID": 8,
+                "TextureID": 7
+            },
+            {
+                "ComponentID": 6,
+                "DrawableID": 3,
+                "TextureID": 5
+            },
+            {
+                "ComponentID": 7,
+                "DrawableID": 5,
+                "TextureID": 4
+            },
+            {
+                "ComponentID": 8,
+                "DrawableID": 0,
+                "TextureID": 9
+            },
+            {
+                "ComponentID": 11,
+                "DrawableID": 1,
+                "TextureID": 11
+            }
+        ],
+        "props": []
+    },
+    {
+        "outfitCategory": "Standard",
+        "outfitName": "Im Training",
+        "components": [
+            {
+                "ComponentID": 3,
+                "DrawableID": 7,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 4,
+                "DrawableID": 14,
+                "TextureID": 9
+            },
+            {
+                "ComponentID": 6,
+                "DrawableID": 11,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 7,
+                "DrawableID": 2,
+                "TextureID": 4
+            },
+            {
+                "ComponentID": 8,
+                "DrawableID": 15,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 11,
+                "DrawableID": 10,
+                "TextureID": 0
+            }
+        ],
+        "props": []
+    },
+    {
+        "outfitCategory": "Standard",
+        "outfitName": "Rotes Gift",
+        "components": [
+            {
+                "ComponentID": 3,
+                "DrawableID": 4,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 4,
+                "DrawableID": 2,
+                "TextureID": 2
+            },
+            {
+                "ComponentID": 6,
+                "DrawableID": 11,
+                "TextureID": 3
+            },
+            {
+                "ComponentID": 7,
+                "DrawableID": 0,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 8,
+                "DrawableID": 2,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 11,
+                "DrawableID": 4,
+                "TextureID": 13
+            }
+        ],
+        "props": []
+    },
+    {
+        "outfitCategory": "Standard",
+        "outfitName": "Strandsch\u00f6nheit",
+        "components": [
+            {
+                "ComponentID": 3,
+                "DrawableID": 15,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 4,
+                "DrawableID": 8,
+                "TextureID": 3
+            },
+            {
+                "ComponentID": 6,
+                "DrawableID": 5,
+                "TextureID": 13
+            },
+            {
+                "ComponentID": 7,
+                "DrawableID": 0,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 8,
+                "DrawableID": 2,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 11,
+                "DrawableID": 15,
+                "TextureID": 10
+            }
+        ],
+        "props": []
+    },
+    {
+        "outfitCategory": "Standard",
+        "outfitName": "Alternativ",
+        "components": [
+            {
+                "ComponentID": 3,
+                "DrawableID": 5,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 4,
+                "DrawableID": 8,
+                "TextureID": 8
+            },
+            {
+                "ComponentID": 6,
+                "DrawableID": 15,
+                "TextureID": 1
+            },
+            {
+                "ComponentID": 7,
+                "DrawableID": 0,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 8,
+                "DrawableID": 4,
+                "TextureID": 13
+            },
+            {
+                "ComponentID": 11,
+                "DrawableID": 1,
+                "TextureID": 5
+            }
+        ],
+        "props": []
+    },
+    {
+        "outfitCategory": "Standard",
+        "outfitName": "K\u00e4tzchen",
+        "components": [
+            {
+                "ComponentID": 3,
+                "DrawableID": 4,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 4,
+                "DrawableID": 0,
+                "TextureID": 1
+            },
+            {
+                "ComponentID": 6,
+                "DrawableID": 6,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 7,
+                "DrawableID": 2,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 8,
+                "DrawableID": 2,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 11,
+                "DrawableID": 13,
+                "TextureID": 7
+            }
+        ],
+        "props": []
+    },
+    {
+        "outfitCategory": "Standard",
+        "outfitName": "Touristin",
+        "components": [
+            {
+                "ComponentID": 3,
+                "DrawableID": 1,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 4,
+                "DrawableID": 4,
+                "TextureID": 9
+            },
+            {
+                "ComponentID": 6,
+                "DrawableID": 15,
+                "TextureID": 1
+            },
+            {
+                "ComponentID": 7,
+                "DrawableID": 0,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 8,
+                "DrawableID": 0,
+                "TextureID": 3
+            },
+            {
+                "ComponentID": 11,
+                "DrawableID": 1,
+                "TextureID": 9
+            }
+        ],
+        "props": []
+    },
+    {
+        "outfitCategory": "Standard",
+        "outfitName": "Girlie",
+        "components": [
+            {
+                "ComponentID": 3,
+                "DrawableID": 2,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 4,
+                "DrawableID": 5,
+                "TextureID": 8
+            },
+            {
+                "ComponentID": 6,
+                "DrawableID": 13,
+                "TextureID": 9
+            },
+            {
+                "ComponentID": 7,
+                "DrawableID": 0,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 8,
+                "DrawableID": 2,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 11,
+                "DrawableID": 2,
+                "TextureID": 1
+            }
+        ],
+        "props": []
+    },
+    {
+        "outfitCategory": "Standard",
+        "outfitName": "Auff\u00e4llig",
+        "components": [
+            {
+                "ComponentID": 3,
+                "DrawableID": 9,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 4,
+                "DrawableID": 0,
+                "TextureID": 7
+            },
+            {
+                "ComponentID": 6,
+                "DrawableID": 6,
+                "TextureID": 2
+            },
+            {
+                "ComponentID": 7,
+                "DrawableID": 2,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 8,
+                "DrawableID": 2,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 11,
+                "DrawableID": 9,
+                "TextureID": 9
+            }
+        ],
+        "props": []
+    },
+    {
+        "outfitCategory": "Standard",
+        "outfitName": "Stra\u00dfenchic",
+        "components": [
+            {
+                "ComponentID": 3,
+                "DrawableID": 1,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 4,
+                "DrawableID": 8,
+                "TextureID": 12
+            },
+            {
+                "ComponentID": 6,
+                "DrawableID": 15,
+                "TextureID": 1
+            },
+            {
+                "ComponentID": 7,
+                "DrawableID": 6,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 8,
+                "DrawableID": 0,
+                "TextureID": 7
+            },
+            {
+                "ComponentID": 11,
+                "DrawableID": 1,
+                "TextureID": 0
+            }
+        ],
+        "props": []
+    },
+    {
+        "outfitCategory": "Standard",
+        "outfitName": "Schmetterling",
+        "components": [
+            {
+                "ComponentID": 3,
+                "DrawableID": 4,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 4,
+                "DrawableID": 8,
+                "TextureID": 11
+            },
+            {
+                "ComponentID": 6,
+                "DrawableID": 7,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 7,
+                "DrawableID": 9,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 8,
+                "DrawableID": 2,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 11,
+                "DrawableID": 4,
+                "TextureID": 14
+            }
+        ],
+        "props": []
+    },
+    {
+        "outfitCategory": "Standard",
+        "outfitName": "Festivaltauglich",
+        "components": [
+            {
+                "ComponentID": 3,
+                "DrawableID": 1,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 4,
+                "DrawableID": 12,
+                "TextureID": 1
+            },
+            {
+                "ComponentID": 6,
+                "DrawableID": 3,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 7,
+                "DrawableID": 0,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 8,
+                "DrawableID": 13,
+                "TextureID": 5
+            },
+            {
+                "ComponentID": 11,
+                "DrawableID": 1,
+                "TextureID": 1
+            }
+        ],
+        "props": []
+    },
+    {
+        "outfitCategory": "Standard",
+        "outfitName": "Rotgl\u00fchend",
+        "components": [
+            {
+                "ComponentID": 3,
+                "DrawableID": 9,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 4,
+                "DrawableID": 8,
+                "TextureID": 6
+            },
+            {
+                "ComponentID": 6,
+                "DrawableID": 4,
+                "TextureID": 15
+            },
+            {
+                "ComponentID": 7,
+                "DrawableID": 1,
+                "TextureID": 1
+            },
+            {
+                "ComponentID": 8,
+                "DrawableID": 2,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 11,
+                "DrawableID": 9,
+                "TextureID": 0
+            }
+        ],
+        "props": []
+    },
+    {
+        "outfitCategory": "Standard",
+        "outfitName": "Exklusiv",
+        "components": [
+            {
+                "ComponentID": 3,
+                "DrawableID": 5,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 4,
+                "DrawableID": 9,
+                "TextureID": 8
+            },
+            {
+                "ComponentID": 6,
+                "DrawableID": 6,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 7,
+                "DrawableID": 6,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 8,
+                "DrawableID": 0,
+                "TextureID": 10
+            },
+            {
+                "ComponentID": 11,
+                "DrawableID": 6,
+                "TextureID": 0
+            }
+        ],
+        "props": []
+    },
+    {
+        "outfitCategory": "Standard",
+        "outfitName": "Vielf\u00e4ltigkeit",
+        "components": [
+            {
+                "ComponentID": 3,
+                "DrawableID": 5,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 4,
+                "DrawableID": 0,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 6,
+                "DrawableID": 0,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 7,
+                "DrawableID": 0,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 8,
+                "DrawableID": 0,
+                "TextureID": 10
+            },
+            {
+                "ComponentID": 11,
+                "DrawableID": 8,
+                "TextureID": 2
+            }
+        ],
+        "props": []
+    },
+    {
+        "outfitCategory": "Standard",
+        "outfitName": "\u00c4gyptisch",
+        "components": [
+            {
+                "ComponentID": 3,
+                "DrawableID": 4,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 4,
+                "DrawableID": 9,
+                "TextureID": 15
+            },
+            {
+                "ComponentID": 6,
+                "DrawableID": 6,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 7,
+                "DrawableID": 4,
+                "TextureID": 3
+            },
+            {
+                "ComponentID": 8,
+                "DrawableID": 2,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 11,
+                "DrawableID": 13,
+                "TextureID": 6
+            }
+        ],
+        "props": []
+    },
+    {
+        "outfitCategory": "Standard",
+        "outfitName": "Spring Break",
+        "components": [
+            {
+                "ComponentID": 3,
+                "DrawableID": 5,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 4,
+                "DrawableID": 9,
+                "TextureID": 6
+            },
+            {
+                "ComponentID": 6,
+                "DrawableID": 14,
+                "TextureID": 11
+            },
+            {
+                "ComponentID": 7,
+                "DrawableID": 0,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 8,
+                "DrawableID": 13,
+                "TextureID": 3
+            },
+            {
+                "ComponentID": 11,
+                "DrawableID": 8,
+                "TextureID": 0
+            }
+        ],
+        "props": []
+    },
+    {
+        "outfitCategory": "Standard",
+        "outfitName": "Au-pair",
+        "components": [
+            {
+                "ComponentID": 3,
+                "DrawableID": 9,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 4,
+                "DrawableID": 14,
+                "TextureID": 8
+            },
+            {
+                "ComponentID": 6,
+                "DrawableID": 13,
+                "TextureID": 5
+            },
+            {
+                "ComponentID": 7,
+                "DrawableID": 4,
+                "TextureID": 3
+            },
+            {
+                "ComponentID": 8,
+                "DrawableID": 2,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 11,
+                "DrawableID": 9,
+                "TextureID": 3
+            }
+        ],
+        "props": []
+    },
+    {
+        "outfitCategory": "Standard",
+        "outfitName": "M\u00e4nnerj\u00e4gerin",
+        "components": [
+            {
+                "ComponentID": 3,
+                "DrawableID": 2,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 4,
+                "DrawableID": 0,
+                "TextureID": 8
+            },
+            {
+                "ComponentID": 6,
+                "DrawableID": 6,
+                "TextureID": 2
+            },
+            {
+                "ComponentID": 7,
+                "DrawableID": 6,
+                "TextureID": 2
+            },
+            {
+                "ComponentID": 8,
+                "DrawableID": 2,
+                "TextureID": 0
+            },
+            {
+                "ComponentID": 11,
+                "DrawableID": 2,
+                "TextureID": 7
+            }
+        ],
+        "props": []
+    },
+    {
         "outfitCategory": "Gesch\u00e4ftlich, Hosen",
         "outfitName": "Netzwerker",
         "components": [
