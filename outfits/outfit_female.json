@@ -1,8 +1,7 @@
 [
     {
-        "OutfitIndex": 0,
+        "outfitCategory": "Gesch\u00e4ftlich, Hosen",
         "outfitName": "Netzwerker",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -44,9 +43,8 @@
         ]
     },
     {
-        "OutfitIndex": 1,
+        "outfitCategory": "Gesch\u00e4ftlich, R\u00f6cke",
         "outfitName": "Kreativ",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -88,9 +86,8 @@
         ]
     },
     {
-        "OutfitIndex": 2,
+        "outfitCategory": "Gesch\u00e4ftlich, R\u00f6cke",
         "outfitName": "Frisch",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -132,9 +129,8 @@
         ]
     },
     {
-        "OutfitIndex": 3,
+        "outfitCategory": "Gesch\u00e4ftlich, Hosen",
         "outfitName": "Paris",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -176,9 +172,8 @@
         ]
     },
     {
-        "OutfitIndex": 4,
+        "outfitCategory": "Gesch\u00e4ftlich, Hosen",
         "outfitName": "M\u00e4nnerschreck",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -230,9 +225,8 @@
         ]
     },
     {
-        "OutfitIndex": 5,
+        "outfitCategory": "Gesch\u00e4ftlich, Hosen",
         "outfitName": "Frau Direktor",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -274,9 +268,8 @@
         ]
     },
     {
-        "OutfitIndex": 6,
+        "outfitCategory": "Gesch\u00e4ftlich, Hosen",
         "outfitName": "Modebewu\u00dft",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -323,9 +316,8 @@
         ]
     },
     {
-        "OutfitIndex": 7,
+        "outfitCategory": "Gesch\u00e4ftlich, R\u00f6cke",
         "outfitName": "Businesswoman",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -372,9 +364,8 @@
         ]
     },
     {
-        "OutfitIndex": 8,
+        "outfitCategory": "Gesch\u00e4ftlich, Hosen",
         "outfitName": "Freigeist",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -421,9 +412,8 @@
         ]
     },
     {
-        "OutfitIndex": 9,
+        "outfitCategory": "Gesch\u00e4ftlich, R\u00f6cke",
         "outfitName": "Traditionsbewu\u00dft",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -475,9 +465,8 @@
         ]
     },
     {
-        "OutfitIndex": 10,
+        "outfitCategory": "Gesch\u00e4ftlich, Hosen",
         "outfitName": "Fliegerin",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -529,9 +518,8 @@
         ]
     },
     {
-        "OutfitIndex": 11,
+        "outfitCategory": "Gesch\u00e4ftlich, Hosen",
         "outfitName": "Die Managerin",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -583,9 +571,8 @@
         ]
     },
     {
-        "OutfitIndex": 12,
+        "outfitCategory": "Gesch\u00e4ftlich, Hosen",
         "outfitName": "Die Kunsth\u00e4ndlerin",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -632,9 +619,8 @@
         ]
     },
     {
-        "OutfitIndex": 13,
+        "outfitCategory": "Gesch\u00e4ftlich, R\u00f6cke",
         "outfitName": "Die Architektin",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -686,9 +672,8 @@
         ]
     },
     {
-        "OutfitIndex": 14,
+        "outfitCategory": "Gesch\u00e4ftlich, R\u00f6cke",
         "outfitName": "Katzengleich",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -730,9 +715,8 @@
         ]
     },
     {
-        "OutfitIndex": 15,
+        "outfitCategory": "Gesch\u00e4ftlich, R\u00f6cke",
         "outfitName": "Extrovertiert",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -774,9 +758,8 @@
         ]
     },
     {
-        "OutfitIndex": 16,
+        "outfitCategory": "Gesch\u00e4ftlich, R\u00f6cke",
         "outfitName": "Innere St\u00e4rke",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -823,9 +806,8 @@
         ]
     },
     {
-        "OutfitIndex": 17,
+        "outfitCategory": "Gesch\u00e4ftlich, R\u00f6cke",
         "outfitName": "Firmenvorstand",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -867,9 +849,8 @@
         ]
     },
     {
-        "OutfitIndex": 18,
+        "outfitCategory": "Gesch\u00e4ftlich, R\u00f6cke",
         "outfitName": "Gefleckt",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -916,9 +897,8 @@
         ]
     },
     {
-        "OutfitIndex": 19,
+        "outfitCategory": "Gesch\u00e4ftlich, Hosen",
         "outfitName": "Die Designerin",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -965,9 +945,8 @@
         ]
     },
     {
-        "OutfitIndex": 20,
+        "outfitCategory": "Hipster",
         "outfitName": "Der Yuppie",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -1014,9 +993,8 @@
         ]
     },
     {
-        "OutfitIndex": 21,
+        "outfitCategory": "Hipster",
         "outfitName": "Die Palmen",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -1068,9 +1046,8 @@
         ]
     },
     {
-        "OutfitIndex": 22,
+        "outfitCategory": "Hipster",
         "outfitName": "Bubblegum",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -1112,9 +1089,8 @@
         ]
     },
     {
-        "OutfitIndex": 23,
+        "outfitCategory": "Hipster",
         "outfitName": "Safari",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -1161,9 +1137,8 @@
         ]
     },
     {
-        "OutfitIndex": 24,
+        "outfitCategory": "Hipster",
         "outfitName": "Dschungelforscher",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -1200,9 +1175,8 @@
         ]
     },
     {
-        "OutfitIndex": 25,
+        "outfitCategory": "Hipster",
         "outfitName": "Altmodisch",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -1244,9 +1218,8 @@
         ]
     },
     {
-        "OutfitIndex": 26,
+        "outfitCategory": "Hipster",
         "outfitName": "Jugendlich",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -1293,9 +1266,8 @@
         ]
     },
     {
-        "OutfitIndex": 27,
+        "outfitCategory": "Hipster",
         "outfitName": "Abgefahren",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -1342,9 +1314,8 @@
         ]
     },
     {
-        "OutfitIndex": 28,
+        "outfitCategory": "Hipster",
         "outfitName": "Tropisch",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -1386,9 +1357,8 @@
         ]
     },
     {
-        "OutfitIndex": 29,
+        "outfitCategory": "Hipster",
         "outfitName": "Der Br\u00fcllaffe",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -1430,9 +1400,8 @@
         ]
     },
     {
-        "OutfitIndex": 30,
+        "outfitCategory": "Hipster",
         "outfitName": "90er",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -1474,9 +1443,8 @@
         ]
     },
     {
-        "OutfitIndex": 31,
+        "outfitCategory": "Unabhg\u00e4ngigkeit",
         "outfitName": "Geist",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -1518,9 +1486,8 @@
         ]
     },
     {
-        "OutfitIndex": 32,
+        "outfitCategory": "Unabhg\u00e4ngigkeit",
         "outfitName": "Patriot",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -1562,9 +1529,8 @@
         ]
     },
     {
-        "OutfitIndex": 33,
+        "outfitCategory": "Unabhg\u00e4ngigkeit",
         "outfitName": "Stolz",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -1606,9 +1572,8 @@
         ]
     },
     {
-        "OutfitIndex": 34,
+        "outfitCategory": "Unabhg\u00e4ngigkeit",
         "outfitName": "Unabh\u00e4ngigkeitserkl\u00e4rung",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -1655,9 +1620,8 @@
         ]
     },
     {
-        "OutfitIndex": 35,
+        "outfitCategory": "Unabhg\u00e4ngigkeit",
         "outfitName": "Ich liebe Amerika",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -1704,9 +1668,8 @@
         ]
     },
     {
-        "OutfitIndex": 36,
+        "outfitCategory": "Fliegeranz\u00fcge",
         "outfitName": "Fliegeranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -1748,9 +1711,8 @@
         ]
     },
     {
-        "OutfitIndex": 37,
+        "outfitCategory": "Team Schwer",
         "outfitName": "Nacht, Schwer",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -1787,9 +1749,8 @@
         ]
     },
     {
-        "OutfitIndex": 38,
+        "outfitCategory": "Team Schwer",
         "outfitName": "Urban, Schwer",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -1826,9 +1787,8 @@
         ]
     },
     {
-        "OutfitIndex": 39,
+        "outfitCategory": "Team Schwer",
         "outfitName": "Stahl, Schwer",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -1865,9 +1825,8 @@
         ]
     },
     {
-        "OutfitIndex": 40,
+        "outfitCategory": "Team Schwer",
         "outfitName": "Tundra, Schwer",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -1904,9 +1863,8 @@
         ]
     },
     {
-        "OutfitIndex": 41,
+        "outfitCategory": "Team Schwer",
         "outfitName": "Wald, Schwer",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -1943,9 +1901,8 @@
         ]
     },
     {
-        "OutfitIndex": 42,
+        "outfitCategory": "Team Maskiert",
         "outfitName": "Nacht, Maskiert",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -1981,9 +1938,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 43,
+        "outfitCategory": "Team Maskiert",
         "outfitName": "Urban, Maskiert",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -2019,9 +1975,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 44,
+        "outfitCategory": "Team Maskiert",
         "outfitName": "Stahl, Maskiert",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -2057,9 +2012,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 45,
+        "outfitCategory": "Team Maskiert",
         "outfitName": "Tundra, Maskiert",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -2095,9 +2049,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 46,
+        "outfitCategory": "Team Maskiert",
         "outfitName": "Wald, Maskiert",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -2133,9 +2086,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 47,
+        "outfitCategory": "Team",
         "outfitName": "Nacht",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -2172,9 +2124,8 @@
         ]
     },
     {
-        "OutfitIndex": 48,
+        "outfitCategory": "Team",
         "outfitName": "Urban",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -2211,9 +2162,8 @@
         ]
     },
     {
-        "OutfitIndex": 49,
+        "outfitCategory": "Team",
         "outfitName": "Stahl",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -2250,9 +2200,8 @@
         ]
     },
     {
-        "OutfitIndex": 50,
+        "outfitCategory": "Team",
         "outfitName": "Tundra",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -2289,9 +2238,8 @@
         ]
     },
     {
-        "OutfitIndex": 51,
+        "outfitCategory": "Team",
         "outfitName": "Wald",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -2328,9 +2276,8 @@
         ]
     },
     {
-        "OutfitIndex": 52,
+        "outfitCategory": "Pyjamas",
         "outfitName": "Roter Pyjama",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -2372,9 +2319,8 @@
         ]
     },
     {
-        "OutfitIndex": 53,
+        "outfitCategory": "Pyjamas",
         "outfitName": "Gestreifter Pyjama",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -2411,9 +2357,8 @@
         ]
     },
     {
-        "OutfitIndex": 54,
+        "outfitCategory": "Pyjamas",
         "outfitName": "Winterlicher Pyjama",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -2450,9 +2395,8 @@
         ]
     },
     {
-        "OutfitIndex": 55,
+        "outfitCategory": "Pyjamas",
         "outfitName": "Festlicher Pyjama",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -2494,9 +2438,8 @@
         ]
     },
     {
-        "OutfitIndex": 56,
+        "outfitCategory": "Weihnachten",
         "outfitName": "Frau Claus",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -2533,9 +2476,8 @@
         ]
     },
     {
-        "OutfitIndex": 57,
+        "outfitCategory": "Weihnachten",
         "outfitName": "Die Elfe",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -2577,9 +2519,8 @@
         ]
     },
     {
-        "OutfitIndex": 58,
+        "outfitCategory": "Weihnachten",
         "outfitName": "Der Pudding",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -2616,9 +2557,8 @@
         ]
     },
     {
-        "OutfitIndex": 59,
+        "outfitCategory": "Fliegeranz\u00fcge",
         "outfitName": "Schwarzer Fliegeranzug",
-        "outfitCost": 60000,
         "components": [
             {
                 "ComponentID": 3,
@@ -2660,9 +2600,8 @@
         ]
     },
     {
-        "OutfitIndex": 60,
+        "outfitCategory": "Raub\u00fcberfall-Overalls",
         "outfitName": "Roter Overall",
-        "outfitCost": 12500,
         "components": [
             {
                 "ComponentID": 3,
@@ -2693,9 +2632,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 61,
+        "outfitCategory": "Raub\u00fcberfall-Overalls",
         "outfitName": "Marineblauer Overall",
-        "outfitCost": 10000,
         "components": [
             {
                 "ComponentID": 3,
@@ -2726,9 +2664,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 62,
+        "outfitCategory": "Raub\u00fcberfall-Overalls",
         "outfitName": "Gr\u00fcner Overall",
-        "outfitCost": 10000,
         "components": [
             {
                 "ComponentID": 3,
@@ -2759,9 +2696,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 63,
+        "outfitCategory": "Raub\u00fcberfall-Overalls",
         "outfitName": "Grauer Overall",
-        "outfitCost": 10000,
         "components": [
             {
                 "ComponentID": 3,
@@ -2792,9 +2728,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 64,
+        "outfitCategory": "Raub\u00fcberfall-Overalls",
         "outfitName": "Roter kurz\u00e4rmliger Overall",
-        "outfitCost": 9500,
         "components": [
             {
                 "ComponentID": 3,
@@ -2825,9 +2760,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 65,
+        "outfitCategory": "Raub\u00fcberfall-Overalls",
         "outfitName": "Marinebl. kurz\u00e4rmliger Overall",
-        "outfitCost": 9000,
         "components": [
             {
                 "ComponentID": 3,
@@ -2858,9 +2792,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 66,
+        "outfitCategory": "Raub\u00fcberfall-Overalls",
         "outfitName": "Gr\u00fcner kurz\u00e4rmliger Overall",
-        "outfitCost": 9000,
         "components": [
             {
                 "ComponentID": 3,
@@ -2891,9 +2824,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 67,
+        "outfitCategory": "Raub\u00fcberfall-Overalls",
         "outfitName": "Grauer kurz\u00e4rmliger Overall",
-        "outfitCost": 9000,
         "components": [
             {
                 "ComponentID": 3,
@@ -2924,9 +2856,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 68,
+        "outfitCategory": "Raub\u00fcberfall-Overalls",
         "outfitName": "Forscher",
-        "outfitCost": 45000,
         "components": [
             {
                 "ComponentID": 1,
@@ -2962,9 +2893,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 69,
+        "outfitCategory": "Raub\u00fcberfall-Overalls",
         "outfitName": "Ausr\u00e4ucherung",
-        "outfitCost": 45000,
         "components": [
             {
                 "ComponentID": 1,
@@ -3000,9 +2930,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 70,
+        "outfitCategory": "Raub\u00fcberfall-Overalls",
         "outfitName": "Gefahrgut",
-        "outfitCost": 45000,
         "components": [
             {
                 "ComponentID": 1,
@@ -3038,9 +2967,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 71,
+        "outfitCategory": "Raub\u00fcberfall-Overalls",
         "outfitName": "Quarant\u00e4ne",
-        "outfitCost": 45000,
         "components": [
             {
                 "ComponentID": 1,
@@ -3076,9 +3004,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 72,
+        "outfitCategory": "Raub\u00fcberfall Locke",
         "outfitName": "Niemand",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3114,9 +3041,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 73,
+        "outfitCategory": "Raub\u00fcberfall Locke",
         "outfitName": "Kapuze",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3152,9 +3078,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 74,
+        "outfitCategory": "Raub\u00fcberfall Locke",
         "outfitName": "Normalo",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3190,9 +3115,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 75,
+        "outfitCategory": "Raub\u00fcberfall Locke",
         "outfitName": "Sorglos",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3223,9 +3147,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 76,
+        "outfitCategory": "Raub\u00fcberfall Stra\u00dfe",
         "outfitName": "Einsteiger",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3261,9 +3184,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 77,
+        "outfitCategory": "Raub\u00fcberfall Stra\u00dfe",
         "outfitName": "Anw\u00e4rter",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3299,9 +3221,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 78,
+        "outfitCategory": "Raub\u00fcberfall Stra\u00dfe",
         "outfitName": "Verst\u00e4rkung",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3337,9 +3258,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 79,
+        "outfitCategory": "Raub\u00fcberfall Stra\u00dfe",
         "outfitName": "Aushilfe",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3375,9 +3295,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 80,
+        "outfitCategory": "Raub\u00fcberfall Stra\u00dfenkampf",
         "outfitName": "Drive-by",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3408,9 +3327,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 81,
+        "outfitCategory": "Raub\u00fcberfall Stra\u00dfenkampf",
         "outfitName": "Schl\u00e4ger",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3446,9 +3364,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 82,
+        "outfitCategory": "Raub\u00fcberfall Stra\u00dfenkampf",
         "outfitName": "Revolverheld",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3484,9 +3401,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 83,
+        "outfitCategory": "Raub\u00fcberfall Stra\u00dfenkampf",
         "outfitName": "S\u00f6ldner",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3517,9 +3433,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 84,
+        "outfitCategory": "Raub\u00fcberfall Leichtes Gefecht",
         "outfitName": "Scharm\u00fctzel",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3550,9 +3465,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 85,
+        "outfitCategory": "Raub\u00fcberfall Leichtes Gefecht",
         "outfitName": "Schlacht",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3583,9 +3497,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 86,
+        "outfitCategory": "Raub\u00fcberfall Leichtes Gefecht",
         "outfitName": "Konflikt",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3626,9 +3539,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 87,
+        "outfitCategory": "Raub\u00fcberfall Leichtes Gefecht",
         "outfitName": "Kampf",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3659,9 +3571,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 88,
+        "outfitCategory": "Raub\u00fcberfall Schweres Gefecht",
         "outfitName": "Ganzk\u00f6rper",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3692,9 +3603,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 89,
+        "outfitCategory": "Raub\u00fcberfall Schweres Gefecht",
         "outfitName": "Kraft",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3730,9 +3640,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 90,
+        "outfitCategory": "Raub\u00fcberfall Schweres Gefecht",
         "outfitName": "Waffe",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3763,9 +3672,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 91,
+        "outfitCategory": "Raub\u00fcberfall Schweres Gefecht",
         "outfitName": "Kommando",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3801,9 +3709,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 92,
+        "outfitCategory": "Raub\u00fcberfall Zwielichtig",
         "outfitName": "Verfolger",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3834,9 +3741,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 93,
+        "outfitCategory": "Raub\u00fcberfall Zwielichtig",
         "outfitName": "Herumtreiber",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3867,9 +3773,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 94,
+        "outfitCategory": "Raub\u00fcberfall Zwielichtig",
         "outfitName": "Schleicher",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3900,9 +3805,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 95,
+        "outfitCategory": "Raub\u00fcberfall Zwielichtig",
         "outfitName": "R\u00e4uber",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3933,9 +3837,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 96,
+        "outfitCategory": "Raub\u00fcberfall Tarnung",
         "outfitName": "Guerilla",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3966,9 +3869,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 97,
+        "outfitCategory": "Raub\u00fcberfall Tarnung",
         "outfitName": "\u00dcberfall",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -3999,9 +3901,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 98,
+        "outfitCategory": "Raub\u00fcberfall Tarnung",
         "outfitName": "Handlanger",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4032,9 +3933,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 99,
+        "outfitCategory": "Raub\u00fcberfall Tarnung",
         "outfitName": "Greifer",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4065,9 +3965,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 100,
+        "outfitCategory": "Raub\u00fcberfall Rebell",
         "outfitName": "Bravado",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4098,9 +3997,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 101,
+        "outfitCategory": "Raub\u00fcberfall Rebell",
         "outfitName": "Lampadati",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4137,9 +4035,8 @@
         ]
     },
     {
-        "OutfitIndex": 102,
+        "outfitCategory": "Raub\u00fcberfall Rebell",
         "outfitName": "Pegassi",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4176,9 +4073,8 @@
         ]
     },
     {
-        "OutfitIndex": 103,
+        "outfitCategory": "Raub\u00fcberfall Rebell",
         "outfitName": "Imponte",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4209,9 +4105,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 104,
+        "outfitCategory": "Raub\u00fcberfall Gesch\u00e4ftlich",
         "outfitName": "K\u00e4ufer",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4242,9 +4137,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 105,
+        "outfitCategory": "Raub\u00fcberfall Gesch\u00e4ftlich",
         "outfitName": "W\u00e4chter",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4275,9 +4169,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 106,
+        "outfitCategory": "Raub\u00fcberfall Gesch\u00e4ftlich",
         "outfitName": "Manager",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4313,9 +4206,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 107,
+        "outfitCategory": "Raub\u00fcberfall Gesch\u00e4ftlich",
         "outfitName": "Berater",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4351,9 +4243,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 108,
+        "outfitCategory": "Raub\u00fcberfall Gepflegt",
         "outfitName": "Richman",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4389,9 +4280,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 109,
+        "outfitCategory": "Raub\u00fcberfall Gepflegt",
         "outfitName": "Portola",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4427,9 +4317,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 110,
+        "outfitCategory": "Raub\u00fcberfall Gepflegt",
         "outfitName": "Vespucci",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4465,9 +4354,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 111,
+        "outfitCategory": "Raub\u00fcberfall Gepflegt",
         "outfitName": "Rockford",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4503,9 +4391,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 112,
+        "outfitCategory": "Raub\u00fcberfall Salopp",
         "outfitName": "Bluffs",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4541,9 +4428,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 113,
+        "outfitCategory": "Raub\u00fcberfall Salopp",
         "outfitName": "Burro",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4579,9 +4465,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 114,
+        "outfitCategory": "Raub\u00fcberfall Salopp",
         "outfitName": "Alta",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4617,9 +4502,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 115,
+        "outfitCategory": "Raub\u00fcberfall Salopp",
         "outfitName": "Yankton",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4655,9 +4539,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 116,
+        "outfitCategory": "Raub\u00fcberfall Minimalist",
         "outfitName": "Aalglatt",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4699,9 +4582,8 @@
         ]
     },
     {
-        "OutfitIndex": 117,
+        "outfitCategory": "Raub\u00fcberfall Minimalist",
         "outfitName": "Streng",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4743,9 +4625,8 @@
         ]
     },
     {
-        "OutfitIndex": 118,
+        "outfitCategory": "Raub\u00fcberfall Minimalist",
         "outfitName": "Leger",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4787,9 +4668,8 @@
         ]
     },
     {
-        "OutfitIndex": 119,
+        "outfitCategory": "Raub\u00fcberfall Minimalist",
         "outfitName": "Klassisch",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4831,9 +4711,8 @@
         ]
     },
     {
-        "OutfitIndex": 120,
+        "outfitCategory": "Raub\u00fcberfall Smokings",
         "outfitName": "Gala",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4869,9 +4748,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 121,
+        "outfitCategory": "Raub\u00fcberfall Smokings",
         "outfitName": "Benefiz",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4907,9 +4785,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 122,
+        "outfitCategory": "Raub\u00fcberfall Smokings",
         "outfitName": "Dinner",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4945,9 +4822,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 123,
+        "outfitCategory": "Raub\u00fcberfall Smokings",
         "outfitName": "Ball",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -4983,9 +4859,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 124,
+        "outfitCategory": "Raub\u00fcberfall Rocker",
         "outfitName": "Burnout",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -5016,9 +4891,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 125,
+        "outfitCategory": "Raub\u00fcberfall Rocker",
         "outfitName": "Vollgas",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -5049,9 +4923,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 126,
+        "outfitCategory": "Raub\u00fcberfall Rocker",
         "outfitName": "Metal",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -5082,9 +4955,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 127,
+        "outfitCategory": "Raub\u00fcberfall Rocker",
         "outfitName": "Club",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -5115,9 +4987,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 128,
+        "outfitCategory": "Designer",
         "outfitName": "It-Girl",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -5159,9 +5030,8 @@
         ]
     },
     {
-        "OutfitIndex": 129,
+        "outfitCategory": "Designer",
         "outfitName": "Accessoire",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -5218,9 +5088,8 @@
         ]
     },
     {
-        "OutfitIndex": 130,
+        "outfitCategory": "Designer",
         "outfitName": "Wohlstand",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -5267,9 +5136,8 @@
         ]
     },
     {
-        "OutfitIndex": 131,
+        "outfitCategory": "Designer",
         "outfitName": "Status",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -5321,9 +5189,8 @@
         ]
     },
     {
-        "OutfitIndex": 132,
+        "outfitCategory": "Designer",
         "outfitName": "Perseus",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -5370,9 +5237,8 @@
         ]
     },
     {
-        "OutfitIndex": 133,
+        "outfitCategory": "Designer",
         "outfitName": "Elite",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -5414,9 +5280,8 @@
         ]
     },
     {
-        "OutfitIndex": 134,
+        "outfitCategory": "Designer",
         "outfitName": "Chic",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -5463,9 +5328,8 @@
         ]
     },
     {
-        "OutfitIndex": 135,
+        "outfitCategory": "Designer",
         "outfitName": "Golden Girl",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -5512,9 +5376,8 @@
         ]
     },
     {
-        "OutfitIndex": 136,
+        "outfitCategory": "Designer",
         "outfitName": "\u00dcberreich",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -5556,9 +5419,8 @@
         ]
     },
     {
-        "OutfitIndex": 137,
+        "outfitCategory": "Designer",
         "outfitName": "Klassisch",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -5600,9 +5462,8 @@
         ]
     },
     {
-        "OutfitIndex": 138,
+        "outfitCategory": "Designer",
         "outfitName": "Goldrausch",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -5649,9 +5510,8 @@
         ]
     },
     {
-        "OutfitIndex": 139,
+        "outfitCategory": "Designer",
         "outfitName": "Puma",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -5698,9 +5558,8 @@
         ]
     },
     {
-        "OutfitIndex": 140,
+        "outfitCategory": "Luxus",
         "outfitName": "Vamp",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -5737,9 +5596,8 @@
         ]
     },
     {
-        "OutfitIndex": 141,
+        "outfitCategory": "Luxus",
         "outfitName": "Schatz",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -5791,9 +5649,8 @@
         ]
     },
     {
-        "OutfitIndex": 142,
+        "outfitCategory": "Luxus",
         "outfitName": "Anwesen",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -5840,9 +5697,8 @@
         ]
     },
     {
-        "OutfitIndex": 143,
+        "outfitCategory": "Luxus",
         "outfitName": "Rose",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -5884,9 +5740,8 @@
         ]
     },
     {
-        "OutfitIndex": 144,
+        "outfitCategory": "Luxus",
         "outfitName": "Sessanta Nove",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -5938,9 +5793,8 @@
         ]
     },
     {
-        "OutfitIndex": 145,
+        "outfitCategory": "Luxus",
         "outfitName": "Mond\u00e4nit\u00e4t",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -5992,9 +5846,8 @@
         ]
     },
     {
-        "OutfitIndex": 146,
+        "outfitCategory": "Luxus",
         "outfitName": "Kreuzfahrt",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -6041,9 +5894,8 @@
         ]
     },
     {
-        "OutfitIndex": 147,
+        "outfitCategory": "Luxus",
         "outfitName": "Anmut",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -6085,9 +5937,8 @@
         ]
     },
     {
-        "OutfitIndex": 148,
+        "outfitCategory": "Luxus",
         "outfitName": "Erbin",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -6139,9 +5990,8 @@
         ]
     },
     {
-        "OutfitIndex": 149,
+        "outfitCategory": "Luxus",
         "outfitName": "Scheckbuch",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -6193,9 +6043,8 @@
         ]
     },
     {
-        "OutfitIndex": 150,
+        "outfitCategory": "Lowrider",
         "outfitName": "Spritztour",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -6247,9 +6096,8 @@
         ]
     },
     {
-        "OutfitIndex": 151,
+        "outfitCategory": "Lowrider",
         "outfitName": "Bleifu\u00df",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -6296,9 +6144,8 @@
         ]
     },
     {
-        "OutfitIndex": 152,
+        "outfitCategory": "Lowrider",
         "outfitName": "Fan",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -6340,9 +6187,8 @@
         ]
     },
     {
-        "OutfitIndex": 153,
+        "outfitCategory": "Lowrider",
         "outfitName": "Gaspedal",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -6384,9 +6230,8 @@
         ]
     },
     {
-        "OutfitIndex": 154,
+        "outfitCategory": "Lowrider",
         "outfitName": "Chrom",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -6443,9 +6288,8 @@
         ]
     },
     {
-        "OutfitIndex": 155,
+        "outfitCategory": "Lowrider",
         "outfitName": "Schlitten",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -6487,9 +6331,8 @@
         ]
     },
     {
-        "OutfitIndex": 156,
+        "outfitCategory": "Lowrider",
         "outfitName": "Rauchwolke",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -6541,9 +6384,8 @@
         ]
     },
     {
-        "OutfitIndex": 157,
+        "outfitCategory": "Lowrider",
         "outfitName": "Blaufrau",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -6585,9 +6427,8 @@
         ]
     },
     {
-        "OutfitIndex": 158,
+        "outfitCategory": "Weihnachten",
         "outfitName": "B\u00f6ser Weihnachtsmann",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -6618,9 +6459,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 159,
+        "outfitCategory": "Weihnachten",
         "outfitName": "Dreckiger Weihnachtsmann",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -6651,9 +6491,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 160,
+        "outfitCategory": "Weihnachten",
         "outfitName": "Ranziger Weihnachtsmann",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -6684,9 +6523,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 161,
+        "outfitCategory": "Valentinstag, Abend",
         "outfitName": "Charme",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -6728,9 +6566,8 @@
         ]
     },
     {
-        "OutfitIndex": 162,
+        "outfitCategory": "Valentinstag, Abend",
         "outfitName": "Geliebte",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -6772,9 +6609,8 @@
         ]
     },
     {
-        "OutfitIndex": 163,
+        "outfitCategory": "Valentinstag, Abend",
         "outfitName": "Liebling",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -6811,9 +6647,8 @@
         ]
     },
     {
-        "OutfitIndex": 164,
+        "outfitCategory": "Valentinstag, Abend",
         "outfitName": "Blues",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -6855,9 +6690,8 @@
         ]
     },
     {
-        "OutfitIndex": 165,
+        "outfitCategory": "Valentinstag, Abend",
         "outfitName": "Engel",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -6899,9 +6733,8 @@
         ]
     },
     {
-        "OutfitIndex": 166,
+        "outfitCategory": "Valentinstag, Abend",
         "outfitName": "Angebetete",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -6953,9 +6786,8 @@
         ]
     },
     {
-        "OutfitIndex": 167,
+        "outfitCategory": "Valentinstag, Nacht",
         "outfitName": "Eros",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -6986,9 +6818,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 168,
+        "outfitCategory": "Valentinstag, Nacht",
         "outfitName": "Sirene",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -7030,9 +6861,8 @@
         ]
     },
     {
-        "OutfitIndex": 169,
+        "outfitCategory": "Valentinstag, Nacht",
         "outfitName": "Glamour",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -7068,9 +6898,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 170,
+        "outfitCategory": "Valentinstag, Nacht",
         "outfitName": "Konkubine",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -7106,9 +6935,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 171,
+        "outfitCategory": "Valentinstag, Nacht",
         "outfitName": "Himmelblau",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -7150,9 +6978,8 @@
         ]
     },
     {
-        "OutfitIndex": 172,
+        "outfitCategory": "Valentinstag, Nacht",
         "outfitName": "Verf\u00fchrung",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -7188,9 +7015,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 173,
+        "outfitCategory": "Lowrider Classics",
         "outfitName": "Chola",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -7227,9 +7053,8 @@
         ]
     },
     {
-        "OutfitIndex": 174,
+        "outfitCategory": "Lowrider Classics",
         "outfitName": "Schichtarbeiterin",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -7271,9 +7096,8 @@
         ]
     },
     {
-        "OutfitIndex": 175,
+        "outfitCategory": "Lowrider Classics",
         "outfitName": "Hippie",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -7310,9 +7134,8 @@
         ]
     },
     {
-        "OutfitIndex": 176,
+        "outfitCategory": "Lowrider Classics",
         "outfitName": "Spitzenklasse",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -7359,9 +7182,8 @@
         ]
     },
     {
-        "OutfitIndex": 177,
+        "outfitCategory": "Lowrider Classics",
         "outfitName": "Sportiv",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -7392,9 +7214,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 178,
+        "outfitCategory": "Lowrider Classics",
         "outfitName": "Schnittig",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -7435,9 +7256,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 179,
+        "outfitCategory": "Lowrider Classics",
         "outfitName": "Zugekn\u00f6pft",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -7474,9 +7294,8 @@
         ]
     },
     {
-        "OutfitIndex": 180,
+        "outfitCategory": "Lowrider Classics",
         "outfitName": "Grauzone",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -7523,9 +7342,8 @@
         ]
     },
     {
-        "OutfitIndex": 181,
+        "outfitCategory": "Lowrider Classics",
         "outfitName": "Fahrgestell",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -7572,9 +7390,8 @@
         ]
     },
     {
-        "OutfitIndex": 182,
+        "outfitCategory": "Lowrider Classics",
         "outfitName": "Durchgedreht",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -7611,9 +7428,8 @@
         ]
     },
     {
-        "OutfitIndex": 183,
+        "outfitCategory": "Lowrider Classics",
         "outfitName": "Benny's",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -7660,9 +7476,8 @@
         ]
     },
     {
-        "OutfitIndex": 184,
+        "outfitCategory": "Lowrider Classics",
         "outfitName": "R\u00fcschen",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -7714,9 +7529,8 @@
         ]
     },
     {
-        "OutfitIndex": 185,
+        "outfitCategory": "SecureServ",
         "outfitName": "SecuroServ 1",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -7758,9 +7572,8 @@
         ]
     },
     {
-        "OutfitIndex": 186,
+        "outfitCategory": "SecureServ",
         "outfitName": "SecuroServ 2",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -7797,9 +7610,8 @@
         ]
     },
     {
-        "OutfitIndex": 187,
+        "outfitCategory": "SecureServ",
         "outfitName": "SecuroServ 3",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -7841,9 +7653,8 @@
         ]
     },
     {
-        "OutfitIndex": 188,
+        "outfitCategory": "SecureServ",
         "outfitName": "SecuroServ 4",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -7880,9 +7691,8 @@
         ]
     },
     {
-        "OutfitIndex": 189,
+        "outfitCategory": "Finance & Felony",
         "outfitName": "Kr\u00f6sus",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -7924,9 +7734,8 @@
         ]
     },
     {
-        "OutfitIndex": 190,
+        "outfitCategory": "Finance & Felony",
         "outfitName": "Alpha",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -7963,9 +7772,8 @@
         ]
     },
     {
-        "OutfitIndex": 191,
+        "outfitCategory": "Finance & Felony",
         "outfitName": "Abschlag",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8007,9 +7815,8 @@
         ]
     },
     {
-        "OutfitIndex": 192,
+        "outfitCategory": "Finance & Felony",
         "outfitName": "Monopol",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8051,9 +7858,8 @@
         ]
     },
     {
-        "OutfitIndex": 193,
+        "outfitCategory": "Finance & Felony",
         "outfitName": "Inkognito",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8090,9 +7896,8 @@
         ]
     },
     {
-        "OutfitIndex": 194,
+        "outfitCategory": "Finance & Felony",
         "outfitName": "Krise",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8129,9 +7934,8 @@
         ]
     },
     {
-        "OutfitIndex": 195,
+        "outfitCategory": "Finance & Felony",
         "outfitName": "Drache",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8168,9 +7972,8 @@
         ]
     },
     {
-        "OutfitIndex": 196,
+        "outfitCategory": "Finance & Felony",
         "outfitName": "S\u00f6ldnerin",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8217,9 +8020,8 @@
         ]
     },
     {
-        "OutfitIndex": 197,
+        "outfitCategory": "Finance & Felony",
         "outfitName": "Pastell",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8255,9 +8057,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 198,
+        "outfitCategory": "Finance & Felony",
         "outfitName": "Goldgr\u00e4berin",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8299,9 +8100,8 @@
         ]
     },
     {
-        "OutfitIndex": 199,
+        "outfitCategory": "Finance & Felony",
         "outfitName": "Eleganz",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8338,9 +8138,8 @@
         ]
     },
     {
-        "OutfitIndex": 200,
+        "outfitCategory": "Finance & Felony",
         "outfitName": "Magnatin",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8377,9 +8176,8 @@
         ]
     },
     {
-        "OutfitIndex": 201,
+        "outfitCategory": "Finance & Felony",
         "outfitName": "Ehrgeiz",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8416,9 +8214,8 @@
         ]
     },
     {
-        "OutfitIndex": 202,
+        "outfitCategory": "Finance & Felony",
         "outfitName": "Liberty",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8455,9 +8252,8 @@
         ]
     },
     {
-        "OutfitIndex": 203,
+        "outfitCategory": "Finance & Felony",
         "outfitName": "\u00dcbermut",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8499,9 +8295,8 @@
         ]
     },
     {
-        "OutfitIndex": 204,
+        "outfitCategory": "Rennanz\u00fcge",
         "outfitName": "Marineblauer Rennanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8537,9 +8332,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 205,
+        "outfitCategory": "Rennanz\u00fcge",
         "outfitName": "Grauer Rennanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8575,9 +8369,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 206,
+        "outfitCategory": "Rennanz\u00fcge",
         "outfitName": "Roter Rennanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8613,9 +8406,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 207,
+        "outfitCategory": "Rennanz\u00fcge",
         "outfitName": "Schwarzer Rennanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8651,9 +8443,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 208,
+        "outfitCategory": "Rennanz\u00fcge",
         "outfitName": "Gr\u00fcner Rennanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8689,9 +8480,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 209,
+        "outfitCategory": "Rennanz\u00fcge",
         "outfitName": "Wei\u00dfer Rennanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8727,9 +8517,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 210,
+        "outfitCategory": "Motorradanz\u00fcge",
         "outfitName": "Gr\u00fcner Motorradanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8765,9 +8554,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 211,
+        "outfitCategory": "Motorradanz\u00fcge",
         "outfitName": "Roter Motorradanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8803,9 +8591,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 212,
+        "outfitCategory": "Motorradanz\u00fcge",
         "outfitName": "Italien-Motorradanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8841,9 +8628,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 213,
+        "outfitCategory": "Motorradanz\u00fcge",
         "outfitName": "Schwarzer Motorradanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8879,9 +8665,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 214,
+        "outfitCategory": "Motorradanz\u00fcge",
         "outfitName": "Frankreich-Motorradanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8917,9 +8702,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 215,
+        "outfitCategory": "Motorradanz\u00fcge",
         "outfitName": "Gelber Motorradanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8955,9 +8739,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 216,
+        "outfitCategory": "Motorradanz\u00fcge",
         "outfitName": "Rosa Motorradanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -8993,9 +8776,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 217,
+        "outfitCategory": "Motorradanz\u00fcge",
         "outfitName": "Blauer Motorradanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9031,9 +8813,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 218,
+        "outfitCategory": "Stuntman",
         "outfitName": "Wei\u00dfer Stuntmananzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9070,9 +8851,8 @@
         ]
     },
     {
-        "OutfitIndex": 219,
+        "outfitCategory": "Stuntman",
         "outfitName": "Blauer Stuntmananzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9109,9 +8889,8 @@
         ]
     },
     {
-        "OutfitIndex": 220,
+        "outfitCategory": "Stuntman",
         "outfitName": "Roter Stuntmananzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9148,9 +8927,8 @@
         ]
     },
     {
-        "OutfitIndex": 221,
+        "outfitCategory": "Stuntman",
         "outfitName": "Schwarzer Stuntmananzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9187,9 +8965,8 @@
         ]
     },
     {
-        "OutfitIndex": 222,
+        "outfitCategory": "Stuntman",
         "outfitName": "Rosa Stuntmananzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9226,9 +9003,8 @@
         ]
     },
     {
-        "OutfitIndex": 223,
+        "outfitCategory": "Stuntman",
         "outfitName": "Goldener Stuntmananzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9265,9 +9041,8 @@
         ]
     },
     {
-        "OutfitIndex": 224,
+        "outfitCategory": "Stuntman",
         "outfitName": "Silberner Stuntmananzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9304,9 +9079,8 @@
         ]
     },
     {
-        "OutfitIndex": 225,
+        "outfitCategory": "Stuntman",
         "outfitName": "Wei\u00dfer Jock-Cranley-Anzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9343,9 +9117,8 @@
         ]
     },
     {
-        "OutfitIndex": 226,
+        "outfitCategory": "Stuntman",
         "outfitName": "Blauer Jock-Cranley-Anzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9382,9 +9155,8 @@
         ]
     },
     {
-        "OutfitIndex": 227,
+        "outfitCategory": "Stuntman",
         "outfitName": "Roter Jock-Cranley-Anzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9421,9 +9193,8 @@
         ]
     },
     {
-        "OutfitIndex": 228,
+        "outfitCategory": "Stuntman",
         "outfitName": "Schw. Jock-Cranley-Anzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9460,9 +9231,8 @@
         ]
     },
     {
-        "OutfitIndex": 229,
+        "outfitCategory": "Stuntman",
         "outfitName": "Rosa Jock-Cranley-Anzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9499,9 +9269,8 @@
         ]
     },
     {
-        "OutfitIndex": 230,
+        "outfitCategory": "Stuntman",
         "outfitName": "Goldener Jock-Cranley-Anzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9538,9 +9307,8 @@
         ]
     },
     {
-        "OutfitIndex": 231,
+        "outfitCategory": "Stuntman",
         "outfitName": "Silberner Jock-Cranley-Anzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9577,9 +9345,8 @@
         ]
     },
     {
-        "OutfitIndex": 232,
+        "outfitCategory": "Deadline",
         "outfitName": "Deadline Gelb",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9616,9 +9383,8 @@
         ]
     },
     {
-        "OutfitIndex": 233,
+        "outfitCategory": "Deadline",
         "outfitName": "Deadline Gr\u00fcn",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9655,9 +9421,8 @@
         ]
     },
     {
-        "OutfitIndex": 234,
+        "outfitCategory": "Deadline",
         "outfitName": "Deadline Orange",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9694,9 +9459,8 @@
         ]
     },
     {
-        "OutfitIndex": 235,
+        "outfitCategory": "Deadline",
         "outfitName": "Deadline Violett",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9733,9 +9497,8 @@
         ]
     },
     {
-        "OutfitIndex": 236,
+        "outfitCategory": "Deadline",
         "outfitName": "Deadline Pink",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9772,9 +9535,8 @@
         ]
     },
     {
-        "OutfitIndex": 237,
+        "outfitCategory": "Deadline",
         "outfitName": "Deadline Rot",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9811,9 +9573,8 @@
         ]
     },
     {
-        "OutfitIndex": 238,
+        "outfitCategory": "Deadline",
         "outfitName": "Deadline Blau",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9850,9 +9611,8 @@
         ]
     },
     {
-        "OutfitIndex": 239,
+        "outfitCategory": "Deadline",
         "outfitName": "Deadline Wei\u00df",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9889,9 +9649,8 @@
         ]
     },
     {
-        "OutfitIndex": 240,
+        "outfitCategory": "Biker",
         "outfitName": "Avarus",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9943,9 +9702,8 @@
         ]
     },
     {
-        "OutfitIndex": 241,
+        "outfitCategory": "Biker",
         "outfitName": "Wolfsbane",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -9982,9 +9740,8 @@
         ]
     },
     {
-        "OutfitIndex": 242,
+        "outfitCategory": "Biker",
         "outfitName": "Rat Bike",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -10031,9 +9788,8 @@
         ]
     },
     {
-        "OutfitIndex": 243,
+        "outfitCategory": "Biker",
         "outfitName": "Chimera",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -10085,9 +9841,8 @@
         ]
     },
     {
-        "OutfitIndex": 244,
+        "outfitCategory": "Biker",
         "outfitName": "Nightblade",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -10134,9 +9889,8 @@
         ]
     },
     {
-        "OutfitIndex": 245,
+        "outfitCategory": "Biker",
         "outfitName": "Hakuchou",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -10178,9 +9932,8 @@
         ]
     },
     {
-        "OutfitIndex": 246,
+        "outfitCategory": "Biker",
         "outfitName": "Blazer",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -10217,9 +9970,8 @@
         ]
     },
     {
-        "OutfitIndex": 247,
+        "outfitCategory": "Biker",
         "outfitName": "Manchez",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -10261,9 +10013,8 @@
         ]
     },
     {
-        "OutfitIndex": 248,
+        "outfitCategory": "Biker",
         "outfitName": "Faggio",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -10294,9 +10045,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 249,
+        "outfitCategory": "Biker",
         "outfitName": "Zombie",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -10327,9 +10077,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 250,
+        "outfitCategory": "Bodysuits",
         "outfitName": "Leuchtender Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -10365,9 +10114,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 251,
+        "outfitCategory": "Bodysuits",
         "outfitName": "Elektro-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -10403,9 +10151,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 252,
+        "outfitCategory": "Bodysuits",
         "outfitName": "Neon-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -10441,9 +10188,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 253,
+        "outfitCategory": "Import\/Export",
         "outfitName": "Tarnung",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -10490,9 +10236,8 @@
         ]
     },
     {
-        "OutfitIndex": 254,
+        "outfitCategory": "Import\/Export",
         "outfitName": "Qualm",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -10534,9 +10279,8 @@
         ]
     },
     {
-        "OutfitIndex": 255,
+        "outfitCategory": "Import\/Export",
         "outfitName": "Autohaus",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -10573,9 +10317,8 @@
         ]
     },
     {
-        "OutfitIndex": 256,
+        "outfitCategory": "Import\/Export",
         "outfitName": "Bigness",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -10612,9 +10355,8 @@
         ]
     },
     {
-        "OutfitIndex": 257,
+        "outfitCategory": "Import\/Export",
         "outfitName": "New Skool",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -10656,9 +10398,8 @@
         ]
     },
     {
-        "OutfitIndex": 258,
+        "outfitCategory": "Import\/Export",
         "outfitName": "Hip-Hop",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -10700,9 +10441,8 @@
         ]
     },
     {
-        "OutfitIndex": 259,
+        "outfitCategory": "Import\/Export",
         "outfitName": "Angeber",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -10754,9 +10494,8 @@
         ]
     },
     {
-        "OutfitIndex": 260,
+        "outfitCategory": "Import\/Export",
         "outfitName": "Flickenteppich",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -10793,9 +10532,8 @@
         ]
     },
     {
-        "OutfitIndex": 261,
+        "outfitCategory": "Import\/Export",
         "outfitName": "Abgesteppt",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -10832,9 +10570,8 @@
         ]
     },
     {
-        "OutfitIndex": 262,
+        "outfitCategory": "Import\/Export",
         "outfitName": "Anorak",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -10871,9 +10608,8 @@
         ]
     },
     {
-        "OutfitIndex": 263,
+        "outfitCategory": "Gunrunning",
         "outfitName": "Revolverheld",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -10920,9 +10656,8 @@
         ]
     },
     {
-        "OutfitIndex": 264,
+        "outfitCategory": "Gunrunning",
         "outfitName": "Waffenmeister",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -10964,9 +10699,8 @@
         ]
     },
     {
-        "OutfitIndex": 265,
+        "outfitCategory": "Gunrunning",
         "outfitName": "Gro\u00dfe Nummer",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -11008,9 +10742,8 @@
         ]
     },
     {
-        "OutfitIndex": 266,
+        "outfitCategory": "Gunrunning",
         "outfitName": "Aufst\u00e4ndischer",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -11057,9 +10790,8 @@
         ]
     },
     {
-        "OutfitIndex": 267,
+        "outfitCategory": "Gunrunning",
         "outfitName": "Hohes Tier",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -11101,9 +10833,8 @@
         ]
     },
     {
-        "OutfitIndex": 268,
+        "outfitCategory": "Gunrunning",
         "outfitName": "Scharfsch\u00fctze",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -11155,9 +10886,8 @@
         ]
     },
     {
-        "OutfitIndex": 269,
+        "outfitCategory": "Gunrunning",
         "outfitName": "Waffenschmied",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -11199,9 +10929,8 @@
         ]
     },
     {
-        "OutfitIndex": 270,
+        "outfitCategory": "Gunrunning",
         "outfitName": "J\u00e4ger",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -11238,9 +10967,8 @@
         ]
     },
     {
-        "OutfitIndex": 271,
+        "outfitCategory": "Gunrunning",
         "outfitName": "Sch\u00fctze",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -11277,9 +11005,8 @@
         ]
     },
     {
-        "OutfitIndex": 272,
+        "outfitCategory": "Gunrunning",
         "outfitName": "Tarnkappe",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -11321,9 +11048,8 @@
         ]
     },
     {
-        "OutfitIndex": 273,
+        "outfitCategory": "Flugrennanz\u00fcge",
         "outfitName": "Crowex-Flugrennanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -11370,9 +11096,8 @@
         ]
     },
     {
-        "OutfitIndex": 274,
+        "outfitCategory": "Flugrennanz\u00fcge",
         "outfitName": "Flow-Flugrennanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -11419,9 +11144,8 @@
         ]
     },
     {
-        "OutfitIndex": 275,
+        "outfitCategory": "Flugrennanz\u00fcge",
         "outfitName": "GoPostal-Flugrennanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -11468,9 +11192,8 @@
         ]
     },
     {
-        "OutfitIndex": 276,
+        "outfitCategory": "Flugrennanz\u00fcge",
         "outfitName": "Junk-Flugrennanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -11517,9 +11240,8 @@
         ]
     },
     {
-        "OutfitIndex": 277,
+        "outfitCategory": "Flugrennanz\u00fcge",
         "outfitName": "Kronos-Flugrennanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -11566,9 +11288,8 @@
         ]
     },
     {
-        "OutfitIndex": 278,
+        "outfitCategory": "Flugrennanz\u00fcge",
         "outfitName": "MeTV-Flugrennanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -11615,9 +11336,8 @@
         ]
     },
     {
-        "OutfitIndex": 279,
+        "outfitCategory": "Flugrennanz\u00fcge",
         "outfitName": "Pendulus-Flugrennanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -11664,9 +11384,8 @@
         ]
     },
     {
-        "OutfitIndex": 280,
+        "outfitCategory": "Flugrennanz\u00fcge",
         "outfitName": "Redwood-Flugrennanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -11713,9 +11432,8 @@
         ]
     },
     {
-        "OutfitIndex": 281,
+        "outfitCategory": "Flugrennanz\u00fcge",
         "outfitName": "eCola-Flugrennanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -11762,9 +11480,8 @@
         ]
     },
     {
-        "OutfitIndex": 282,
+        "outfitCategory": "Flugrennanz\u00fcge",
         "outfitName": "CNT-Flugrennanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -11811,9 +11528,8 @@
         ]
     },
     {
-        "OutfitIndex": 283,
+        "outfitCategory": "Flugrennanz\u00fcge",
         "outfitName": "Jackal-Flugrennanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -11860,9 +11576,8 @@
         ]
     },
     {
-        "OutfitIndex": 284,
+        "outfitCategory": "Flugrennanz\u00fcge",
         "outfitName": "Shark-Flugrennanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -11909,9 +11624,8 @@
         ]
     },
     {
-        "OutfitIndex": 285,
+        "outfitCategory": "Flugrennanz\u00fcge",
         "outfitName": "Sprunk-Flugrennanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -11958,9 +11672,8 @@
         ]
     },
     {
-        "OutfitIndex": 286,
+        "outfitCategory": "Flugrennanz\u00fcge",
         "outfitName": "Tinkle-Flugrennanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -12007,9 +11720,8 @@
         ]
     },
     {
-        "OutfitIndex": 287,
+        "outfitCategory": "Fliegeranz\u00fcge",
         "outfitName": "Schwarzgelber Fliegeranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -12051,9 +11763,8 @@
         ]
     },
     {
-        "OutfitIndex": 288,
+        "outfitCategory": "Fliegeranz\u00fcge",
         "outfitName": "Wei\u00dfer Fliegeranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -12095,9 +11806,8 @@
         ]
     },
     {
-        "OutfitIndex": 289,
+        "outfitCategory": "Fliegeranz\u00fcge",
         "outfitName": "Grau-marinebl. Fliegeranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -12139,9 +11849,8 @@
         ]
     },
     {
-        "OutfitIndex": 290,
+        "outfitCategory": "Fliegeranz\u00fcge",
         "outfitName": "Dunkelblauer Fliegeranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -12183,9 +11892,8 @@
         ]
     },
     {
-        "OutfitIndex": 291,
+        "outfitCategory": "Fliegeranz\u00fcge",
         "outfitName": "Brauner Fliegeranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -12227,9 +11935,8 @@
         ]
     },
     {
-        "OutfitIndex": 292,
+        "outfitCategory": "Fliegeranz\u00fcge",
         "outfitName": "Weinroter Fliegeranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -12271,9 +11978,8 @@
         ]
     },
     {
-        "OutfitIndex": 293,
+        "outfitCategory": "Fliegeranz\u00fcge",
         "outfitName": "Oranger Fliegeranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -12315,9 +12021,8 @@
         ]
     },
     {
-        "OutfitIndex": 294,
+        "outfitCategory": "Fliegeranz\u00fcge",
         "outfitName": "Gelber Fliegeranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -12359,9 +12064,8 @@
         ]
     },
     {
-        "OutfitIndex": 295,
+        "outfitCategory": "Fliegeranz\u00fcge",
         "outfitName": "Blauer Fliegeranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -12403,9 +12107,8 @@
         ]
     },
     {
-        "OutfitIndex": 296,
+        "outfitCategory": "Fliegeranz\u00fcge",
         "outfitName": "Hellblauer Fliegeranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -12447,9 +12150,8 @@
         ]
     },
     {
-        "OutfitIndex": 297,
+        "outfitCategory": "Fliegeranz\u00fcge",
         "outfitName": "Braunroter Fliegeranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -12491,9 +12193,8 @@
         ]
     },
     {
-        "OutfitIndex": 298,
+        "outfitCategory": "Fliegeranz\u00fcge",
         "outfitName": "Grauer Waldtarn-Fliegeranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -12535,9 +12236,8 @@
         ]
     },
     {
-        "OutfitIndex": 299,
+        "outfitCategory": "Fliegeranz\u00fcge",
         "outfitName": "Kontrasttarn-Fliegeranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -12579,9 +12279,8 @@
         ]
     },
     {
-        "OutfitIndex": 300,
+        "outfitCategory": "Fliegeranz\u00fcge",
         "outfitName": "Heller Waldtarn-Fliegeranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -12623,9 +12322,8 @@
         ]
     },
     {
-        "OutfitIndex": 301,
+        "outfitCategory": "Fliegeranz\u00fcge",
         "outfitName": "Br. Digitaltarn-Fliegeranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -12667,9 +12365,8 @@
         ]
     },
     {
-        "OutfitIndex": 302,
+        "outfitCategory": "Fliegeranz\u00fcge",
         "outfitName": "Grau-schwarzer Fliegeranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -12711,9 +12408,8 @@
         ]
     },
     {
-        "OutfitIndex": 303,
+        "outfitCategory": "Fliegeranz\u00fcge",
         "outfitName": "Pogo-Fliegeranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -12749,9 +12445,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 304,
+        "outfitCategory": "Smuggler's Run",
         "outfitName": "Panzerfahrer",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -12793,9 +12488,8 @@
         ]
     },
     {
-        "OutfitIndex": 305,
+        "outfitCategory": "Smuggler's Run",
         "outfitName": "Aufkl\u00e4rer",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -12832,9 +12526,8 @@
         ]
     },
     {
-        "OutfitIndex": 306,
+        "outfitCategory": "Smuggler's Run",
         "outfitName": "Leibw\u00e4chter",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -12881,9 +12574,8 @@
         ]
     },
     {
-        "OutfitIndex": 307,
+        "outfitCategory": "Smuggler's Run",
         "outfitName": "Militarist",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -12925,9 +12617,8 @@
         ]
     },
     {
-        "OutfitIndex": 308,
+        "outfitCategory": "Smuggler's Run",
         "outfitName": "Ass",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -12963,9 +12654,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 309,
+        "outfitCategory": "Smuggler's Run",
         "outfitName": "Eingeh\u00fcllt",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -13001,9 +12691,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 310,
+        "outfitCategory": "Smuggler's Run",
         "outfitName": "Ganove",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -13060,9 +12749,8 @@
         ]
     },
     {
-        "OutfitIndex": 311,
+        "outfitCategory": "Smuggler's Run",
         "outfitName": "Zuh\u00e4lter",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -13099,9 +12787,8 @@
         ]
     },
     {
-        "OutfitIndex": 312,
+        "outfitCategory": "Smuggler's Run",
         "outfitName": "Red Mist",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -13153,9 +12840,8 @@
         ]
     },
     {
-        "OutfitIndex": 313,
+        "outfitCategory": "Smuggler's Run",
         "outfitName": "Locker",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -13202,9 +12888,8 @@
         ]
     },
     {
-        "OutfitIndex": 314,
+        "outfitCategory": "Taucher",
         "outfitName": "Schwarzer Taucheranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -13246,9 +12931,8 @@
         ]
     },
     {
-        "OutfitIndex": 315,
+        "outfitCategory": "Taucher",
         "outfitName": "Wei\u00dfer Taucheranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -13290,9 +12974,8 @@
         ]
     },
     {
-        "OutfitIndex": 316,
+        "outfitCategory": "Taucher",
         "outfitName": "Blauer Taucheranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -13334,9 +13017,8 @@
         ]
     },
     {
-        "OutfitIndex": 317,
+        "outfitCategory": "Taucher",
         "outfitName": "Roter Taucheranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -13378,9 +13060,8 @@
         ]
     },
     {
-        "OutfitIndex": 318,
+        "outfitCategory": "Taucher",
         "outfitName": "Zyanfarbener Taucheranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -13422,9 +13103,8 @@
         ]
     },
     {
-        "OutfitIndex": 319,
+        "outfitCategory": "Taucher",
         "outfitName": "Limettengr\u00fcner Taucheranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -13466,9 +13146,8 @@
         ]
     },
     {
-        "OutfitIndex": 320,
+        "outfitCategory": "Taucher",
         "outfitName": "Oranger Taucheranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -13510,9 +13189,8 @@
         ]
     },
     {
-        "OutfitIndex": 321,
+        "outfitCategory": "Taucher",
         "outfitName": "Gelber Taucheranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -13554,9 +13232,8 @@
         ]
     },
     {
-        "OutfitIndex": 322,
+        "outfitCategory": "Taucher",
         "outfitName": "Grau-oranger Taucheranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -13598,9 +13275,8 @@
         ]
     },
     {
-        "OutfitIndex": 323,
+        "outfitCategory": "Taucher",
         "outfitName": "Rosa Taucheranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -13642,9 +13318,8 @@
         ]
     },
     {
-        "OutfitIndex": 324,
+        "outfitCategory": "Taucher",
         "outfitName": "Hellt\u00fcrkiser Taucheranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -13686,9 +13361,8 @@
         ]
     },
     {
-        "OutfitIndex": 325,
+        "outfitCategory": "Taucher",
         "outfitName": "Gr\u00fcner Taucheranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -13730,9 +13404,8 @@
         ]
     },
     {
-        "OutfitIndex": 326,
+        "outfitCategory": "Taucher",
         "outfitName": "Grelloranger Taucheranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -13774,9 +13447,8 @@
         ]
     },
     {
-        "OutfitIndex": 327,
+        "outfitCategory": "Taucher",
         "outfitName": "Grauer Taucheranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -13818,9 +13490,8 @@
         ]
     },
     {
-        "OutfitIndex": 328,
+        "outfitCategory": "Taucher",
         "outfitName": "Wei\u00df-oranger Taucheranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -13862,9 +13533,8 @@
         ]
     },
     {
-        "OutfitIndex": 329,
+        "outfitCategory": "Taucher",
         "outfitName": "Himmelblauer Taucheranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -13906,9 +13576,8 @@
         ]
     },
     {
-        "OutfitIndex": 330,
+        "outfitCategory": "Taucher",
         "outfitName": "Getigerter Taucheranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -13950,9 +13619,8 @@
         ]
     },
     {
-        "OutfitIndex": 331,
+        "outfitCategory": "Taucher",
         "outfitName": "Grauer Tarn-Taucheranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -13994,9 +13662,8 @@
         ]
     },
     {
-        "OutfitIndex": 332,
+        "outfitCategory": "Taucher",
         "outfitName": "Splitter-Taucheranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -14038,9 +13705,8 @@
         ]
     },
     {
-        "OutfitIndex": 333,
+        "outfitCategory": "Taucher",
         "outfitName": "Grellroter Taucheranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -14082,9 +13748,8 @@
         ]
     },
     {
-        "OutfitIndex": 334,
+        "outfitCategory": "Taucher",
         "outfitName": "T\u00fcrkiser Taucheranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -14126,9 +13791,8 @@
         ]
     },
     {
-        "OutfitIndex": 335,
+        "outfitCategory": "Taucher",
         "outfitName": "Abstrakter Taucheranzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -14170,9 +13834,8 @@
         ]
     },
     {
-        "OutfitIndex": 336,
+        "outfitCategory": "Drahtmodell-Bodysuits",
         "outfitName": "Gr\u00fcner Drahtmodell-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -14208,9 +13871,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 337,
+        "outfitCategory": "Drahtmodell-Bodysuits",
         "outfitName": "Oranger Drahtmodell-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -14246,9 +13908,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 338,
+        "outfitCategory": "Drahtmodell-Bodysuits",
         "outfitName": "Blauer Drahtmodell-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -14284,9 +13945,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 339,
+        "outfitCategory": "Drahtmodell-Bodysuits",
         "outfitName": "Pinkfarb. Drahtmodell-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -14322,9 +13982,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 340,
+        "outfitCategory": "Drahtmodell-Bodysuits",
         "outfitName": "Gelber Drahtmodell-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -14360,9 +14019,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 341,
+        "outfitCategory": "Weihnachten",
         "outfitName": "Dunkler Rentier-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -14398,9 +14056,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 342,
+        "outfitCategory": "Weihnachten",
         "outfitName": "Heller Rentier-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -14436,9 +14093,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 343,
+        "outfitCategory": "Weihnachten",
         "outfitName": "Heller Lebkuchen-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -14474,9 +14130,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 344,
+        "outfitCategory": "Weihnachten",
         "outfitName": "Dunkler Lebkuchen-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -14512,9 +14167,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 345,
+        "outfitCategory": "Weihnachten",
         "outfitName": "Weihnachtsmann-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -14550,9 +14204,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 346,
+        "outfitCategory": "Weihnachten",
         "outfitName": "Gr\u00fcner Elfen-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -14588,9 +14241,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 347,
+        "outfitCategory": "Weihnachten",
         "outfitName": "Roter Elfen-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -14626,9 +14278,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 348,
+        "outfitCategory": "Catsuits",
         "outfitName": "Schwarzer Catsuit",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -14659,9 +14310,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 349,
+        "outfitCategory": "Catsuits",
         "outfitName": "Grauer Catsuit",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -14692,9 +14342,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 350,
+        "outfitCategory": "Catsuits",
         "outfitName": "Brauner Catsuit",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -14725,9 +14374,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 351,
+        "outfitCategory": "Catsuits",
         "outfitName": "Hellbrauner Catsuit",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -14758,9 +14406,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 352,
+        "outfitCategory": "Catsuits",
         "outfitName": "Blutroter Catsuit",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -14791,9 +14438,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 353,
+        "outfitCategory": "Catsuits",
         "outfitName": "Gelber Catsuit",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -14824,9 +14470,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 354,
+        "outfitCategory": "Catsuits",
         "outfitName": "Abgenutzter brauner Catsuit",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -14857,9 +14502,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 355,
+        "outfitCategory": "Catsuits",
         "outfitName": "Abgenutzter grauer Catsuit",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -14890,9 +14534,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 356,
+        "outfitCategory": "Catsuits",
         "outfitName": "Grauer Tarn-Catsuit",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -14923,9 +14566,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 357,
+        "outfitCategory": "Catsuits",
         "outfitName": "Heller Waldtarn-Catsuit",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -14956,9 +14598,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 358,
+        "outfitCategory": "Catsuits",
         "outfitName": "Splitter-Catsuit",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -14989,9 +14630,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 359,
+        "outfitCategory": "Catsuits",
         "outfitName": "Pflasterstein-Catsuit",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15022,9 +14662,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 360,
+        "outfitCategory": "Catsuits",
         "outfitName": "Crosshatch-Catsuit",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15055,9 +14694,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 361,
+        "outfitCategory": "Catsuits",
         "outfitName": "Schwarzroter Catsuit",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15088,9 +14726,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 362,
+        "outfitCategory": "Catsuits",
         "outfitName": "Gemusterter Catsuit",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15121,9 +14758,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 363,
+        "outfitCategory": "Catsuits",
         "outfitName": "Abstrakt gemusterter Catsuit",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15154,9 +14790,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 364,
+        "outfitCategory": "Catsuits",
         "outfitName": "Tiger-Catsuit",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15187,9 +14822,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 365,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Hellbrauner Gorka-Kampfanz.",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15220,9 +14854,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 366,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Anthrazitgr. Gorka-Kampfanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15253,9 +14886,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 367,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Aschgrauer Gorka-Kampfanz.",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15286,9 +14918,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 368,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Grauer Gorka-Kampfanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15319,9 +14950,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 369,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Mokkabr. Gorka-Kampfanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15352,9 +14982,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 370,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Brauner Gorka-Kampfanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15385,9 +15014,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 371,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Rostbr. Gorka-Kampfanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15418,9 +15046,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 372,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Pinselstrich-Gorka-Kampfanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15451,9 +15078,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 373,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Blauer Tarn-Gorka-Kampfanz.",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15484,9 +15110,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 374,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Zyanf. Tarn-Gorka-Kampfanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15517,9 +15142,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 375,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Rosa Tarn-Gorka-Kampfanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15550,9 +15174,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 376,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Wei\u00dfer Tarn-Gorka-Kampfanz.",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15583,9 +15206,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 377,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Blau-brauner Gorka-Kampfanz.",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15616,9 +15238,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 378,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Dunkelbl.-br. Gorka-Kampfanz.",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15649,9 +15270,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 379,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Grau-orang. Gorka-Kampfanz.",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15682,9 +15302,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 380,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Hellblauer Gorka-Kampfanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15715,9 +15334,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 381,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Oranger Gorka-Kampfanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15748,9 +15366,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 382,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Roter Gorka-Kampfanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15781,9 +15398,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 383,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Moosgr. Gorka-Kampfanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15814,9 +15430,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 384,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Dunkelbl. Gorka-Kampfanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15847,9 +15462,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 385,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Herbsttarn-Gorka-Kampfanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15880,9 +15494,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 386,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Splitter-Gorka-Kampfanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15913,9 +15526,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 387,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Rot-wei\u00df. Gorka-Kampfanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15946,9 +15558,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 388,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Schw.-roter Gorka-Kampfanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -15979,9 +15590,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 389,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Schwarz-bl. Gorka-Kampfanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -16012,9 +15622,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 390,
+        "outfitCategory": "Gorka-Kampfanz\u00fcge",
         "outfitName": "Schokobr. Gorka-Kampfanzug",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -16045,9 +15654,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 391,
+        "outfitCategory": "Klassiche Rennanz\u00fcge",
         "outfitName": "Klassischer blauer Rennanzug",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16078,9 +15686,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 392,
+        "outfitCategory": "Klassiche Rennanz\u00fcge",
         "outfitName": "Klassischer roter Rennanzug",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16111,9 +15718,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 393,
+        "outfitCategory": "Klassiche Rennanz\u00fcge",
         "outfitName": "Klassischer wei\u00dfer Rennanzug",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16144,9 +15750,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 394,
+        "outfitCategory": "Klassiche Rennanz\u00fcge",
         "outfitName": "Klassischer gr\u00fcner Rennanzug",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16177,9 +15782,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 395,
+        "outfitCategory": "Klassiche Rennanz\u00fcge",
         "outfitName": "Klassischer oranger Rennanz.",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16210,9 +15814,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 396,
+        "outfitCategory": "Klassiche Rennanz\u00fcge",
         "outfitName": "Klassischer violetter Rennanz.",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16243,9 +15846,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 397,
+        "outfitCategory": "Klassiche Rennanz\u00fcge",
         "outfitName": "Klassischer pinker Rennanzug",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16276,9 +15878,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 398,
+        "outfitCategory": "Weihnachten",
         "outfitName": "Gelber Rentier-Lichter-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16314,9 +15915,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 399,
+        "outfitCategory": "Weihnachten",
         "outfitName": "Festtagslichter-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16352,9 +15952,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 400,
+        "outfitCategory": "Weihnachten",
         "outfitName": "Gr\u00fcner Rentier-Lichter-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16390,9 +15989,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 401,
+        "outfitCategory": "Weihnachten",
         "outfitName": "Neon-Festtagslichter-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16428,9 +16026,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 402,
+        "outfitCategory": "Arena War - Bodysuits",
         "outfitName": "Gelber Roboter-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16466,9 +16063,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 403,
+        "outfitCategory": "Arena War - Bodysuits",
         "outfitName": "Blauer Roboter-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16504,9 +16100,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 404,
+        "outfitCategory": "Arena War - Bodysuits",
         "outfitName": "Blauer Helden-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16542,9 +16137,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 405,
+        "outfitCategory": "Arena War - Bodysuits",
         "outfitName": "Roter Helden-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16580,9 +16174,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 406,
+        "outfitCategory": "Arena War - Bodysuits",
         "outfitName": "Gr\u00fcne-Formen-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16618,9 +16211,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 407,
+        "outfitCategory": "Arena War - Bodysuits",
         "outfitName": "Violette-Formen-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16656,9 +16248,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 408,
+        "outfitCategory": "Arena War - Bodysuits",
         "outfitName": "Blaupinker Konturen-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16694,9 +16285,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 409,
+        "outfitCategory": "Arena War - Bodysuits",
         "outfitName": "Rotgr\u00fcner Konturen-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16732,9 +16322,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 410,
+        "outfitCategory": "Arena War - Bodysuits",
         "outfitName": "Gr\u00fcner Marsianer-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16770,9 +16359,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 411,
+        "outfitCategory": "Arena War - Bodysuits",
         "outfitName": "Violetter Marsianer-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16808,9 +16396,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 412,
+        "outfitCategory": "Arena War - Bodysuits",
         "outfitName": "Blauer Reptilien-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16846,9 +16433,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 413,
+        "outfitCategory": "Arena War - Bodysuits",
         "outfitName": "Roter Reptilien-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16884,9 +16470,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 414,
+        "outfitCategory": "Arena War - Bodysuits",
         "outfitName": "Blauer Galaxie-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16922,9 +16507,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 415,
+        "outfitCategory": "Arena War - Bodysuits",
         "outfitName": "Pinker Galaxie-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16960,9 +16544,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 416,
+        "outfitCategory": "Arena War - Bodysuits",
         "outfitName": "Rotblauer Nebula-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -16998,9 +16581,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 417,
+        "outfitCategory": "Arena War - Bodysuits",
         "outfitName": "Blaugr\u00fcner Nebula-Bodysuit",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17036,9 +16618,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 418,
+        "outfitCategory": "Arena War - Weltraumkreaturen",
         "outfitName": "Gr\u00fcngelbe Weltraumkreatur",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17074,9 +16655,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 419,
+        "outfitCategory": "Arena War - Weltraumkreaturen",
         "outfitName": "Orange Weltraumkreatur",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17112,9 +16692,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 420,
+        "outfitCategory": "Arena War - Weltraumkreaturen",
         "outfitName": "Fleischige Weltraumkreatur",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17150,9 +16729,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 421,
+        "outfitCategory": "Arena War - Weltraumkreaturen",
         "outfitName": "Hellblaue Weltraumkreatur",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17188,9 +16766,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 422,
+        "outfitCategory": "Arena War - Weltraumkreaturen",
         "outfitName": "Violette Weltraumkreatur",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17226,9 +16803,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 423,
+        "outfitCategory": "Arena War - Weltraumkreaturen",
         "outfitName": "Gr\u00fcne Weltraumkreatur",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17264,9 +16840,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 424,
+        "outfitCategory": "Arena War - Weltraumkreaturen",
         "outfitName": "Blaue Weltraumkreatur",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17302,9 +16877,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 425,
+        "outfitCategory": "Arena War - Weltraumkreaturen",
         "outfitName": "Blaugelbe Weltraumkreatur",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17340,9 +16914,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 426,
+        "outfitCategory": "Arena War - Weltraumkreaturen",
         "outfitName": "Rote Weltraumkreatur",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17378,9 +16951,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 427,
+        "outfitCategory": "Arena War - Weltraumkreaturen",
         "outfitName": "Pinkblaue Weltraumkreatur",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17416,9 +16988,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 428,
+        "outfitCategory": "Arena War - Weltraumkreaturen",
         "outfitName": "Pinkgelbe Weltraumkreatur",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17454,9 +17025,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 429,
+        "outfitCategory": "Arena War - Weltraumkreaturen",
         "outfitName": "Dunkelgr\u00fcne Weltraumkreatur",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17492,9 +17062,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 430,
+        "outfitCategory": "Arena War - Weltraumzyklopen",
         "outfitName": "Gr\u00fcngelber Weltraumzyklop",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17530,9 +17099,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 431,
+        "outfitCategory": "Arena War - Weltraumzyklopen",
         "outfitName": "Oranger Weltraumzyklop",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17568,9 +17136,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 432,
+        "outfitCategory": "Arena War - Weltraumzyklopen",
         "outfitName": "Fleischiger Weltraumzyklop",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17606,9 +17173,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 433,
+        "outfitCategory": "Arena War - Weltraumzyklopen",
         "outfitName": "Hellblauer Weltraumzyklop",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17644,9 +17210,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 434,
+        "outfitCategory": "Arena War - Weltraumzyklopen",
         "outfitName": "Violetter Weltraumzyklop",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17682,9 +17247,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 435,
+        "outfitCategory": "Arena War - Weltraumzyklopen",
         "outfitName": "Gr\u00fcner Weltraumzyklop",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17720,9 +17284,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 436,
+        "outfitCategory": "Arena War - Weltraumzyklopen",
         "outfitName": "Blauer Weltraumzyklop",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17758,9 +17321,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 437,
+        "outfitCategory": "Arena War - Weltraumzyklopen",
         "outfitName": "Blaugelber Weltraumzyklop",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17796,9 +17358,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 438,
+        "outfitCategory": "Arena War - Weltraumzyklopen",
         "outfitName": "Roter Weltraumzyklop",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17834,9 +17395,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 439,
+        "outfitCategory": "Arena War - Weltraumzyklopen",
         "outfitName": "Pinkblauer Weltraumzyklop",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17872,9 +17432,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 440,
+        "outfitCategory": "Arena War - Weltraumzyklopen",
         "outfitName": "Pinkgelber Weltraumzyklop",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17910,9 +17469,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 441,
+        "outfitCategory": "Arena War - Weltraumzyklopen",
         "outfitName": "Dunkelgr\u00fcner Weltraumzyklop",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17948,9 +17506,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 442,
+        "outfitCategory": "Arena War - Weltraumhorror",
         "outfitName": "Gr\u00fcngelber Weltraumhorror",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -17986,9 +17543,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 443,
+        "outfitCategory": "Arena War - Weltraumhorror",
         "outfitName": "Oranger Weltraumhorror",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18024,9 +17580,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 444,
+        "outfitCategory": "Arena War - Weltraumhorror",
         "outfitName": "Fleischiger Weltraumhorror",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18062,9 +17617,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 445,
+        "outfitCategory": "Arena War - Weltraumhorror",
         "outfitName": "Hellblauer Weltraumhorror",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18100,9 +17654,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 446,
+        "outfitCategory": "Arena War - Weltraumhorror",
         "outfitName": "Violetter Weltraumhorror",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18138,9 +17691,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 447,
+        "outfitCategory": "Arena War - Weltraumhorror",
         "outfitName": "Gr\u00fcner Weltraumhorror",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18176,9 +17728,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 448,
+        "outfitCategory": "Arena War - Weltraumhorror",
         "outfitName": "Blauer Weltraumhorror",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18214,9 +17765,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 449,
+        "outfitCategory": "Arena War - Weltraumhorror",
         "outfitName": "Blaugelber Weltraumhorror",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18252,9 +17802,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 450,
+        "outfitCategory": "Arena War - Weltraumhorror",
         "outfitName": "Roter Weltraumhorror",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18290,9 +17839,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 451,
+        "outfitCategory": "Arena War - Weltraumhorror",
         "outfitName": "Pinkblauer Weltraumhorror",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18328,9 +17876,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 452,
+        "outfitCategory": "Arena War - Weltraumhorror",
         "outfitName": "Pinkblauer Weltraumhorror",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18366,9 +17913,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 453,
+        "outfitCategory": "Arena War - Weltraumhorror",
         "outfitName": "Dunkelgr\u00fcner Weltraumhorror",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18404,9 +17950,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 454,
+        "outfitCategory": "Arena War - Retro-Raumanz\u00fcge",
         "outfitName": "Roter Retro-Raumanzug",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18443,9 +17988,8 @@
         ]
     },
     {
-        "OutfitIndex": 455,
+        "outfitCategory": "Arena War - Retro-Raumanz\u00fcge",
         "outfitName": "Gelber Retro-Raumanzug",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18482,9 +18026,8 @@
         ]
     },
     {
-        "OutfitIndex": 456,
+        "outfitCategory": "Arena War - Retro-Raumanz\u00fcge",
         "outfitName": "T\u00fcrkiser Retro-Raumanzug",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18521,9 +18064,8 @@
         ]
     },
     {
-        "OutfitIndex": 457,
+        "outfitCategory": "Arena War - Retro-Raumanz\u00fcge",
         "outfitName": "Brauner Retro-Raumanzug",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18560,9 +18102,8 @@
         ]
     },
     {
-        "OutfitIndex": 458,
+        "outfitCategory": "Arena War - Retro-Raumanz\u00fcge",
         "outfitName": "Crowex-Retro-Raumanzug",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18599,9 +18140,8 @@
         ]
     },
     {
-        "OutfitIndex": 459,
+        "outfitCategory": "Arena War - Retro-Raumanz\u00fcge",
         "outfitName": "Blauer Retro-Raumanzug",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18638,9 +18178,8 @@
         ]
     },
     {
-        "OutfitIndex": 460,
+        "outfitCategory": "Arena War - Retro-Raumanz\u00fcge",
         "outfitName": "Wei\u00dfblauer Retro-Raumanzug",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18677,9 +18216,8 @@
         ]
     },
     {
-        "OutfitIndex": 461,
+        "outfitCategory": "Arena War - Retro-Raumanz\u00fcge",
         "outfitName": "Schwarzoranger Retro-R.",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18716,9 +18254,8 @@
         ]
     },
     {
-        "OutfitIndex": 462,
+        "outfitCategory": "Arena War - Retro-Raumanz\u00fcge",
         "outfitName": "Rotoranger Retro-Raumanzug",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18755,9 +18292,8 @@
         ]
     },
     {
-        "OutfitIndex": 463,
+        "outfitCategory": "Arena War - Retro-Raumanz\u00fcge",
         "outfitName": "Gr\u00fcner Retro-Raumanzug",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18794,9 +18330,8 @@
         ]
     },
     {
-        "OutfitIndex": 464,
+        "outfitCategory": "Arena War - Retro-Raumanz\u00fcge",
         "outfitName": "Sessanta-Nove-Retro-R.",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18833,9 +18368,8 @@
         ]
     },
     {
-        "OutfitIndex": 465,
+        "outfitCategory": "Arena War - Retro-Raumanz\u00fcge",
         "outfitName": "Santo-Capra-Retro-R.",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18872,9 +18406,8 @@
         ]
     },
     {
-        "OutfitIndex": 466,
+        "outfitCategory": "Arena War - Retro-Raumanz\u00fcge",
         "outfitName": "Schwarzer Retro-Raumanzug",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18911,9 +18444,8 @@
         ]
     },
     {
-        "OutfitIndex": 467,
+        "outfitCategory": "Arena War - Retro-Raumanz\u00fcge",
         "outfitName": "Grauer Retro-Raumanzug",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18950,9 +18482,8 @@
         ]
     },
     {
-        "OutfitIndex": 468,
+        "outfitCategory": "Arena War - Astronauten",
         "outfitName": "Wei\u00dfer Astronaut",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -18989,9 +18520,8 @@
         ]
     },
     {
-        "OutfitIndex": 469,
+        "outfitCategory": "Arena War - Astronauten",
         "outfitName": "Hellbrauner Astronaut",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -19028,9 +18558,8 @@
         ]
     },
     {
-        "OutfitIndex": 470,
+        "outfitCategory": "Arena War - Astronauten",
         "outfitName": "Gr\u00fcner Astronaut",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -19067,9 +18596,8 @@
         ]
     },
     {
-        "OutfitIndex": 471,
+        "outfitCategory": "Arena War - Astronauten",
         "outfitName": "Brauner Astronaut",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -19106,9 +18634,8 @@
         ]
     },
     {
-        "OutfitIndex": 472,
+        "outfitCategory": "Arena War - Astronauten",
         "outfitName": "Oranger Astronaut",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -19145,9 +18672,8 @@
         ]
     },
     {
-        "OutfitIndex": 473,
+        "outfitCategory": "Arena War - Astronauten",
         "outfitName": "Gelber Astronaut",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -19184,9 +18710,8 @@
         ]
     },
     {
-        "OutfitIndex": 474,
+        "outfitCategory": "Arena War - Astronauten",
         "outfitName": "Grauer Astronaut",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -19223,9 +18748,8 @@
         ]
     },
     {
-        "OutfitIndex": 475,
+        "outfitCategory": "Arena War - Astronauten",
         "outfitName": "Aschgrauer Astronaut",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -19262,9 +18786,8 @@
         ]
     },
     {
-        "OutfitIndex": 476,
+        "outfitCategory": "Arena War - Weltraumreisende",
         "outfitName": "Wei\u00dfer Weltraumreisender",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -19300,9 +18823,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 477,
+        "outfitCategory": "Arena War - Weltraumreisende",
         "outfitName": "Schwarzer Weltraumreisender",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -19338,9 +18860,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 478,
+        "outfitCategory": "Arena War - Weltraumreisende",
         "outfitName": "Roter Weltraumreisender",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -19376,9 +18897,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 479,
+        "outfitCategory": "Arena War - Weltraumreisende",
         "outfitName": "Gelber Weltraumreisender",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -19414,9 +18934,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 480,
+        "outfitCategory": "Arena War - Weltraumreisende",
         "outfitName": "Marineblauer Weltraumreisend.",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -19452,9 +18971,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 481,
+        "outfitCategory": "Arena War - Weltraumreisende",
         "outfitName": "Gr\u00fcner Weltraumreisender",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -19490,9 +19008,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 482,
+        "outfitCategory": "Arena War - Weltraumreisende",
         "outfitName": "Grauer Weltraumreisender",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -19528,9 +19045,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 483,
+        "outfitCategory": "Arena War - Weltraumreisende",
         "outfitName": "Wei\u00dfgelber Weltraumreisend.",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -19566,9 +19082,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 484,
+        "outfitCategory": "Arena War - Weltraumreisende",
         "outfitName": "Wei\u00dfgr\u00fcner Weltraumreisend.",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -19604,9 +19119,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 485,
+        "outfitCategory": "Arena War - Weltraumreisende",
         "outfitName": "Pinker Weltraumreisender",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -19642,9 +19156,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 486,
+        "outfitCategory": "The Cayo Perico Heist",
         "outfitName": "Der Neue",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -19680,9 +19193,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 487,
+        "outfitCategory": "Arena War - Charaktere",
         "outfitName": "Pogo der Weltraumaffe",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -19724,9 +19236,8 @@
         ]
     },
     {
-        "OutfitIndex": 488,
+        "outfitCategory": "Arena War - Charaktere",
         "outfitName": "Republican Space Ranger",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 3,
@@ -19763,9 +19274,8 @@
         ]
     },
     {
-        "OutfitIndex": 489,
+        "outfitCategory": "Religion",
         "outfitName": "Epsilon-Roben",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 6,
@@ -19801,9 +19311,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 490,
+        "outfitCategory": "Religion",
         "outfitName": "Ohnm\u00e4chtiger Zorn",
-        "outfitCost": 0,
         "components": [
             {
                 "ComponentID": 1,
@@ -19839,9 +19348,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 491,
+        "outfitCategory": "Religion",
         "outfitName": "Der Spieler",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -19872,9 +19380,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 492,
+        "outfitCategory": "Diamond-Casino-Heist - Ordnungsgem\u00e4\u00df",
         "outfitName": "Achtsam",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -19910,9 +19417,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 493,
+        "outfitCategory": "Diamond-Casino-Heist - Ordnungsgem\u00e4\u00df",
         "outfitName": "Zaghaft",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -19948,9 +19454,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 494,
+        "outfitCategory": "Diamond-Casino-Heist - Ordnungsgem\u00e4\u00df",
         "outfitName": "Bedacht",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -19992,9 +19497,8 @@
         ]
     },
     {
-        "OutfitIndex": 495,
+        "outfitCategory": "Diamond-Casino-Heist - Ordnungsgem\u00e4\u00df",
         "outfitName": "Rigoros",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20030,9 +19534,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 496,
+        "outfitCategory": "Diamond-Casino-Heist - Ordnungsgem\u00e4\u00df",
         "outfitName": "Korrekt",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20073,9 +19576,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 497,
+        "outfitCategory": "Diamond-Casino-Heist - Ordnungsgem\u00e4\u00df",
         "outfitName": "Speziell",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20111,9 +19613,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 498,
+        "outfitCategory": "Diamond-Casino-Heist - Hochwertig",
         "outfitName": "Protzig",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20149,9 +19650,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 499,
+        "outfitCategory": "Diamond-Casino-Heist - Hochwertig",
         "outfitName": "Stilvoll",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20187,9 +19687,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 500,
+        "outfitCategory": "Diamond-Casino-Heist - Hochwertig",
         "outfitName": "Adrett",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20225,9 +19724,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 501,
+        "outfitCategory": "Diamond-Casino-Heist - Hochwertig",
         "outfitName": "Gepflegt",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20263,9 +19761,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 502,
+        "outfitCategory": "Diamond-Casino-Heist - Hochwertig",
         "outfitName": "Schneidig",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20301,9 +19798,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 503,
+        "outfitCategory": "Diamond-Casino-Heist - Hochwertig",
         "outfitName": "Modisch",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20339,9 +19835,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 504,
+        "outfitCategory": "Diamond-Casino-Heist - Abendlich",
         "outfitName": "Schick",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20377,9 +19872,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 505,
+        "outfitCategory": "Diamond-Casino-Heist - Abendlich",
         "outfitName": "Formell",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20410,9 +19904,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 506,
+        "outfitCategory": "Diamond-Casino-Heist - Abendlich",
         "outfitName": "Pr\u00fcde",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20443,9 +19936,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 507,
+        "outfitCategory": "Diamond-Casino-Heist - Abendlich",
         "outfitName": "Steif",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20476,9 +19968,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 508,
+        "outfitCategory": "Diamond-Casino-Heist - Abendlich",
         "outfitName": "Gesittet",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20509,9 +20000,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 509,
+        "outfitCategory": "Diamond-Casino-Heist - Abendlich",
         "outfitName": "W\u00fcrdevoll",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20542,9 +20032,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 510,
+        "outfitCategory": "Diamond-Casino-Heist - Verst\u00e4rkt: Kampf, gepolstert",
         "outfitName": "Wald",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20575,9 +20064,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 511,
+        "outfitCategory": "Diamond-Casino-Heist - Verst\u00e4rkt: Kampf, gepolstert",
         "outfitName": "W\u00fcste",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20608,9 +20096,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 512,
+        "outfitCategory": "Diamond-Casino-Heist - Verst\u00e4rkt: Kampf, gepolstert",
         "outfitName": "Schnee",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20641,9 +20128,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 513,
+        "outfitCategory": "Diamond-Casino-Heist - Verst\u00e4rkt: Kampf, gepolstert",
         "outfitName": "Wiese",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20674,9 +20160,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 514,
+        "outfitCategory": "Diamond-Casino-Heist - Verst\u00e4rkt: Kampf, gepolstert",
         "outfitName": "Gletscher",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20707,9 +20192,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 515,
+        "outfitCategory": "Diamond-Casino-Heist - Verst\u00e4rkt: Kampf, gepolstert",
         "outfitName": "Moor",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20740,9 +20224,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 516,
+        "outfitCategory": "Diamond-Casino-Heist - Verst\u00e4rkt: Kampf, sperrig",
         "outfitName": "Abgeschirmt",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20773,9 +20256,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 517,
+        "outfitCategory": "Diamond-Casino-Heist - Verst\u00e4rkt: Kampf, sperrig",
         "outfitName": "Gesch\u00fctzt",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20806,9 +20288,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 518,
+        "outfitCategory": "Diamond-Casino-Heist - Verst\u00e4rkt: Kampf, sperrig",
         "outfitName": "Verst\u00e4rkt",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20839,9 +20320,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 519,
+        "outfitCategory": "Diamond-Casino-Heist - Verst\u00e4rkt: Kampf, sperrig",
         "outfitName": "Abwehrend",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20872,9 +20352,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 520,
+        "outfitCategory": "Diamond-Casino-Heist - Verst\u00e4rkt: Kampf, sperrig",
         "outfitName": "Abgesichert",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20905,9 +20384,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 521,
+        "outfitCategory": "Diamond-Casino-Heist - Verst\u00e4rkt: Kampf, sperrig",
         "outfitName": "Unterst\u00fctzt",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20938,9 +20416,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 522,
+        "outfitCategory": "Diamond-Casino-Heist - Verst\u00e4rkt: Kampf, kompakt",
         "outfitName": "Landstreicher",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -20971,9 +20448,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 523,
+        "outfitCategory": "Diamond-Casino-Heist - Verst\u00e4rkt: Kampf, kompakt",
         "outfitName": "Navigator",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -21004,9 +20480,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 524,
+        "outfitCategory": "Diamond-Casino-Heist - Verst\u00e4rkt: Kampf, kompakt",
         "outfitName": "Wanderer",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -21037,9 +20512,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 525,
+        "outfitCategory": "Diamond-Casino-Heist - Verst\u00e4rkt: Kampf, kompakt",
         "outfitName": "Nomade",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -21070,9 +20544,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 526,
+        "outfitCategory": "Diamond-Casino-Heist - Verst\u00e4rkt: Kampf, kompakt",
         "outfitName": "Vermesser",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -21103,9 +20576,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 527,
+        "outfitCategory": "Diamond-Casino-Heist - Verst\u00e4rkt: Kampf, kompakt",
         "outfitName": "Vagabund",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -21136,9 +20608,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 528,
+        "outfitCategory": "Diamond-Casino-Heist - Einbruch: aufger\u00fcstete Technik",
         "outfitName": "Verschw\u00f6rer",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 1,
@@ -21185,9 +20656,8 @@
         ]
     },
     {
-        "OutfitIndex": 529,
+        "outfitCategory": "Diamond-Casino-Heist - Einbruch: aufger\u00fcstete Technik",
         "outfitName": "Komplize",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 1,
@@ -21234,9 +20704,8 @@
         ]
     },
     {
-        "OutfitIndex": 530,
+        "outfitCategory": "Diamond-Casino-Heist - Einbruch: aufger\u00fcstete Technik",
         "outfitName": "Unruhestifter",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 1,
@@ -21283,9 +20752,8 @@
         ]
     },
     {
-        "OutfitIndex": 531,
+        "outfitCategory": "Diamond-Casino-Heist - Einbruch: aufger\u00fcstete Technik",
         "outfitName": "Genosse",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 1,
@@ -21332,9 +20800,8 @@
         ]
     },
     {
-        "OutfitIndex": 532,
+        "outfitCategory": "Diamond-Casino-Heist - Einbruch: aufger\u00fcstete Technik",
         "outfitName": "Intrigant",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 1,
@@ -21381,9 +20848,8 @@
         ]
     },
     {
-        "OutfitIndex": 533,
+        "outfitCategory": "Diamond-Casino-Heist - Einbruch: aufger\u00fcstete Technik",
         "outfitName": "Eindringling",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 1,
@@ -21430,9 +20896,8 @@
         ]
     },
     {
-        "OutfitIndex": 534,
+        "outfitCategory": "Diamond-Casino-Heist - Einbruch: fortgeschrittene Technik",
         "outfitName": "Sp\u00e4her",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 1,
@@ -21468,9 +20933,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 535,
+        "outfitCategory": "Diamond-Casino-Heist - Einbruch: fortgeschrittene Technik",
         "outfitName": "Maulwurf",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 1,
@@ -21506,9 +20970,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 536,
+        "outfitCategory": "Diamond-Casino-Heist - Einbruch: fortgeschrittene Technik",
         "outfitName": "Kundschafter",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 1,
@@ -21544,9 +21007,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 537,
+        "outfitCategory": "Diamond-Casino-Heist - Einbruch: fortgeschrittene Technik",
         "outfitName": "Wegbereiter",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 1,
@@ -21582,9 +21044,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 538,
+        "outfitCategory": "Diamond-Casino-Heist - Einbruch: fortgeschrittene Technik",
         "outfitName": "Bombenleger",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 1,
@@ -21620,9 +21081,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 539,
+        "outfitCategory": "Diamond-Casino-Heist - Einbruch: fortgeschrittene Technik",
         "outfitName": "Anf\u00fchrer",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 1,
@@ -21658,9 +21118,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 540,
+        "outfitCategory": "Diamond-Casino-Heist - Einbruch: moderne Technik",
         "outfitName": "Schattenhaft",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 1,
@@ -21696,9 +21155,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 541,
+        "outfitCategory": "Diamond-Casino-Heist - Einbruch: moderne Technik",
         "outfitName": "D\u00fcster",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 1,
@@ -21734,9 +21192,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 542,
+        "outfitCategory": "Diamond-Casino-Heist - Einbruch: moderne Technik",
         "outfitName": "Finster",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 1,
@@ -21772,9 +21229,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 543,
+        "outfitCategory": "Diamond-Casino-Heist - Einbruch: moderne Technik",
         "outfitName": "Obskur",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 1,
@@ -21810,9 +21266,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 544,
+        "outfitCategory": "Diamond-Casino-Heist - Einbruch: moderne Technik",
         "outfitName": "Verh\u00fcllend",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 1,
@@ -21848,9 +21303,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 545,
+        "outfitCategory": "Diamond-Casino-Heist - Einbruch: moderne Technik",
         "outfitName": "Diskret",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 1,
@@ -21886,9 +21340,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 546,
+        "outfitCategory": "Diamond-Casino-Heist - FIB",
         "outfitName": "Vermittler",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -21919,9 +21372,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 547,
+        "outfitCategory": "Diamond-Casino-Heist - FIB",
         "outfitName": "Unterh\u00e4ndler",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -21952,9 +21404,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 548,
+        "outfitCategory": "Diamond-Casino-Heist - FIB",
         "outfitName": "Unterst\u00fctzer",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -21991,9 +21442,8 @@
         ]
     },
     {
-        "OutfitIndex": 549,
+        "outfitCategory": "Diamond-Casino-Heist - FIB",
         "outfitName": "Schlichter",
-        "outfitCost": 50,
         "components": [
             {
                 "ComponentID": 3,
@@ -22030,9 +21480,8 @@
         ]
     },
     {
-        "OutfitIndex": 550,
+        "outfitCategory": "Diamond-Casino-Heist - Bestatter",
         "outfitName": "Omin\u00f6s",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -22079,9 +21528,8 @@
         ]
     },
     {
-        "OutfitIndex": 551,
+        "outfitCategory": "Diamond-Casino-Heist - M\u00fcllentsorgung",
         "outfitName": "Entsorger",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -22112,9 +21560,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 552,
+        "outfitCategory": "Diamond-Casino-Heist - M\u00fcllentsorgung",
         "outfitName": "Beseitiger",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -22145,9 +21592,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 553,
+        "outfitCategory": "Diamond-Casino-Heist - Wartung",
         "outfitName": "Flicker",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -22184,9 +21630,8 @@
         ]
     },
     {
-        "OutfitIndex": 554,
+        "outfitCategory": "Diamond-Casino-Heist - Wartung",
         "outfitName": "Mechaniker",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -22223,9 +21668,8 @@
         ]
     },
     {
-        "OutfitIndex": 555,
+        "outfitCategory": "Diamond-Casino-Heist - Wartung",
         "outfitName": "Schuldner",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -22256,9 +21700,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 556,
+        "outfitCategory": "Diamond-Casino-Heist - Wartung",
         "outfitName": "Verbesserer",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -22300,9 +21743,8 @@
         ]
     },
     {
-        "OutfitIndex": 557,
+        "outfitCategory": "Diamond-Casino-Heist - Wartung",
         "outfitName": "Handwerker",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -22339,9 +21781,8 @@
         ]
     },
     {
-        "OutfitIndex": 558,
+        "outfitCategory": "Diamond-Casino-Heist - Wartung",
         "outfitName": "Schwei\u00dfer",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -22372,9 +21813,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 559,
+        "outfitCategory": "Diamond-Casino-Heist - Young Ancestors",
         "outfitName": "Trendy",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -22421,9 +21861,8 @@
         ]
     },
     {
-        "OutfitIndex": 560,
+        "outfitCategory": "Diamond-Casino-Heist - Young Ancestors",
         "outfitName": "Angesagt",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -22475,9 +21914,8 @@
         ]
     },
     {
-        "OutfitIndex": 561,
+        "outfitCategory": "Diamond-Casino-Heist - Young Ancestors",
         "outfitName": "Individuell",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -22524,9 +21962,8 @@
         ]
     },
     {
-        "OutfitIndex": 562,
+        "outfitCategory": "Diamond-Casino-Heist - Young Ancestors",
         "outfitName": "Einmalig",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -22573,9 +22010,8 @@
         ]
     },
     {
-        "OutfitIndex": 563,
+        "outfitCategory": "Diamond-Casino-Heist - Gruppe Sechs",
         "outfitName": "Defensiv",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -22627,9 +22063,8 @@
         ]
     },
     {
-        "OutfitIndex": 564,
+        "outfitCategory": "Diamond-Casino-Heist - Gruppe Sechs",
         "outfitName": "Energisch",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -22681,9 +22116,8 @@
         ]
     },
     {
-        "OutfitIndex": 565,
+        "outfitCategory": "Diamond-Casino-Heist - Gruppe Sechs",
         "outfitName": "Unnachgiebig",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -22730,9 +22164,8 @@
         ]
     },
     {
-        "OutfitIndex": 566,
+        "outfitCategory": "Diamond-Casino-Heist - Gruppe Sechs",
         "outfitName": "Resistent",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -22784,9 +22217,8 @@
         ]
     },
     {
-        "OutfitIndex": 567,
+        "outfitCategory": "Diamond-Casino-Heist - Gruppe Sechs",
         "outfitName": "Unverw\u00fcstlich",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -22833,9 +22265,8 @@
         ]
     },
     {
-        "OutfitIndex": 568,
+        "outfitCategory": "Diamond-Casino-Heist - Gruppe Sechs",
         "outfitName": "Autorit\u00e4r",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -22882,9 +22313,8 @@
         ]
     },
     {
-        "OutfitIndex": 569,
+        "outfitCategory": "Diamond-Casino-Heist - Bugstars",
         "outfitName": "Entwanzer",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -22926,9 +22356,8 @@
         ]
     },
     {
-        "OutfitIndex": 570,
+        "outfitCategory": "Diamond-Casino-Heist - Bugstars",
         "outfitName": "Kammerj\u00e4ger",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -22969,9 +22398,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 571,
+        "outfitCategory": "Diamond-Casino-Heist - Bugstars",
         "outfitName": "Exterminator",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -23018,9 +22446,8 @@
         ]
     },
     {
-        "OutfitIndex": 572,
+        "outfitCategory": "Diamond-Casino-Heist - Bugstars",
         "outfitName": "Fallenleger",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -23067,9 +22494,8 @@
         ]
     },
     {
-        "OutfitIndex": 573,
+        "outfitCategory": "Diamond-Casino-Heist - Bugstars",
         "outfitName": "Einpacker",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -23111,9 +22537,8 @@
         ]
     },
     {
-        "OutfitIndex": 574,
+        "outfitCategory": "Diamond-Casino-Heist - Bugstars",
         "outfitName": "Vernichter",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -23154,9 +22579,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 575,
+        "outfitCategory": "Diamond-Casino-Heist - Feuerwehr",
         "outfitName": "K\u00fchn",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -23198,9 +22622,8 @@
         ]
     },
     {
-        "OutfitIndex": 576,
+        "outfitCategory": "Diamond-Casino-Heist - Feuerwehr",
         "outfitName": "Heldenhaft",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -23242,9 +22665,8 @@
         ]
     },
     {
-        "OutfitIndex": 577,
+        "outfitCategory": "Diamond-Casino-Heist - Feuerwehr",
         "outfitName": "Best\u00e4ndig",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -23286,9 +22708,8 @@
         ]
     },
     {
-        "OutfitIndex": 578,
+        "outfitCategory": "Diamond-Casino-Heist - Feuerwehr",
         "outfitName": "Unersch\u00fctterlich",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -23330,9 +22751,8 @@
         ]
     },
     {
-        "OutfitIndex": 579,
+        "outfitCategory": "Diamond-Casino-Heist - Balaklava",
         "outfitName": "Leisetreter",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -23368,9 +22788,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 580,
+        "outfitCategory": "Diamond-Casino-Heist - Balaklava",
         "outfitName": "Kriecher",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -23406,9 +22825,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 581,
+        "outfitCategory": "Diamond-Casino-Heist - Balaklava",
         "outfitName": "Tunichtgut",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -23450,9 +22868,8 @@
         ]
     },
     {
-        "OutfitIndex": 582,
+        "outfitCategory": "Diamond-Casino-Heist - Balaklava",
         "outfitName": "Dieb",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -23488,9 +22905,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 583,
+        "outfitCategory": "Diamond-Casino-Heist - Balaklava",
         "outfitName": "Langfinger",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -23526,9 +22942,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 584,
+        "outfitCategory": "Diamond-Casino-Heist - Balaklava",
         "outfitName": "Dr\u00fcckeberger",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -23564,9 +22979,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 585,
+        "outfitCategory": "Diamond-Casino-Heist - Klassisch",
         "outfitName": "Zwielichtig",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -23602,9 +23016,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 586,
+        "outfitCategory": "Diamond-Casino-Heist - Klassisch",
         "outfitName": "Hinterlistig",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -23635,9 +23048,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 587,
+        "outfitCategory": "Diamond-Casino-Heist - Klassisch",
         "outfitName": "Suspekt",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -23673,9 +23085,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 588,
+        "outfitCategory": "Diamond-Casino-Heist - Klassisch",
         "outfitName": "Verd\u00e4chtig",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -23711,9 +23122,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 589,
+        "outfitCategory": "Diamond-Casino-Heist - Klassisch",
         "outfitName": "Dubios",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -23749,9 +23159,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 590,
+        "outfitCategory": "Diamond-Casino-Heist - Klassisch",
         "outfitName": "Fragw\u00fcrdig",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -23787,9 +23196,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 591,
+        "outfitCategory": "Diamond-Casino-Heist - High End",
         "outfitName": "Passiv",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -23831,9 +23239,8 @@
         ]
     },
     {
-        "OutfitIndex": 592,
+        "outfitCategory": "Diamond-Casino-Heist - High End",
         "outfitName": "Gut getarnt",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -23875,9 +23282,8 @@
         ]
     },
     {
-        "OutfitIndex": 593,
+        "outfitCategory": "Diamond-Casino-Heist - High End",
         "outfitName": "Schlicht",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -23919,9 +23325,8 @@
         ]
     },
     {
-        "OutfitIndex": 594,
+        "outfitCategory": "Diamond-Casino-Heist - High End",
         "outfitName": "Routinem\u00e4\u00dfig",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -23963,9 +23368,8 @@
         ]
     },
     {
-        "OutfitIndex": 595,
+        "outfitCategory": "Diamond-Casino-Heist - High End",
         "outfitName": "L\u00e4ssig",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -24007,9 +23411,8 @@
         ]
     },
     {
-        "OutfitIndex": 596,
+        "outfitCategory": "Diamond-Casino-Heist - High End",
         "outfitName": "Ungezwungen",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -24051,9 +23454,8 @@
         ]
     },
     {
-        "OutfitIndex": 597,
+        "outfitCategory": "Diamond-Casino-Heist - Parkdienst",
         "outfitName": "Parkdienst",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -24089,9 +23491,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 598,
+        "outfitCategory": "Diamond-Casino-Heist - Gef\u00e4ngnisaufseher",
         "outfitName": "Unbewegt",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -24138,9 +23539,8 @@
         ]
     },
     {
-        "OutfitIndex": 599,
+        "outfitCategory": "Diamond-Casino-Heist - Gef\u00e4ngnisaufseher",
         "outfitName": "Akkurat",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -24182,9 +23582,8 @@
         ]
     },
     {
-        "OutfitIndex": 600,
+        "outfitCategory": "Diamond-Casino-Heist - Gef\u00e4ngnisaufseher",
         "outfitName": "N\u00fcchtern",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -24226,9 +23625,8 @@
         ]
     },
     {
-        "OutfitIndex": 601,
+        "outfitCategory": "Diamond-Casino-Heist - Gef\u00e4ngnisaufseher",
         "outfitName": "Karg",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -24275,58 +23673,8 @@
         ]
     },
     {
-        "OutfitIndex": 602,
-        "outfitName": "NULL",
-        "outfitCost": 99,
-        "components": [
-            {
-                "ComponentID": 1,
-                "DrawableID": 52,
-                "TextureID": 0
-            },
-            {
-                "ComponentID": 3,
-                "DrawableID": 18,
-                "TextureID": 0
-            },
-            {
-                "ComponentID": 4,
-                "DrawableID": 127,
-                "TextureID": 0
-            },
-            {
-                "ComponentID": 6,
-                "DrawableID": 24,
-                "TextureID": 0
-            },
-            {
-                "ComponentID": 8,
-                "DrawableID": 32,
-                "TextureID": 0
-            },
-            {
-                "ComponentID": 10,
-                "DrawableID": 79,
-                "TextureID": 1
-            },
-            {
-                "ComponentID": 11,
-                "DrawableID": 331,
-                "TextureID": 0
-            }
-        ],
-        "props": [
-            {
-                "PropID": 0,
-                "DrawableID": 140,
-                "TextureID": 0
-            }
-        ]
-    },
-    {
-        "OutfitIndex": 603,
+        "outfitCategory": "",
         "outfitName": "Weltrauminvasor",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -24362,9 +23710,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 604,
+        "outfitCategory": "",
         "outfitName": "Yacht-Kapit\u00e4n",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -24406,9 +23753,8 @@
         ]
     },
     {
-        "OutfitIndex": 605,
+        "outfitCategory": "The Cayo Perico Heist - Schmuggler",
         "outfitName": "Big Boss",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -24440,9 +23786,8 @@
         ]
     },
     {
-        "OutfitIndex": 606,
+        "outfitCategory": "The Cayo Perico Heist - Schmuggler",
         "outfitName": "Stadtaffe",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -24479,9 +23824,8 @@
         ]
     },
     {
-        "OutfitIndex": 607,
+        "outfitCategory": "The Cayo Perico Heist - Schmuggler",
         "outfitName": "Smart Casual",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -24512,9 +23856,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 608,
+        "outfitCategory": "The Cayo Perico Heist - Schmuggler",
         "outfitName": "Ersatz",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -24545,9 +23888,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 609,
+        "outfitCategory": "The Cayo Perico Heist - Stadtpanzerung",
         "outfitName": "Frischling",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -24578,9 +23920,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 610,
+        "outfitCategory": "The Cayo Perico Heist - Stadtpanzerung",
         "outfitName": "Schn\u00f6sel",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -24616,9 +23957,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 611,
+        "outfitCategory": "The Cayo Perico Heist - Stadtpanzerung",
         "outfitName": "Star",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -24649,9 +23989,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 612,
+        "outfitCategory": "The Cayo Perico Heist - Stadtpanzerung",
         "outfitName": "Vision\u00e4r",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -24687,9 +24026,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 613,
+        "outfitCategory": "The Cayo Perico Heist - Wildnispanzerung",
         "outfitName": "Naturkundler",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -24731,9 +24069,8 @@
         ]
     },
     {
-        "OutfitIndex": 614,
+        "outfitCategory": "The Cayo Perico Heist - Wildnispanzerung",
         "outfitName": "F\u00e4hrtensucher",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -24775,9 +24112,8 @@
         ]
     },
     {
-        "OutfitIndex": 615,
+        "outfitCategory": "The Cayo Perico Heist - Wildnispanzerung",
         "outfitName": "Koordinator",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -24819,9 +24155,8 @@
         ]
     },
     {
-        "OutfitIndex": 616,
+        "outfitCategory": "The Cayo Perico Heist - Wildnispanzerung",
         "outfitName": "Analyst",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -24863,9 +24198,8 @@
         ]
     },
     {
-        "OutfitIndex": 617,
+        "outfitCategory": "The Cayo Perico Heist - Locker",
         "outfitName": "Inselbewohner",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -24896,9 +24230,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 618,
+        "outfitCategory": "The Cayo Perico Heist - Locker",
         "outfitName": "Gestrandeter",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -24929,9 +24262,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 619,
+        "outfitCategory": "The Cayo Perico Heist - Locker",
         "outfitName": "Fanboy",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -24962,9 +24294,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 620,
+        "outfitCategory": "The Cayo Perico Heist - Locker",
         "outfitName": "Urlauber",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -24995,9 +24326,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 621,
+        "outfitCategory": "The Cayo Perico Heist - Guerilla",
         "outfitName": "Logiker",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -25034,9 +24364,8 @@
         ]
     },
     {
-        "OutfitIndex": 622,
+        "outfitCategory": "The Cayo Perico Heist - Guerilla",
         "outfitName": "Entfesslungsk\u00fcnstler",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -25073,9 +24402,8 @@
         ]
     },
     {
-        "OutfitIndex": 623,
+        "outfitCategory": "The Cayo Perico Heist - Guerilla",
         "outfitName": "Pugilist",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -25112,9 +24440,8 @@
         ]
     },
     {
-        "OutfitIndex": 624,
+        "outfitCategory": "The Cayo Perico Heist - Guerilla",
         "outfitName": "Agitator",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -25151,9 +24478,8 @@
         ]
     },
     {
-        "OutfitIndex": 625,
+        "outfitCategory": "The Cayo Perico Heist - Nachtkommando",
         "outfitName": "Geist",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -25189,9 +24515,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 626,
+        "outfitCategory": "The Cayo Perico Heist - Nachtkommando",
         "outfitName": "Schuldiger",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -25227,9 +24552,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 627,
+        "outfitCategory": "The Cayo Perico Heist - Nachtkommando",
         "outfitName": "Schn\u00fcffler",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -25265,9 +24589,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 628,
+        "outfitCategory": "The Cayo Perico Heist - Nachtkommando",
         "outfitName": "Deflektor",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 1,
@@ -25309,9 +24632,8 @@
         ]
     },
     {
-        "OutfitIndex": 629,
+        "outfitCategory": "The Cayo Perico Heist - Dschungeltarn",
         "outfitName": "Python",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -25342,9 +24664,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 630,
+        "outfitCategory": "The Cayo Perico Heist - Dschungeltarn",
         "outfitName": "Jaguar",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -25375,9 +24696,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 631,
+        "outfitCategory": "The Cayo Perico Heist - Dschungeltarn",
         "outfitName": "Kaiman",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
@@ -25408,9 +24728,8 @@
         "props": []
     },
     {
-        "OutfitIndex": 632,
+        "outfitCategory": "The Cayo Perico Heist - Dschungeltarn",
         "outfitName": "Anaconda",
-        "outfitCost": 99,
         "components": [
             {
                 "ComponentID": 3,
